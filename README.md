@@ -1,6 +1,7 @@
 # Trending Skills in IT: An Analysis of LinkedIn Job Postings
 
-This project collects job data from LinkedIn postings, extracts salary and skills information using Google Gemini, and performs an analysis.
+This project collects job data from LinkedIn postings, extracts salary and skills information using Google Gemini, and performs an analysis to uncover relations between skills and
+salaries.
 
 The article with the detailed study can be seen here: [Article Link - to be added]()
 
