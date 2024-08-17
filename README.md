@@ -2,7 +2,7 @@
 
 This project collects job data from LinkedIn postings, extracts salary and skills information using Google Gemini, and performs an analysis.
 
-The article with the detailed study can be seen here: [Article]()
+The article with the detailed study can be seen here: [Article Link - to be added]()
 
 - [X] Job data scraping: [Web scraping](1_job_scraper.ipynb)
 
