@@ -1,0 +1,5918 @@
+,mean_salary,count
+Quantitative Trading,500000.0,1
+Scientific Computing,500000.0,1
+Speech Recognition,500000.0,1
+Frontend frameworks,352500.0,1
+UI prototyping,352500.0,1
+Fullstack software,352500.0,1
+UPS Claims,341568.0,1
+Dashboard Management,341568.0,1
+Carrier Relationship Management,341568.0,1
+Claims Management,341568.0,1
+Claims SOP,341568.0,1
+Parcel Claims,341568.0,1
+Automated Freight Claims,341568.0,1
+Operational processes,329500.0,1
+Quantitative data,329500.0,1
+Commercial contracts,329500.0,1
+Negotiations,329500.0,1
+Performancedriven payment functions,329500.0,1
+Forward Deployed Engineer,327500.0,1
+Claude LLM,327500.0,1
+Platform Engineer,327500.0,1
+AI/LLMs,325000.0,1
+Memcache,325000.0,1
+Blockchain governance,325000.0,1
+Animation,300000.0,1
+Docusaurus,299500.0,1
+Buildkite,299500.0,1
+Multiplatform,299500.0,1
+SVGs,299500.0,1
+Micro Frontends,280000.0,1
+NoCode LowCode Solutions,280000.0,1
+EMR integrations,275000.0,1
+Modern Data Platforms,275000.0,1
+Clinical documentation,275000.0,1
+Client Web Services,266480.0,1
+API architectures,262850.0,1
+Stablecoin,259900.0,1
+Decentralized Systems,259900.0,1
+Network infrastructure security products,256700.0,1
+Xpanse,256700.0,1
+XSIAM,256700.0,1
+OOP languages,255000.0,1
+C++/C,250000.0,1
+Protobuf,250000.0,1
+Distributed Algorithms,250000.0,1
+Open source frameworks,249500.0,1
+Explainable AI,247500.0,1
+keras,247500.0,1
+FineTuned LLMs,247500.0,1
+GCP/AWS,247500.0,1
+ML Systems,247500.0,1
+Feature Engineering for Machine Learning,247500.0,1
+Graph Neural Networks,247500.0,1
+Distributed/Scalable Architecture,243500.0,1
+Message Queue,243500.0,1
+ML (Machine Learning),240000.0,1
+Move,240000.0,1
+Feature design,239335.5,1
+Iteration,239335.5,1
+Feature selection,239335.5,1
+Training data,239335.5,1
+Productionization,239335.5,1
+Statistical rigor,239335.5,1
+Biased / incomplete training data,239335.5,1
+Retrieval,238500.0,1
+Bidding,238500.0,1
+Graph Learning,238500.0,1
+Ads,238500.0,1
+Model Testing,236531.0,1
+Model Design,236531.0,1
+Payment Systems,235000.0,2
+Websocket,233750.0,2
+Cypress.io,233750.0,1
+DSPM/CSPM,230000.0,1
+Experimental design,230000.0,1
+Data Privacy/Protection,230000.0,1
+FullStack Engineering,230000.0,1
+Relational data,230000.0,1
+Mixed effects,230000.0,1
+Dimensional Data Modeling,230000.0,1
+Data Normalization,230000.0,1
+Snaplogic,230000.0,1
+OkHttp,229200.0,2
+GitHuB,228000.0,1
+Crypto Wallets,228000.0,1
+GCP Cloud Deployment Manager,228000.0,1
+Onprem,228000.0,1
+Zero Trust,228000.0,1
+Generative Modeling,225000.0,1
+Medical NLP,225000.0,1
+Model Parallelism,225000.0,1
+Debugging and Optimizing TPU/GPU models,225000.0,1
+Training ML models,225000.0,1
+Component Library,225000.0,1
+Evaluation techniques,225000.0,1
+Training on GKE,225000.0,1
+Conversation summarization,225000.0,1
+Netlify,225000.0,1
+Outcome prediction,225000.0,1
+Audio,225000.0,1
+Design System,225000.0,1
+Evidence extraction,225000.0,1
+Deep Learning Models,224000.0,1
+Developer Infrastructure,222500.0,1
+Software Development Cycle,222500.0,1
+Open Source Software Release,222500.0,1
+Software Release,222500.0,1
+GraphDB,222500.0,1
+Open Source Software,222500.0,1
+Cloud (SaaS PaaS IaaS),222038.3,1
+Rocket UniData,222038.3,1
+Unibasic,222038.3,1
+CometBFT,220000.0,1
+IBCgo,220000.0,1
+Enterprise Resource Planning (ERP),219000.0,1
+Tax,219000.0,1
+Billing,219000.0,1
+Deep Neural Networks,217500.0,3
+Software engineering fundamentals,217425.0,1
+Problemsolving ability,217425.0,1
+Modern frameworks,217425.0,1
+Code Development,214500.0,1
+Code Maintainability,214500.0,1
+Crossfunctional Collaboration,214500.0,1
+Software Distribution,214000.0,1
+Cloud Computing (AWS Azure GCP),214000.0,1
+IdP/Authentication,214000.0,1
+Cloudflare One,214000.0,1
+DDOS Mitigations,214000.0,1
+OTPS,214000.0,1
+Client OS Fundamentals,214000.0,1
+SDWAN Solutions,214000.0,1
+Secure Gateway Solutions,214000.0,1
+Remote Browser Isolation,214000.0,1
+DNS over HTTP,214000.0,1
+Testing library,212500.0,1
+styledcomponents,212500.0,1
+Management Reporting,212500.0,1
+GLMs,212500.0,1
+Time series modeling,212500.0,1
+ARs,212500.0,1
+Data Repository,212500.0,1
+Sales Engineer,212500.0,2
+GAMs,212500.0,1
+NVIDIA Infrastructure,212000.0,1
+RLHF,212000.0,1
+SFT,212000.0,3
+NVIDIA AI products (RAPIDS NEMO CuOpt Merlin AI Foundations),212000.0,1
+Reinforcement Learning Human Feedback,212000.0,2
+NEMO,212000.0,1
+Cloud AI,212000.0,1
+Docker/Containers,212000.0,1
+Transformers Models,212000.0,2
+sparksrapids,212000.0,1
+Merlin,212000.0,1
+Parameter Efficient Fine Tuning,212000.0,2
+CuOpt,212000.0,1
+AI Foundations,212000.0,1
+PEFT,212000.0,1
+SignalFx,210560.0,5
+MetaFlow,210000.0,1
+Cryptocurrencies,210000.0,3
+ServiceOriented Architectures,210000.0,1
+Product analytics,209300.0,1
+Uncertainty Estimation,209000.0,1
+Robustness Improvement,209000.0,1
+Web3 infrastructure,209000.0,1
+ESBuild,207500.0,2
+Styled Components,207500.0,2
+ML/DL frameworks,207500.0,1
+KubeFlow Pipelines,207500.0,1
+Graph data,207350.0,1
+OpenEye Toolkits,207350.0,1
+Sequence data,207350.0,1
+RDKit,207350.0,1
+Deepspeed,207350.0,1
+Structurebased data,207350.0,1
+Scaling,206400.0,1
+Service mesh,205000.0,1
+Caffe,205000.0,1
+Kubernetes controllers,205000.0,1
+Lifecycle marketing,203900.0,1
+Productled growth,203900.0,1
+Recommender systems,203900.0,1
+Peer Reviews,202500.0,1
+Recommendation,202500.0,1
+Personalization,202250.0,2
+Modeling and Simulation,201499.5,1
+CI/CD pipeline development,201499.5,1
+Payment processing,201150.0,1
+Financial technology,201150.0,1
+High quality,201000.0,1
+Cloud offerings,201000.0,1
+Data Privacy Protection,200500.0,1
+Cognitive Architecture,200500.0,1
+RAPIDS,200500.0,2
+ReAct,200500.0,1
+Multimodal Reasoning,200500.0,1
+Steerability,200500.0,1
+Enterprise Knowledge Graphs,200500.0,1
+VCP (VMWare Certified Professional),200000.0,1
+Cloud APM,200000.0,1
+P2P networks,200000.0,1
+Erasure codes,200000.0,1
+IaC SAST tools,200000.0,1
+Polynomial commitments,200000.0,1
+Signature schemes,200000.0,1
+Development Languages,200000.0,1
+Node Operations,200000.0,1
+Github Action,200000.0,1
+Public cloud services,200000.0,1
+Multithreaded computing,200000.0,1
+Azure PaaS products,200000.0,1
+Liquid Staking,200000.0,1
+Azure Operational and Monitoring tools,200000.0,1
+Parallel computing,200000.0,1
+Windows scripting,200000.0,1
+Linux scripting,200000.0,1
+Blockchain networks,200000.0,1
+Data infrastructure,200000.0,1
+Hash functions,200000.0,1
+OOPL (e.g. C#),200000.0,1
+Mentorship,200000.0,1
+Gruntworks Terraform,200000.0,1
+Realtime bidding,199641.0,1
+Legacy Customer Solutions,198000.0,1
+Chronosphere,198000.0,1
+Cloud Expertise,198000.0,1
+Kustomize,198000.0,1
+Flux CD,198000.0,1
+AWS Solution Architecture,198000.0,1
+Cloudbased Solutions,198000.0,1
+Apache Spark MLlib,197950.0,1
+ArgodCD,197300.0,1
+huggingface,197000.0,1
+Search Relevancy,197000.0,1
+MultiModal Analysis,197000.0,1
+HTTP REST API,196562.5,1
+OpenAPI specifications,196562.5,1
+Onchain,196312.5,1
+Blockchain Technologies,196312.5,1
+Testing frameworks,196312.5,1
+Onchain/Web3,196312.5,1
+Open Source SDKs,196312.5,1
+Smart Contract Development,196312.5,1
+Causal inference,195956.625,4
+Search,195525.0,4
+Dexterous manipulation,195000.0,1
+Grasping,195000.0,1
+Bimanual manipulation,195000.0,1
+Imitation learning,195000.0,1
+Simulation stacks,195000.0,1
+MacOS X,193925.0,1
+UNIX/Linux,193925.0,1
+PNSE,193925.0,1
+Incident Response Tools,193925.0,1
+SEC,193925.0,1
+Log Aggregation,193925.0,1
+Security Vulnerability Management,193925.0,1
+Network Forensics,193925.0,1
+Build Processes,193616.66666666666,3
+Crypto wallets,193500.0,1
+Diffusion Model,193050.0,1
+Weekend Verification,190800.0,1
+Mainframe Computing,190800.0,1
+Customer Success,190000.0,1
+Expertise in digital technologies,190000.0,1
+Partner Integrations,190000.0,2
+Digital Technologies,190000.0,1
+Engineering knowledge,190000.0,1
+Site Reliability Engineer,190000.0,1
+Enterprise Presales,190000.0,2
+Product knowledge,190000.0,1
+Pagerduty,190000.0,1
+UI automation/testing,188700.0,1
+VMWare vsphere,188700.0,1
+Unix/Linux OS,188700.0,1
+Bluetooth Low Energy,188600.0,1
+Assembly,188600.0,1
+cloud technologies,188500.0,1
+golang,188500.0,1
+Core MoneyMovement Infrastructure,188100.0,1
+Banking Systems,188100.0,1
+Order Management Systems (OMS),187500.0,1
+ICE,187500.0,1
+Pricing Reference,187500.0,1
+Portfolio Management Systems (PMS),187500.0,1
+Portfolio management,187500.0,1
+Order management,187500.0,1
+Static Data,187500.0,1
+Data Delivery Systems and Protocols,187500.0,1
+Backstage.io,187500.0,1
+Global Securities and Derivatives Markets,187500.0,1
+Realtime Price Feeds,187500.0,1
+ProcuretoPay,187500.0,1
+Market Data Business Analysis,187500.0,1
+Computer Networking,187500.0,1
+Listed and OTC Asset Classes,187500.0,1
+Corporate Actions,187500.0,1
+Microsfot Azure,187500.0,1
+Market data,187500.0,1
+Security Master,187500.0,1
+OrdertoCash,187500.0,1
+Data delivery,187500.0,1
+CRM/ERP,187500.0,2
+Symbology and Data Products,187500.0,1
+Tailscale,187500.0,1
+Development Specifications,187500.0,1
+Data services,187500.0,1
+HiretoRetire,187500.0,1
+GSheet (AppScript),187000.0,1
+CLevel Decision Making,187000.0,1
+Credit Analytics,187000.0,1
+Social Selling,185900.0,1
+Cold Emailing,185900.0,1
+Account Executive,185900.0,1
+Model Scalability,185520.0,1
+Model Operationalization,185520.0,1
+Model Tuning,185520.0,1
+Model Performance,185520.0,1
+CoreAnimation,185200.0,3
+UIKit,185200.0,3
+Snapshot tests,185200.0,3
+Integration tests,185200.0,3
+Cohesity,185000.0,1
+Public cloud infrastructure,185000.0,1
+vCloud Director,185000.0,1
+Integer programming,185000.0,1
+Nvidia UFM,185000.0,1
+Simulation models,185000.0,1
+Istio/Envoy,185000.0,1
+Dynamic programming,185000.0,1
+Kubernetes clusters,185000.0,1
+Documentation Writing,185000.0,1
+Database ER Diagram,185000.0,1
+Mixed Integer programming,185000.0,1
+vSAN,185000.0,1
+OnPremise Infrastructure,185000.0,1
+Public Clouds (AWS Azure GCP),184700.0,1
+Endpoints,184275.0,2
+pulumi,184000.0,1
+Microsoft .NET,183160.0,1
+Oracle Goldengate,182800.0,1
+Identity Service Engine  ISE,182800.0,1
+ASP.NET Web API,182760.0,4
+ContentSquare,182500.0,1
+Regulatory Data Science,182500.0,1
+FullStory,182500.0,1
+Google Analytics 4,182500.0,1
+Conditional Probability,182500.0,1
+Pandos,182500.0,1
+GrowthBook,182500.0,1
+Optimizely,182500.0,1
+Auth0,182500.0,1
+Funnel Analysis,182500.0,2
+Caching,182394.0,2
+Azure Service Architecture,182360.0,1
+Natural language processing,182007.0,7
+Finetuning,182000.0,1
+Retrieval Augmented Generation,182000.0,1
+Spark MLLib,180812.5,4
+ASIC,180790.0,1
+Cocos2dx,180000.0,1
+EDRs,180000.0,1
+Largescale distributed systems,180000.0,1
+Elastic Container Service,180000.0,1
+Applied cryptography,180000.0,1
+Unity3d,180000.0,1
+Flight dynamics,180000.0,1
+Code Generation,180000.0,1
+Agora io APIs,180000.0,1
+Realtime systems,180000.0,1
+Proxy configurations,180000.0,1
+Hybrid cloud architectures,180000.0,1
+Compilers,180000.0,1
+Electronic Health Records (EHR),180000.0,1
+Container technology,180000.0,1
+Firewall configurations,180000.0,1
+iPaaS,180000.0,3
+CSPMs,180000.0,1
+Agora.io SDK,180000.0,1
+C2 satellite operations systems,180000.0,1
+Messaging system,180000.0,1
+Unity3D,180000.0,1
+Electronic Medical Record (EMR) Software,180000.0,1
+Cocos2DX,180000.0,1
+Network communication,180000.0,1
+Cloud environment,180000.0,1
+TT&C,180000.0,1
+Clinical IT,180000.0,1
+AIpowered Developer Tools,180000.0,1
+Protocol buffers,178625.0,4
+Microsoft Project Server Administration,178400.0,1
+Microsoft SQL Server Administration,178400.0,1
+Microsoft SharePoint Designer,178400.0,1
+Build/Testing,177875.0,1
+Deploy,177875.0,1
+IDEs,177250.0,2
+Large Language Model,175100.0,1
+Bandit Algorithms,175100.0,1
+Recommendation System,175100.0,1
+US GAAP,175000.0,1
+iPaaS Integration tools,175000.0,1
+SAML integrations,175000.0,1
+SEC Reporting,175000.0,1
+Cloud Management Network Products,175000.0,1
+TPOT,175000.0,1
+feature flag frameworks,175000.0,1
+Compose,174450.0,2
+Mode,173293.75,8
+AWS APIGW,173180.0,1
+statsmodels,172500.0,1
+Sonar Cloud,172500.0,1
+Docker containers,172500.0,1
+Conversational UI,172500.0,1
+RC2,172309.0,1
+SiteMinder,172309.0,2
+ForgeRock,172309.0,5
+R3,172309.0,1
+SCIM,172309.0,5
+Site Minder,172309.0,3
+Plain ID,172309.0,5
+Open ID Connect (OIDC),172309.0,4
+Hierarchical Forecasting,172000.0,1
+CrossValidation,172000.0,1
+Cognex CVS,172000.0,1
+Backtesting,172000.0,1
+Software Development Best Practices,172000.0,1
+CloudBased Platforms,172000.0,1
+Preprocessing,172000.0,1
+tidyverse,171730.0,1
+Azurespecific data protection tools and services,171600.0,1
+Data lakes,171600.0,1
+Azure CloudTrail,171600.0,1
+Microsoft Identity Access Management,171600.0,1
+Data Protection solutions,171600.0,1
+Microsoft Information Protection,171600.0,1
+Configuration Management tooling,171350.0,1
+API specifications,171350.0,1
+Cloud Native Technologies,171350.0,1
+observability tools,171350.0,1
+Transportation Management,170784.0,2
+Recommendations,170550.0,2
+Machinelearning,170110.9,1
+COPPA,170000.0,1
+Rebate management/optimisation,170000.0,1
+Mail servers,170000.0,1
+ssh,170000.0,1
+Defender for Office 365,170000.0,1
+MDM tools,170000.0,2
+Java Enterprise,170000.0,1
+Test driven development,170000.0,1
+Google Firestore,170000.0,1
+Continuous Delivery Patterns,170000.0,1
+Application Migration,170000.0,1
+Process design,170000.0,2
+Litigation Hold,170000.0,1
+Cloud architectures,170000.0,1
+Rebate management,170000.0,1
+Entra Connect,170000.0,1
+Data & integration,170000.0,1
+Data technologies,170000.0,1
+FP&A tools,170000.0,2
+AWS preferred,170000.0,1
+Database servers,170000.0,1
+Distributed applications,170000.0,1
+FERPA,170000.0,1
+relational databases,168950.0,1
+caching,168950.0,1
+Web App Frontend,168000.0,1
+Clinical Operations,167918.4,1
+Work Instructions,167918.4,1
+NewRelic,167500.0,2
+Guice,167100.0,8
+COTS System Integration,166400.0,1
+Relational Database Migration,166400.0,1
+Relational Database Mapping,166400.0,1
+System Diagramming,166400.0,1
+Applied ML,166000.0,1
+NodeTS,165789.0,1
+HighCharts,165789.0,1
+Nomad,165550.0,2
+Jaeger,165328.57142857142,7
+Retention,165200.0,3
+Workforce Management,165000.0,1
+Chat platforms,165000.0,1
+Time series,165000.0,1
+Network flows,165000.0,1
+Corda,165000.0,3
+GANs,165000.0,1
+UI Integrations,165000.0,1
+Exploit Development,165000.0,1
+FIPS 140,165000.0,1
+Realtime computing/programming,165000.0,1
+Project Management Professional,165000.0,1
+Traces,165000.0,1
+NIAP,165000.0,1
+DoD Cybersecurity Compliance,165000.0,1
+Vulnerability Research,165000.0,1
+Algorand,165000.0,3
+Wave Relay®,165000.0,1
+Contact Center Infrastructure,165000.0,1
+Call Center infrastructure,165000.0,1
+3D computer vision,165000.0,1
+Cardano,165000.0,3
+Common Criteria,165000.0,1
+ChatBots,165000.0,1
+ElectroMagnetic Compatibility,165000.0,1
+CNSSI 1253,165000.0,1
+Red Teaming,165000.0,1
+Certified Cloud Security Professional,165000.0,1
+Network programming,165000.0,1
+Daml,165000.0,3
+MANET,165000.0,1
+Embedded Linux,165000.0,1
+Frontend web development,164675.0,1
+APIs (REST GraphQL),164675.0,1
+Claims Processing,164282.66666666666,3
+LCPO,163980.0,1
+Azure ML SDK,163900.0,1
+Cloud AI platforms,163900.0,1
+H2O.ai,163900.0,1
+ML modeling,163417.75,2
+SDKs,163156.25,2
+Metrics design,162800.0,1
+Incrementality testing,162800.0,2
+LTV,162800.0,2
+Funnels,162800.0,2
+Growth/marketing data,162800.0,1
+Data inconsistency diagnosis,162800.0,1
+Marketplace Experiments,162800.0,1
+Confluent Centralized Schema Registry,162600.0,1
+Snaplogic iPaaS,162600.0,1
+Ethers,162500.0,1
+Cloud Platforms (AWS GCP Azure),162500.0,1
+Wagmi,162500.0,1
+GraphQL API,162500.0,1
+vanillaextract,162500.0,1
+Viem,162500.0,2
+Incentives,162400.0,2
+Causal modeling,162000.0,1
+Statistical sampling,162000.0,1
+Optimization models,162000.0,1
+Time series analysis,162000.0,1
+RTOS,161800.0,2
+Operations Management,161750.0,1
+MPMLink,161200.0,1
+Windchill Business Reporting,161200.0,1
+Navigate,161200.0,1
+PDMLink,161200.0,1
+ThingWorx Foundation,161200.0,1
+ProjectLink,161200.0,1
+Saviynt,161200.0,1
+Blockchains,160950.0,1
+Sinatra,160800.0,3
+Apollo Client,160500.0,1
+E2E tests,160500.0,1
+TanStack Query,160500.0,1
+Typescript Node js,160100.0,1
+Core JavaScript,160000.0,2
+Fund Marketing,160000.0,1
+Lacework,160000.0,1
+CodeStar,160000.0,2
+Load balancer,160000.0,2
+Azure Config,160000.0,1
+Router configuration,160000.0,1
+SELinux,160000.0,1
+Packet drops,160000.0,1
+CodeCommit,160000.0,2
+* SnapLogic,160000.0,1
+Market data feeds,160000.0,1
+Nonprofit Law,160000.0,1
+AWS Database technologies,160000.0,2
+SysDig,160000.0,1
+Dynamic routing,160000.0,1
+Package managers,160000.0,1
+Azure Security Centre,160000.0,1
+Data and AI,160000.0,1
+AWS Glue/Athena/S3/Redshift,160000.0,2
+VPC/Network,160000.0,2
+Emerging Markets Investing,160000.0,1
+Scientific stack,160000.0,1
+Backbone.js,160000.0,1
+EOS,160000.0,1
+Hardware Hacking,160000.0,1
+Mechanistic modeling,160000.0,1
+Contract Review,160000.0,1
+Term Sheet Negotiation,160000.0,1
+* IaC,160000.0,1
+Network latency,160000.0,1
+Elastic Beanstack,160000.0,2
+TLS/SSL,160000.0,1
+Venture Capital,160000.0,1
+SQL Server databases,160000.0,2
+Geostatistics,160000.0,1
+OpenACC,160000.0,1
+Transactional Law,160000.0,1
+Funds Formation,160000.0,1
+SpringBatch,160000.0,2
+AWS ECS/EKS,160000.0,2
+* BitBucket,160000.0,1
+RESTful webservices,159775.0,1
+Software Programming,159200.0,2
+Retrofit,158900.0,1
+Molecule,158900.0,1
+KotlinPoet,158900.0,1
+SQLDelight,158900.0,1
+Wire,158900.0,1
+Paparazzi,158900.0,1
+Moshi,158900.0,1
+Picasso,158900.0,1
+Coroutines,158900.0,1
+Okio,158900.0,1
+Protein Design,158500.0,1
+Representation Learning,158500.0,1
+Language/Sequence Modeling,158500.0,1
+Poetry,158050.0,1
+Property Graphs,158050.0,1
+RDF triplestores,158050.0,1
+Fairseq,158050.0,1
+Spacy,158050.0,1
+Opensearch,158050.0,1
+Ontology Management,158050.0,1
+Genetics,157750.0,1
+KServe,157750.0,1
+CCISO,157500.0,1
+Business leaders,157200.0,1
+IT teams,157200.0,1
+Industry trends,157200.0,1
+Enterprise architecture strategies,157200.0,1
+Advanced Metering Infrastructure (AMI),157200.0,1
+Meters,157200.0,1
+Customercentric solutions,157200.0,1
+HeadEnd Systems,157200.0,1
+Project architecture reviews,157200.0,1
+External partners,157200.0,1
+Vendors,157200.0,1
+Technology portfolio management,157200.0,1
+Costeffectiveness,157200.0,1
+Functionality,157200.0,1
+Delivery,157200.0,1
+Resources,157200.0,1
+AMI vendors,157200.0,1
+Project execution,157200.0,1
+Customer Transformation,157200.0,1
+Technology Roadmaps,157200.0,1
+Emerging technologies,157200.0,1
+IT Investments,157200.0,1
+Best practices,157200.0,1
+IT strategy,157200.0,1
+Architects,157200.0,1
+Business resources,157200.0,1
+Project managers,157200.0,1
+System Integrators,157200.0,1
+Architecture standards,157200.0,1
+Project plans,157200.0,1
+Deliverables,157200.0,1
+Data wrangling,157049.0,1
+Statistical expertise,157049.0,1
+Statistical communications,157049.0,1
+Statistical operations,157049.0,1
+PostgresSQL,156917.94999999998,3
+N/Hibernate,156666.66666666666,3
+EJBs,156666.66666666666,3
+X/HTML5,156666.66666666666,3
+Digital Forensics Analysis,156650.0,1
+XSRF,156385.0,1
+SQLi,156385.0,1
+Memcached,156385.0,1
+Apache Maven,156385.0,1
+XMLi,156385.0,1
+Apache HTTP Server,156385.0,1
+Cloud Infrastructure Technologies,156000.0,1
+Data Modeling Tools,156000.0,1
+Healthcare information systems,156000.0,1
+Dimensional Data Models,156000.0,1
+Data Catalogs,156000.0,1
+Data Querying,156000.0,1
+Database Designing,156000.0,1
+Normalized Data Models,156000.0,1
+Multidimensional modeling,155500.0,1
+commercetools,155250.0,1
+Composable Storefront/Spartacus,155250.0,1
+CDNs,155250.0,1
+Smartedit,155250.0,1
+B2C,155250.0,1
+ML Ops,155192.66666666666,3
+Networking Protocols (OSI Layer 27),155000.0,1
+CoreNLP,155000.0,1
+Thanos,155000.0,1
+Alertmanager,155000.0,1
+Hugging Face's Transformers,155000.0,1
+Statistical learning,155000.0,1
+Scalable computing,155000.0,1
+Snorkel,155000.0,1
+Internetworking,155000.0,1
+Mathematical optimization,155000.0,1
+SolarWinds network tools,154550.0,1
+EX/QFX Series switches,154550.0,1
+MSTP,154550.0,1
+Cisco/Meraki Wireless,154550.0,1
+Cisco Nexus switches,154550.0,1
+MX Series routers,154550.0,1
+ISR/ASR routers,154550.0,1
+SVL,154550.0,1
+Netconf,154550.0,1
+STP (Spanning Tree Protocol),154550.0,1
+iPerf,154550.0,1
+databases,153945.0,2
+Source Control Management,153890.0,5
+ETL tools,153750.0,4
+Experimentation,153010.1,10
+SQL Querying,153000.0,1
+Data Warehouse Modeling,153000.0,1
+AWS Aurora MySQL,153000.0,1
+SR,153000.0,1
+NACLs,152984.0,1
+Scalr,152787.5,1
+UEBA,152750.0,1
+Analytical methods,152750.0,1
+HMM,152500.0,1
+Functional Programming,152500.0,1
+Natural Language Understanding,152500.0,1
+EFK Stack,152500.0,1
+Ggplot,152500.0,1
+Bayesian Network,152500.0,1
+Medical knowledge,152500.0,1
+Redis Caches,152500.0,1
+Graphical Theory + Inference,152500.0,1
+Databases (PostgreSQL MySQL),152500.0,1
+Markov Random Field,152500.0,1
+Cortex Xpanse,152000.0,3
+Metal,152000.0,1
+Cortex XSIAM,152000.0,3
+Vulkan,152000.0,1
+Marketing Mix Modeling,151560.0,1
+Advertising Measurement,151560.0,1
+Consumer Insights Research,151560.0,1
+Java Spring,151500.0,1
+KOTLIN,151400.0,1
+DevOps (Jenkins Ansible Artifactory Docker Kubernetes),151400.0,1
+KUBERNETES,151400.0,1
+Linux System Administration,151400.0,1
+SPRING BOOT,151400.0,1
+NEXT.JS,151400.0,1
+KAFKA,151400.0,1
+KendoUI (desired),150800.0,1
+Git version control (any version control tool),150800.0,1
+Java/J2EE (desired),150800.0,1
+SQL (desired),150800.0,1
+Agile best practices,150800.0,1
+Spring Concepts (desired),150800.0,1
+SDM Adoption / Horizon onboarding tools (desired),150800.0,1
+CFE,150300.0,1
+CGSS,150300.0,1
+CCAS,150300.0,1
+CAMS,150300.0,1
+Data management and analysis,150000.0,1
+hello world,150000.0,1
+Koa.js,150000.0,1
+Data annotation platforms,150000.0,1
+Company engagement,150000.0,1
+Sustainalytics,150000.0,1
+Azure Portal,150000.0,1
+ESG data providers,150000.0,1
+Stewardship reporting,150000.0,1
+Google Cloud products,150000.0,1
+AB experimentation,150000.0,1
+KDB,150000.0,3
+ESG analysis and integration,150000.0,1
+Serversent events,150000.0,1
+Docker Images,150000.0,1
+GRI,150000.0,1
+ISS,150000.0,1
+Udeploy,150000.0,1
+Highfrequency trading,150000.0,1
+Cloudfront,150000.0,1
+ESG frameworks (GRI SASB CDP TCFD MSCI Sustainalytics ISS),150000.0,1
+AI APIs,150000.0,1
+Microsoft Office Suite Excel Word PowerPoint Teams SharePoint,150000.0,1
+Sustainability research,150000.0,1
+Windows systems,150000.0,1
+Redhat,150000.0,1
+MSCI,150000.0,1
+Security monitoring,150000.0,1
+Terraform Cloud,150000.0,1
+thank you for this opportunity,150000.0,1
+Longpolling,150000.0,1
+Data collection and reporting,150000.0,1
+Cloud Platforms (AWS Azure GCP),150000.0,1
+Express.JS,150000.0,1
+Core Javascript,150000.0,1
+SASB,150000.0,1
+Proxy voting,150000.0,1
+Publicfacing chat products,150000.0,1
+Phoenix,150000.0,2
+Fastly,150000.0,1
+TCFD,150000.0,1
+NLP interpretation,150000.0,1
+Financial data analysis,150000.0,1
+Jetty,149750.0,2
+Vitess,149500.0,2
+Business Analysis Governance,148720.0,1
+Requirements Lifecycle Management,148720.0,1
+Access management,148669.66666666666,3
+Ansible Automation,148492.5,1
+Agile Development Methodology,148492.5,1
+Oracle Professional,148000.0,1
+AWS CSA,148000.0,1
+networking,147920.0,2
+B2B,147625.0,2
+data integration,147600.0,1
+| Software Development |,147550.0,1
+|||,147550.0,1
+| Communication |,147550.0,1
+Cloud Solution,147550.0,1
+Skill Software,147550.0,1
+| Data Management |,147550.0,1
+| Python |,147550.0,1
+| Machine Learning |,147550.0,1
+| Scalable Systems |,147550.0,1
+| Data Science |,147550.0,1
+| NLP |,147550.0,1
+Digital Transformation,147550.0,1
+CI/CD Tool,147500.0,1
+Haskell/Scala,147500.0,2
+Automated Deployment,147500.0,1
+Slang,147500.0,1
+Static Analysis,147500.0,1
+IBM Sterling OMS,147500.0,1
+BPMNs,147500.0,1
+HL Besu / Quorum / Public,147500.0,1
+IBM Sterling Commerce Distributed Order Management,147500.0,1
+Boto3,147424.0,3
+Java script,147424.0,1
+Crawlers,147424.0,1
+Deep Reinforcement Learning,147202.5,2
+CouchDB,147000.0,1
+GCP Cloud Databases,147000.0,1
+SaltStack,146397.7142857143,7
+Beam,146169.5,2
+Zuora CPQ,146150.0,1
+RevPro,146150.0,1
+Zuora Revenue,146150.0,1
+Zuora Billing,146150.0,1
+Prebid.js,146000.0,1
+yarn,146000.0,1
+webpack,146000.0,1
+babel,146000.0,1
+Sidekiq,146000.0,1
+CSS Modules,146000.0,1
+Java Applications,145500.0,1
+MS .NET,145250.0,1
+PCI Compliance,145000.0,1
+APM/monitoring tools,145000.0,1
+Dynatrace/Splunk,145000.0,1
+LLama2,145000.0,1
+Turnover,145000.0,1
+RPG,145000.0,1
+FINRACAT,145000.0,1
+ActiveDirectory,145000.0,1
+Machine Learning Operations,145000.0,1
+PyData,145000.0,1
+Azure Services,145000.0,1
+Payment Method Tokenization,145000.0,1
+PMIS,145000.0,1
+Network Automation,145000.0,1
+.Net framework,145000.0,1
+Triton Inference Server,145000.0,1
+Jax,145000.0,5
+NonLinear Models,145000.0,1
+Weights and Biases,145000.0,1
+AZ304,145000.0,1
+AZ303,145000.0,1
+RAG systems,145000.0,1
+Generalized Linear Models,145000.0,1
+DVC,145000.0,1
+Mixtral,145000.0,1
+MBeans,144950.0,1
+SOA integrations,144950.0,1
+Vert.x,144950.0,1
+Weblogic,144950.0,1
+Teradata Database,144950.0,1
+Regulatory Exam Management,144820.0,1
+AML Frameworks,144820.0,1
+Regulatory Change Management,144820.0,1
+Compliance Management,144820.0,1
+BSA/AML Compliance,144820.0,1
+MERLIN,144820.0,1
+CKA,144320.0,1
+HashiCorp Boundary,144320.0,1
+Bugsnag,144024.0,1
+IAC,144000.0,1
+HashiCorp Terraform,143620.25,2
+Project Reactor,143293.0,1
+Telematics,143293.0,1
+Spring Web Flux,143293.0,1
+BPEL,143293.0,1
+MicroServices,143293.0,1
+Telecommuting,143264.0,1
+Acceptance,143264.0,1
+SQL (Postgres),143200.0,1
+Azure Resource Manager (ARM),143200.0,1
+NoSQL (Mongo DB),143200.0,1
+Operations Research,142750.0,4
+ESB,142636.0,2
+Content Delivery Technologies (F5),142604.8,1
+Layer 2 Technologies,142604.8,1
+HighLevel Staff Management,142604.8,1
+Cisco Certified Network Professional,142604.8,1
+Data Networking Systems,142604.8,1
+Deductive Reasoning,142604.8,1
+DecisionMaking,142604.8,1
+Task Prioritization,142604.8,1
+Cisco Certified Internetworking Expert,142604.8,1
+Judgment,142604.8,1
+IT Systems Development,142604.8,1
+Documenting,142604.8,1
+ISO Markets,142604.8,1
+SelfStarting,142604.8,1
+Certified Information Systems Security Professional,142604.8,1
+Routing Protocols (OSPF EIGRP BGP),142604.8,1
+Server replication,142560.0,1
+Microsoft SharePoint Online,142500.0,1
+Cloud security vendors,142500.0,1
+Microsoft 365 GCC,142500.0,1
+Node.js/TypeScript,142500.0,1
+Spring Boot/Spring,142500.0,1
+SASTS/SCI,142500.0,1
+Log management,142500.0,1
+Decentralised Applications,142500.0,1
+Security gaps,142500.0,1
+Blockchain Protocols,142500.0,1
+Elasticstack,142500.0,1
+Security certifications (CISSP CISA CISM),142500.0,1
+Security SaaS applications,142500.0,1
+Deep Learning Algorithms,142500.0,1
+Juniper Junos,142500.0,1
+Web3 Libraries,142500.0,1
+XCUItest,142500.0,1
+Cocoapods,142500.0,1
+Least privilege,142500.0,1
+JavaScript (ES6/React),142500.0,1
+Mail relay,142500.0,1
+Palo Alto Panorama,142500.0,1
+@RISK,142500.0,1
+Security principles,142500.0,1
+Patent Prosecution,142500.0,1
+Relational DB,142500.0,1
+Cisco CDO,142500.0,1
+ARENA,142500.0,1
+Desired State Configuration (DSC),142500.0,1
+Network technologies,142500.0,1
+Update management,142500.0,1
+Defi Protocols,142500.0,1
+Python (Django),142500.0,2
+Cloudbased security tools,142500.0,1
+Project Management Methodology,142480.0,1
+Fit Gap Analysis,142480.0,1
+Software Integration,142480.0,1
+IT Lifecycle Governance,142480.0,1
+IT Standards and Concepts,142480.0,1
+Quality / Testing Methodologies,142480.0,1
+Identity management,142404.5,2
+AWS Architecture,141979.0,1
+Azure Architecture,141979.0,1
+Spark ML,141666.66666666666,3
+orchestrator,141500.0,1
+Cisco ASR Routers,140720.0,1
+Virtual LANs,140720.0,1
+Layer 3 Etherchannels,140720.0,1
+Cisco ISR Routers,140720.0,1
+L2TP/IPSec VPN,140720.0,1
+AAA Services,140720.0,1
+IR,140600.0,1
+XQL,140600.0,1
+MDR,140600.0,1
+Network Virtualization,140560.0,2
+Cisco IOSXE,140560.0,2
+Qlik Compose,140500.0,1
+DBT ETL,140500.0,1
+Database (PL/SQL),140440.0,1
+Ibgp,140400.0,1
+Financial Software,140400.0,1
+IP SLA,140400.0,1
+Windows file system,140400.0,2
+Layer 2/Layer 3 QoS,140400.0,1
+Windows registry,140400.0,2
+Commercial Card domains,140400.0,1
+multicast,140400.0,1
+802.1q,140400.0,1
+L3 Etherchannels,140400.0,1
+Windows kernel,140400.0,2
+Ipv6,140400.0,1
+ITIL Foundations Certification,140400.0,1
+MS clusters,140400.0,1
+OER,140400.0,1
+Trade Supply Chain Finance,140400.0,1
+Event Tracing for Windows (ETW),140400.0,2
+802.1d,140400.0,1
+Unified Computing System (UCS),140400.0,1
+Receivables,140400.0,1
+L2/L3 switches,140400.0,1
+Ebgp,140400.0,1
+Liquidity Management,140400.0,1
+Cisco ISR routers,140400.0,1
+Windows Event Logging,140400.0,2
+Vlans,140400.0,1
+Accounting Services,140400.0,1
+Vrf,140400.0,1
+Cisco ASR routers,140400.0,1
+load balancing,140400.0,1
+Cyber Security Controls,140000.0,1
+Oracle Application Server 12c,140000.0,1
+Workload management,140000.0,1
+Microsoft lifecycle,140000.0,1
+Windows Server/IIS,140000.0,1
+AVEVA PI,140000.0,1
+gRPC APIs,140000.0,1
+Microsoft Visual Studio,140000.0,1
+SIEMs,140000.0,2
+Postgre,140000.0,1
+Decentralized applications,140000.0,1
+Arista Switching,140000.0,1
+Data sets,140000.0,1
+Virtual Desktops,140000.0,1
+GE Proficy,140000.0,1
+Dependency management,140000.0,1
+CWE/SANS Top 25,140000.0,1
+Netwrix,140000.0,1
+IP21,140000.0,1
+Microsoft Windows 10 11,140000.0,1
+Azkaban,140000.0,1
+Cisco Routing Switching,140000.0,1
+Guardrails,140000.0,1
+Luigi,140000.0,1
+Graph Analytics,140000.0,1
+Frontend Architecture,140000.0,2
+Semantic Kernel,140000.0,1
+Microsoft Operating System,140000.0,1
+Oracle ERP EBS R12,140000.0,1
+WSH,140000.0,1
+Business Process Discovery,140000.0,1
+DeltaV,140000.0,1
+guidanceai,140000.0,1
+Data warehouse design,140000.0,1
+GraphRAG,140000.0,1
+VMWare vSphere,140000.0,1
+Lead Management,140000.0,1
+Prospecting,140000.0,1
+Cloud Security Matrix,140000.0,1
+Juniper R&S,140000.0,1
+Cloud Data Warehouses,140000.0,1
+Enterprise Systems,140000.0,1
+Wonderware,140000.0,1
+Cosmos ecosystem,140000.0,1
+Enterprise Security,140000.0,1
+Curriculum Development,139800.0,1
+Training Programs,139800.0,1
+Lab Development,139800.0,1
+System,139770.0,2
+Portal Applications,139360.0,1
+nexus,139360.0,1
+fortify,139360.0,1
+Fiddler,139200.0,2
+Dev/Ops,139200.0,2
+JBOSS,139200.0,2
+Oracle Interaction Hub,139152.0,1
+PeopleSoft Financials and Supply Chain Management (FSCM),139152.0,1
+Phire Architect,139152.0,1
+FreshWorks,139152.0,1
+Sherpa Budget Formulation & Management,139152.0,1
+PeopleSoft Human Capital Management (HCM),139152.0,1
+Linux RPMs,139144.0,1
+Apple .pkg,139144.0,1
+Security Practices,139144.0,1
+Microsoft Endpoint Configuration Manager,139144.0,1
+Apache Beam,138937.5,2
+Incident Postmortem,138560.0,1
+Incident Response Plan,138560.0,1
+Financial Security,138560.0,1
+Tabletop Incident Exercises,138560.0,1
+Flosum,138500.0,2
+Airwall,138496.0,1
+Mongo Aggregation Framework,138496.0,1
+Mongo Schema Design,138496.0,1
+DB Admin/SQL Server,138496.0,1
+GHA CI/CD,138496.0,1
+Moogsoft/xMatters,138496.0,1
+Ping Federate,138496.0,1
+ADO cloud,138496.0,1
+Composer,138460.21,2
+Triton,138000.0,3
+XSS,137992.5,2
+Gaussian Splatting,137500.0,1
+Canary,137500.0,1
+ICD 503,137500.0,1
+XCode,137500.0,1
+Depth Estimation,137500.0,1
+Multiple View Geometry,137500.0,1
+ARIA,137500.0,1
+Realtime Graphics Programming,137500.0,1
+Differentiable Rendering,137500.0,1
+Volume Rendering,137500.0,1
+CNCF,137500.0,1
+Bluegreen,137500.0,1
+Neural Radiance Fields,137500.0,1
+Networking Security,137000.0,2
+Native Cloud Computing,137000.0,2
+VxLAN/EVPN,137000.0,2
+CCIE R&S,137000.0,1
+IP Routing,137000.0,2
+CCIE Security,137000.0,1
+Technology Solutions,136832.0,1
+FDA Regulations,136832.0,1
+Wiki,136608.0,1
+Cloudbased Tools,136500.0,1
+Draw.io,136500.0,1
+Dataflow Diagrams,136500.0,1
+Infrastructure/Network Diagrams,136500.0,1
+Micro Services,136275.0,4
+AWS Connect,136140.0,2
+RSTP,136025.0,2
+SQL Query Optimization,136000.0,1
+Database Compliance,136000.0,1
+VSCode,135750.0,2
+CORS,135692.5,2
+QMS,135600.0,2
+schema design,135581.0,1
+Model serving,135550.0,1
+Statistical concepts,135550.0,1
+Attribution modeling,135550.0,1
+Behavior targeting,135550.0,1
+ML model development,135550.0,1
+Word Processing,135520.0,1
+Spreadsheet Software,135520.0,1
+Microsoft O365 Cloud Services,135500.0,1
+Cloud Engineering,135443.5,4
+Application servers,135366.75,2
+Alert/Event monitoring,135200.0,1
+Azure Active Directory Connect,135200.0,1
+CCDAK,135200.0,1
+SAP eWM,135200.0,1
+Cortex XSOAR,135060.0,5
+GNU Make,135000.0,1
+Text generation,135000.0,1
+GCC,135000.0,1
+BSA/AML Audits,135000.0,1
+Software development processes,135000.0,1
+Buildroot,135000.0,1
+ChromaDB,135000.0,1
+Transformer models,135000.0,1
+Milvus,135000.0,1
+Cypher Suites,135000.0,1
+CISA Certification,135000.0,1
+Windows Server Update Service,135000.0,1
+FFIEC/GLBA Guidelines,135000.0,1
+Microchip MPLAB,135000.0,1
+ROS 2,135000.0,1
+Search Console,135000.0,1
+Lending and Deposit Compliance Audits,135000.0,1
+NLU,135000.0,1
+GA4,135000.0,1
+TalkDesk,135000.0,1
+Intercom,135000.0,1
+Embedded communications protocols,135000.0,1
+ACH API,135000.0,1
+Embedded electronics test equipment,135000.0,1
+DoD STIGs,135000.0,1
+Software version control processes,135000.0,1
+IT Audits,135000.0,1
+Mural,135000.0,1
+Linux command line tools,135000.0,1
+ACH APIs,135000.0,1
+RiskBased Assessments,135000.0,1
+Linux shell scripting,135000.0,1
+PHI,135000.0,2
+C programming language,135000.0,1
+Social Engineering,135000.0,1
+Embedchain,135000.0,1
+Embedded development IDEs,135000.0,1
+Linux AutoUpdater,135000.0,1
+RestAPI,135000.0,1
+Yocto,135000.0,1
+Agile frameworks,134875.0,2
+OpenTofu,134640.0,1
+Fullstack Development,134600.0,2
+Regression algorithms,134453.0,1
+Model drift metrics,134453.0,1
+Model validation metrics,134453.0,1
+Neural Network frameworks,134453.0,1
+Binary classification algorithms,134453.0,1
+Cloud asset inventory strategies,134200.0,1
+Cloud native solutions,134200.0,1
+Cloud governance tools,134200.0,1
+Cloud security management,134200.0,1
+Cloudready enterprise solutions,134200.0,1
+Security DevOps,134200.0,1
+Tanzu Application Service (TAS),134200.0,1
+Research,134166.66666666666,3
+PAM,134039.33333333334,6
+Computer vision,133750.0,4
+Content Strategy,133500.0,1
+Editing,133500.0,1
+Spreadsheet,133500.0,2
+Content Production,133500.0,1
+Digital Asset Leverage,133500.0,1
+SAN platforms,132790.0,1
+SQL Server AlwaysOn Availability Group,132790.0,1
+IDERA,132790.0,1
+SQL Server Replication / Mirror,132790.0,1
+XP,132790.0,1
+.Net/.Net Core,132500.0,1
+fpML,132500.0,1
+Configurations,132500.0,1
+observability,132500.0,1
+Alert Writing,132500.0,1
+Security Alert Triage,132500.0,1
+OTC Derivatives,132500.0,1
+Murex,132500.0,1
+NoSQL DB,132500.0,2
+Alert Correlation,132500.0,1
+Security Alert Investigation,132500.0,1
+SIEM technologies,132500.0,1
+DarkTrace,132500.0,1
+Alert Detection,132500.0,1
+Alert Tuning,132500.0,1
+Envestnet,132000.0,1
+ACORD,132000.0,1
+DST Fanmail,132000.0,1
+SIMON,132000.0,1
+Causal inference analysis,132000.0,1
+DTCC,132000.0,1
+Causal Inference,131966.66666666666,9
+CDP,131666.66666666666,3
+bash scripting,131650.0,1
+Crossplane,131500.0,1
+UI/UX design,131336.66666666666,6
+Database Objects,131080.0,1
+Server Security,131080.0,1
+SQL Server Installation,131080.0,1
+Database Functions,131080.0,1
+Red Hat Satellite,131080.0,1
+Service Packs,131080.0,1
+Database Procedures,131080.0,1
+Database Triggers,131080.0,1
+Upgrading,131080.0,1
+LINUX (RHEL),131080.0,1
+NERC Reliability Authority,131000.0,1
+PSS/E,131000.0,1
+PowerWorld,131000.0,1
+electrochemistry,131000.0,1
+EMS,131000.0,1
+TSAT,131000.0,1
+PSLF,131000.0,1
+Spring Core,130930.0,2
+RTCP,130850.0,1
+WebRTC,130766.7,5
+Accessibility,130700.0,8
+python,130633.33333333333,3
+SIEM management,130600.0,1
+Clustering Algorithms,130600.0,1
+Clevel stakeholders,130034.0,1
+Health Plan/Payer organizations,130034.0,1
+Data management solutions,130034.0,1
+Healthcare data domain,130034.0,1
+ODS,130034.0,1
+Globally distributed team,130034.0,1
+Offshore team management,130034.0,1
+VPlevel stakeholders,130034.0,1
+CCMP,130000.0,1
+Risk Management Framework,130000.0,3
+FCP,130000.0,1
+Fortinet  FortiGates,130000.0,1
+NSE 4,130000.0,1
+Nintex,130000.0,1
+Cisco R S,130000.0,1
+High Availability (HA),130000.0,1
+Performance Tuning (PTO),130000.0,1
+Cisco ASA FTDs,130000.0,1
+QoS configuration,130000.0,1
+Loan Operations,130000.0,1
+VMWare NSX,130000.0,1
+Server architecture,130000.0,1
+Automotive,130000.0,1
+Kemp,130000.0,1
+Zenoti,130000.0,1
+OutsourcePrime,130000.0,1
+Network performance monitoring tools,130000.0,1
+High availability clustering,130000.0,1
+Industry 4.0,130000.0,1
+3DX Enovia,130000.0,1
+FortiNAC,130000.0,1
+Acumatica,130000.0,1
+ACP,130000.0,1
+Disaster Recovery (DR),130000.0,1
+WAN/LAN/VLAN,130000.0,1
+Access points,130000.0,1
+Appolo Clay,129878.4,1
+IEEE/IEC/ISO 29148:2018,129791.5,1
+Azure Bot Builder Framework SDK,129791.5,1
+Azure Bot Service,129791.5,1
+Azure Container Service,129791.5,1
+Vendor Implementations,129728.0,1
+Docker Compose,129666.66666666667,3
+Oracle SaaS Fusion Cloud,129500.0,1
+Oracle ERP,129500.0,1
+Rest Services,129166.66666666667,3
+Technical Consultation,128960.0,1
+Use Case Writing,128960.0,1
+Code Review,128816.66666666667,3
+Lambdas,128706.66666666667,3
+Restore,128500.0,1
+DB,128500.0,1
+NTEX,128500.0,1
+REST/GQL,128500.0,1
+BU,128500.0,1
+Freeswitch,128500.0,1
+Data encryption,128500.0,1
+Kubernetes/GKE,128500.0,1
+Cloud Foundry,128350.0,2
+MinIO,128000.0,1
+Safety Action Report (SAR),128000.0,1
+Safety Action Program (ASAP),128000.0,1
+Atlassian tool suite,128000.0,1
+Magnolia CMS,128000.0,1
+GitLab CI/CD pipelines,128000.0,1
+Agile development framework,128000.0,1
+Safety Management Systems,128000.0,1
+Fastly CDN,128000.0,1
+Agile software methodologies,128000.0,1
+Coding Standards,127616.66666666667,3
+Implementation,127533.16666666667,3
+The Graph,127500.0,1
+Dune Analytics,127500.0,1
+CSS/XHTML,127500.0,1
+Customer Consulting,127500.0,1
+Junos,127500.0,1
+Data flow designing,127500.0,1
+Strategic Guidance,127500.0,1
+Lowcode tools,127500.0,1
+Reactive Java,127500.0,2
+Azure Kubernetes,127500.0,2
+Web Scraping,127500.0,1
+Etherscan,127500.0,1
+Frontend development,127500.0,1
+Pipeline tools,127500.0,1
+Startup Environment,127500.0,1
+Global Protect,127500.0,1
+JSTL,127500.0,1
+Certification Programs,127500.0,1
+XMLRPC,127500.0,1
+US Security Clearance,127500.0,1
+J2ee,127500.0,1
+Container Management & Configuration,127500.0,1
+Client Consulting,127500.0,1
+Bubble.io,127500.0,1
+API services,127500.0,1
+Tiles,127500.0,1
+Redhat Enterprise Linux,127205.0,2
+Oracle/SQL Server,127040.0,1
+RedHat RHEL 8.x,127040.0,1
+Physical Servers,127040.0,1
+Internet of Things,127000.0,1
+3D Printing,127000.0,1
+IntelliJIDEA,126500.0,1
+Sisense,126339.0,1
+Mesos,125525.0,2
+XSL,125450.0,1
+Blob,125450.0,1
+Reverse proxies,125450.0,1
+SSL certificates,125450.0,1
+Python/PyTorch,125000.0,1
+Salesforce APIs,125000.0,1
+Consensus Mechanisms,125000.0,2
+Rapid 7,125000.0,1
+Microsoft Cert Services,125000.0,1
+Data pipeline,125000.0,1
+Big Data Concepts,125000.0,1
+REST API development,125000.0,1
+Ethers.js,125000.0,1
+Varonis,125000.0,1
+SOAP web services,125000.0,1
+Model N Flex UI,125000.0,1
+VSOC,125000.0,1
+Signal Processing,125000.0,4
+Model N API,125000.0,1
+MEV,125000.0,1
+Salesforce Lightning Web Components,125000.0,1
+Web3.js,125000.0,1
+Arctic Wolf,125000.0,1
+AWS technologies,125000.0,1
+Data Security/Governance,125000.0,1
+Distributed computing,124933.33333333333,3
+Jinja macros,124800.0,1
+Data engineering fundamentals,124800.0,1
+MS Azure DevOps,124800.0,1
+ADA,124800.0,1
+Code peer reviews,124800.0,1
+Lineage,124800.0,1
+Latency,124800.0,1
+Distributed storage,124800.0,1
+Prisma access,124800.0,1
+Spring or Guice,124800.0,1
+Software production engineering practices,124800.0,1
+Technical Report Writing,124800.0,1
+Generative models,124750.0,2
+Siebel,124534.0,1
+EIM,124534.0,1
+VBC,124534.0,1
+Crowdin,124500.0,1
+XTM,124500.0,1
+Genesys,124500.0,2
+VisualStudio,124120.0,1
+vue.js,124120.0,1
+Cloud PBX,124006.4,1
+Azure Administrator Associate (AZ104),124006.4,1
+Microsoft 365/Entra ID,124006.4,1
+Cloud Conference Calling,124006.4,1
+microservices,123881.8,5
+sklearn,123750.0,2
+Vyper,123750.0,4
+xgboost,123750.0,2
+Event driven architecture,123750.0,2
+Unit tests,123728.57142857143,7
+Model Evaluation,123631.375,8
+Distribute,123547.2,1
+UKG/Kronos,123500.0,1
+Click Up,123500.0,1
+Online Communication Tools,123500.0,1
+OpTime,123500.0,1
+Agile Fundamentals,123500.0,1
+Anesthesia,123500.0,1
+Basic Project Management,123500.0,1
+Constrained Optimization,123400.0,1
+Logic Programming,123400.0,1
+Retail planning,123200.0,1
+Experience with Microsoft suite of software,123100.0,1
+Ping Identity,123077.85714285714,7
+GPT4,122857.14285714286,7
+Copyright Law,122720.0,1
+Music Licensing,122720.0,1
+Spring JPA,122500.0,1
+Security policy creation,122500.0,1
+IntelliJ,122500.0,1
+MyBatis,122500.0,1
+Decentralized protocols,122500.0,1
+Spring Batch,122500.0,2
+Decentralized finance (DeFi) protocols,122500.0,1
+Juniper switches,122500.0,1
+Common services,122500.0,1
+Recommender Systems,122500.0,1
+HPE Aruba switches,122500.0,1
+Exploit analysis tools,122500.0,1
+Eventhub,122500.0,1
+Application security patching,122500.0,1
+Knowledge of vulnerability management process,122500.0,1
+Web3 technologies,122500.0,1
+Wireless solutions,122500.0,1
+Security Frameworks: NIST ISO/IEC 27001 PCIDSS,122500.0,1
+Network security tools management,122500.0,1
+OS patching,122500.0,1
+AzureSql,122500.0,1
+Panorama Administration,122500.0,1
+Web3 libraries (Web3.js ethers.js etc.),122500.0,1
+Security policy implementation,122500.0,1
+Security policy auditing,122500.0,1
+Spring JMS,122500.0,1
+Blockchain consensus algorithms,122500.0,1
+Cloud security patching,122500.0,1
+Common protocols,122500.0,1
+Network security concepts,122500.0,1
+Spring Data JPA,122500.0,1
+IBatis,122500.0,1
+Token standards (ERC20 ERC721 etc.),122500.0,1
+Spring Executor,122500.0,1
+Javamicroservices,122500.0,1
+Maria,122500.0,1
+Automated testing frameworks,122500.0,1
+Cloud Foundry (PCF),122500.0,1
+Software Delivery Lifecycle,122500.0,1
+NO SQL,122500.0,1
+Gamingspecific smart contract standards and protocols,122500.0,1
+Newrelic,122500.0,1
+Decentralized application architectures,122500.0,1
+PLS/SQL,122500.0,1
+Protocol Buffers,122062.5,8
+* PowerShell,122000.0,1
+* Play Framework,122000.0,1
+* Distributed Systems,122000.0,1
+SNOMED CT,121718.75,2
+Cohort Analysis,121666.66666666667,3
+Data analytics,121649.88888888889,9
+Recommendation Systems,121387.5,8
+HuggingFace,121325.0,4
+Human physiology,121250.0,1
+Load balancer configuration,120900.0,1
+Network switch configuration,120900.0,1
+Azure Data Explorer,120704.0,4
+Bayesian Analysis,120650.0,1
+symplyr,120600.0,1
+Ultipro,120600.0,1
+HRIP,120600.0,1
+Kong,120535.0,4
+Incentive Compensation Management System,120400.0,1
+Anaplan Certified Model Builder,120400.0,1
+Anaplan Model III,120400.0,1
+Troubleshooting/Testing,120400.0,1
+Toshiba ACE,120250.0,1
+Objectoriented design,120250.0,2
+Toshiba 4690 OS,120250.0,1
+Point of Sale technologies,120250.0,1
+Continuous Integration/Delivery (CI/CD),120160.0,1
+SOA/Web services (REST),120160.0,1
+SOA/web services (REST),120140.0,2
+ML Flow,120128.0,1
+AWS SageMaker Studio,120128.0,1
+Amazon web services,120120.0,1
+Express Framework,120010.0,4
+SANs,120000.0,2
+Infrastructureascode,120000.0,1
+Physics,120000.0,1
+APM/RUM,120000.0,1
+GitHub workflows,120000.0,2
+AWS Ste Functions,120000.0,1
+NoSQL/Graph databases,120000.0,1
+Data testing,120000.0,1
+Fortimanager,120000.0,1
+Data query optimization,120000.0,1
+Logging & Monitoring,120000.0,1
+Snowflake Data Warehouse,120000.0,1
+web3.js,120000.0,1
+Tablau,120000.0,1
+ReactNative,120000.0,3
+Microsoft Azure Data Scientist Associate (DP100) Professional Certificate,120000.0,1
+NEAR,120000.0,1
+Hyperparameter Tuning,120000.0,1
+Serverless platforms,120000.0,1
+Truffle,120000.0,1
+Data Warehouse Reports,120000.0,1
+Ethereum tools,120000.0,1
+Continuous Integration / Delivery (CI/CD),119960.0,3
+Customer Experience,119800.0,2
+Alert,119600.0,1
+SQL Injection,119600.0,1
+IT and Business Risk and Controls,119600.0,1
+Statistical and Analytical Skills,119600.0,1
+Cloud Provider,119600.0,1
+Realtime Communication,119600.0,1
+Visual Designs,119600.0,1
+SOA/Web Services (REST),119600.0,1
+OOPS,119600.0,1
+Web Application Design,119600.0,1
+Distributed Teams,119600.0,1
+FAIR Certification,119600.0,1
+UX/Wireframes,119600.0,1
+SES,119327.25,4
+Embeddings,119250.0,2
+Ranking,119250.0,2
+Oracle Applications,119200.0,1
+Oracle Identity Management,119200.0,1
+Oracle Databases,119200.0,1
+Oracle Access Management,119200.0,1
+Kotlin,118758.59255319148,47
+Crossfunctional Team,118700.0,1
+Product Design,118700.0,1
+Consumer Electronics,118700.0,1
+Model Training,118265.5,2
+Model Development,118265.5,2
+Robotic Process Automation (RPA),118183.33333333333,3
+Graphql,118150.0,2
+RPVST,117500.0,1
+Dbt Cloud,117500.0,1
+MultiValue BASIC Languages,117500.0,1
+StackWise,117500.0,1
+SB+,117500.0,1
+Network Flow Analysis,117500.0,1
+Concepts of Operation,117500.0,1
+Tosca,117500.0,1
+Bagging,117500.0,1
+PVST,117500.0,1
+Cloudbased database platforms,117500.0,1
+NIST frameworks,117500.0,1
+Cloud Database Platforms,117500.0,1
+Database backup and recovery,117500.0,1
+DV2.0,117500.0,1
+GoogleAI,117500.0,1
+Hadoop/Spark,117500.0,1
+Wan,117500.0,1
+4GL,117500.0,1
+Cisco Catalyst 9000 Series,117500.0,1
+STPv2,117500.0,1
+Agile/SCRUM,117500.0,1
+Pipeline Building,117500.0,1
+UniData BASIC,117500.0,1
+Sentry,117500.0,4
+PhotoShop,117160.0,1
+Agile PLC,117000.0,1
+PMI Certifications,117000.0,1
+Microsoft Developer Certifications,117000.0,1
+SAFe Certifications,117000.0,1
+problemsolving,117000.0,1
+Oracle Developer Certifications,117000.0,1
+Scrum Alliance Certifications,117000.0,1
+Java/C#,117000.0,1
+Data integration,117000.0,4
+Payments,116980.0,5
+Prefect,116883.33333333333,15
+Linux/Windows,116750.0,1
+Team Automation,116750.0,1
+Cloud Providers and Technologies,116750.0,1
+NAnt,116750.0,1
+SonarCloud,116750.0,1
+Graphana,116750.0,1
+Openshift Container Platform,116750.0,1
+Whitehat,116750.0,1
+Solana,116590.90909090909,11
+DataDog,116518.0,16
+Server less,116360.0,1
+Netskope SWG,116300.0,1
+ASA/Firepower,116300.0,1
+Bricata IDS,116300.0,1
+LabWindows/CVI,116250.0,1
+Real Time Operating System,116250.0,1
+Multithreaded programming,116250.0,1
+SFDX,115720.42,1
+Datastream,115720.42,1
+Front Door,115597.0,1
+Azure cloud resources,115597.0,1
+Virtual Network,115597.0,1
+AppInsights,115597.0,1
+Application Gateways,115597.0,1
+Azure DNS,115597.0,1
+Boomi platform,115452.0,1
+RedHat Linux,115250.0,2
+lnformix,115000.0,1
+AWS Code Build,115000.0,1
+Oracle Platforms,115000.0,1
+DSPM,115000.0,2
+Data Vault,115000.0,2
+Business Applications,115000.0,1
+Dart,115000.0,1
+SOA/REST,115000.0,1
+Zero Trust Architecture,115000.0,1
+Post Gres,115000.0,1
+Jstl,115000.0,1
+ChromeRiver,115000.0,1
+Elemental,115000.0,1
+Opensource Database platforms,115000.0,1
+PgBouncer,115000.0,1
+Endpoint Detection,115000.0,1
+TLS/HTTPS,115000.0,1
+Postgres database,115000.0,1
+Software Solutions,115000.0,1
+Troubleshooting Procedures,115000.0,1
+Multifactor Authentication,115000.0,1
+Elite 3E,115000.0,1
+Xcelerate,115000.0,1
+OctoDeploy,115000.0,1
+PCoIP,115000.0,1
+Visual Studios Data Tools,115000.0,1
+GitBash,115000.0,1
+PgPool,115000.0,1
+UTM,115000.0,1
+Computer Systems Analysis,115000.0,1
+Knowledge Transfer Sessions,115000.0,1
+System Requirements Development,115000.0,1
+EDB,115000.0,1
+Team City,115000.0,1
+System Architecture Design,115000.0,1
+Influence,114888.79999999999,2
+IGMP,114800.0,2
+API endpoint integration,114600.0,1
+Cloud Computing (AWS),114450.0,2
+Unix Administration,114400.0,1
+Content Management Security,114400.0,1
+OnBase Administration,114400.0,1
+OnBase Workflow,114400.0,1
+Sanctions,114250.0,1
+Sanctions Compliance,114250.0,1
+AML,114250.0,1
+Sanctions Screening,114250.0,1
+OFAC,114250.0,1
+Economic Sanctions,114250.0,1
+LightGBM,114200.0,5
+Optimism,114000.0,2
+Security Operations Center,114000.0,2
+SparkML,114000.0,2
+Workday HRIS,113750.0,1
+ObjectiveC,113512.5,8
+Quantum Physics,113400.0,1
+Pylint,113000.0,1
+EDR Endpoint Detection and Response,112720.0,1
+Golang,112553.86046511628,43
+Cortex XDR,112550.0,6
+Container computing,112500.0,1
+Solimar Systems,112500.0,1
+GreyLog,112500.0,1
+Communication security,112500.0,1
+Data Pipelining,112500.0,1
+HIPAA Security Rule,112500.0,1
+Rshiny,112500.0,1
+Cloud Design,112500.0,1
+Exploratory Mathematics,112500.0,1
+Vulnerability scanners,112500.0,1
+Pallas,112500.0,2
+XMPie,112500.0,1
+Git Operations,112500.0,1
+AZ104,112500.0,2
+Text Mining and Processing,112500.0,1
+CloudBased Data Management,112500.0,1
+Data Processing and Modeling,112500.0,1
+Natural Language Programming,112500.0,1
+AZ500,112500.0,2
+Software security,112500.0,1
+Apollo server,112500.0,1
+Cloud Optimization,112500.0,1
+Infrastructure as code,112200.0,3
+Accounting/Finance,112050.0,1
+Systems design,111875.0,1
+NIPS,111850.0,1
+security event correlation tools,111850.0,1
+FireEye HX,111850.0,1
+monitoring solutions,111850.0,1
+antimalware,111850.0,1
+cloud service models,111850.0,1
+CarbonBlack,111850.0,1
+UX UI,111833.33333333333,6
+* RESTful API,111547.5,1
+* JIRA,111547.5,1
+* MS Visio,111547.5,1
+* Agile,111547.5,1
+* Confluence,111547.5,1
+* SOAP UI,111547.5,1
+BI Tools,111500.0,1
+TensorRT,111333.33333333333,3
+Collaborative Filtering,111250.0,1
+ContentBased,111250.0,1
+Text Analytics,111250.0,1
+Recommendation Algorithms,111250.0,1
+Spring Security,111211.66666666667,9
+FDA regulations,110809.0,1
+Veeva Vault Platform,110809.0,1
+GCP/ICH guidelines,110809.0,1
+Weapons Systems,110648.5,1
+Mission Planning,110648.5,1
+Smartsheets,110546.92749999999,2
+Graphite,110500.0,1
+Cruisecontrol,110500.0,1
+NET+,110350.0,1
+antivirus,110350.0,1
+vbscript,110350.0,1
+Blockchain Technology,110250.0,4
+Autoscaling,110250.0,1
+Reliability,110156.0,5
+Oracle Apex,110150.0,1
+MVC architecture,110150.0,1
+Container orchestration systems,110150.0,1
+Agile (Scrum Kanban),110150.0,1
+Observability tools,110150.0,1
+Modularization,110150.0,1
+SQLite,110075.0,8
+Microservice Architectures,110000.0,1
+Oracle Cloud (OCI),110000.0,1
+AWS Core Services (EC2 Security Groups S3 IAM),110000.0,1
+BMS,110000.0,1
+ZeOmega,110000.0,1
+SEMrush,110000.0,1
+Pixel Analytics,110000.0,1
+VMware Virtualization,110000.0,1
+B.S.,110000.0,1
+API Implementations,110000.0,1
+Backlog Management,110000.0,1
+Google Looker,110000.0,1
+UNIX Operating System,110000.0,1
+Guidewire InsuranceSuite,110000.0,1
+Jiva,110000.0,1
+OaC,110000.0,1
+Software Integrations,110000.0,1
+Linux Server RHEL CentOS Ubuntu,110000.0,1
+Minio,110000.0,1
+Security Analytics,110000.0,1
+Sympy,110000.0,1
+Distributed File System,110000.0,1
+Monitoring Tools (LogicMonitor Nagios Zabbix),110000.0,1
+Microsoft BI,110000.0,1
+Healthcare Regulatory Requirements,110000.0,1
+Enterprise Gateway,110000.0,1
+MID Server,109920.0,1
+Predictive Intelligence,109920.0,1
+Virtual Agent,109920.0,1
+Discovery,109920.0,1
+ITOM Discovery,109920.0,1
+Performance Analytics,109920.0,1
+ITOM,109920.0,1
+Mobile app,109920.0,1
+ATF,109920.0,1
+Agent Workspace,109920.0,1
+Strategy,109833.33333333333,3
+Foreign Exchange Trade,109760.0,1
+FWA,109650.0,1
+Design Architecture,109541.32,1
+ServiceNow ITSM,109541.32,1
+.NET framework,109512.0,1
+.NET CORE,109512.0,1
+Legacy,109500.0,2
+MDX,109416.66666666667,6
+Econometrics,109224.625,8
+ArgoCd,109200.0,1
+Android development (Plus),109200.0,1
+CI/CD pipelines (Plus),109200.0,1
+PostgreSql,109200.0,1
+ArgoWorkflow,109200.0,1
+Micro Frontends (MFE),109200.0,1
+Monte Carlo Simulation,109000.0,1
+JAMA,109000.0,1
+Spark/PySpark,109000.0,1
+Quality Management Systems (QMS),109000.0,1
+Regulatory Intelligence,109000.0,1
+Mitigation Planning,109000.0,1
+Time Series Modeling,109000.0,1
+Cognition Cockpit,109000.0,1
+Requirement,108900.0,1
+IT Software Application Development Group,108900.0,1
+Patch,108900.0,1
+Upgrade,108900.0,1
+Extension,108900.0,1
+System Upgrade,108900.0,1
+Custom Development,108900.0,1
+Bug Fix,108900.0,1
+Business Systems User,108900.0,1
+Junior Staff,108900.0,1
+GLM,108750.0,4
+Healthcare billing,108732.5,1
+Healthcare claims,108732.5,1
+Data programming,108732.5,1
+Bourne,108320.0,1
+Korn Shell,108320.0,1
+BI Reporting,108040.0,1
+Git/github,107998.0,1
+Entity Resolution,107998.0,1
+Container Computing,107998.0,1
+Social Network Analysis,107998.0,1
+Bokeh,107749.0,2
+Report Builder,107500.0,1
+Web Services Security,107500.0,1
+YOLO,107500.0,2
+Azure ADLS Gen2,107500.0,1
+Entity Framework (EF),107500.0,1
+Installshield,107500.0,1
+Database monitoring tools,107500.0,1
+Summit,107500.0,1
+Quest Performance Analysis,107500.0,1
+Java/J2EE/Spring,107500.0,1
+Microsoft Business Intelligence stack (SSRS SSAS SSIS),107500.0,1
+Amazon Lex,107280.0,1
+data privacy,107280.0,1
+IVA/IVR,107280.0,1
+IAM Roles,107250.0,2
+Technical Sales,107000.0,2
+Remote Access Solutions,107000.0,2
+Secure Web Gateway,107000.0,2
+Zero Trust Networking,107000.0,2
+SentryOne,106900.0,1
+SnapManager for SQL,106900.0,1
+SQL Server 20122023,106900.0,1
+Netapp Snapshots,106900.0,1
+Cloud Architectures,106666.66666666667,3
+Possess practical communication skills to interact with stakeholders team members and vendors and collaborate on security initiatives incident response efforts and knowledge sharing,106540.0,1
+Strong analytical and problemsolving skills and ability to troubleshoot and resolve complex issues,106540.0,1
+AWS/Azure,106540.0,1
+Understanding and familiarity with Operating Systems (Unix Linux Windows) Network devices and databases (SQL Oracle etc.),106540.0,1
+Strong technical skills in defining and enforcing access control policies least privilege principles and rolebased access controls (RBAC) within the CyberArk EPM solution,106540.0,1
+Familiarity with programming language preferably Python and PowerShell script Bash,106540.0,1
+Knowledge of EPM policies configurations and deployment,106540.0,1
+Proficient in management and securing various operating systems including Windows Linux and Unixbased systems,106540.0,1
+Strong technical skills with installation integration and deployment of CyberArk Endpoint Privilege Management agent,106540.0,1
+Understanding of application control and privilege management,106540.0,1
+CyberArk Endpoint Privilege Manager,106540.0,1
+Strong organizational and time management skills,106540.0,1
+Excellent written and verbal communication skills and ability to explain technical concepts to nontechnical stakeholders,106540.0,1
+Least privilege policies,106540.0,1
+Expertise in creating managing and enforcing least privilege policies,106540.0,1
+Possess strong troubleshooting skills to diagnose and resolve issues related to CyberArk EPM deployment configuration and integration with endpoint environments,106540.0,1
+Software distribution tool,106540.0,1
+Loosely Connection Device,106540.0,1
+IAM endpoint management,106540.0,1
+A strong understanding of security concepts including protection detection and response (EDR) and endpoint compliance,106540.0,1
+CyberArk EPM,106540.0,1
+Proficient in Loosely Connection Device onboarding and troubleshooting connection and password rotation issues,106540.0,1
+Ability to design deploy and manage CyberArk EPM solutions,106540.0,1
+Understanding of CyberArk architecture and components,106540.0,1
+GISF,106500.0,1
+tailwind,106250.0,2
+Cyber,106080.0,1
+NERC,106080.0,1
+Enterprise Applications,106000.0,2
+Swarm,106000.0,1
+Web Application Firewall,106000.0,3
+Batch Scripting,105925.0,1
+Tier 3,105925.0,1
+Tier 2,105925.0,1
+Bash scripting,105833.33333333333,3
+Excel macros,105528.0,1
+VMware vSphere 6.x – 8.x,105500.0,1
+VMware Certified,105500.0,1
+GCP BigQuery,105500.0,1
+Operations,105200.0,8
+AWS Cloud Environments,105050.0,1
+Agile Principles and Practices,105000.0,1
+* APIs,105000.0,1
+Contract Terms,105000.0,1
+Microsoft SQL Server 2017,105000.0,1
+Rexton/Connexx,105000.0,1
+KPI Metrics,105000.0,1
+Microsoft Windows Server 2019,105000.0,1
+CDP Configuration,105000.0,1
+Supplier Management,105000.0,1
+Maintenance Agreements,105000.0,1
+Pardot Specialist,105000.0,1
+SEO optimization,105000.0,1
+* SVN,105000.0,1
+PeopleSoft Financials,105000.0,1
+Enterprise Data Migrations,105000.0,1
+Phonak Target,105000.0,1
+SQL Monitoring tools,105000.0,1
+Salesforce Deployment Release Cycle (SF DX Gearset),105000.0,1
+Contract Life Cycle Management,105000.0,1
+Enterprise Search,105000.0,1
+Data Theft,105000.0,1
+Elastic SIEM,105000.0,1
+Microsoft DNS,105000.0,2
+Microsoft SQL Server 2014,105000.0,1
+Kimball Methodology,105000.0,1
+* Airtable.com,105000.0,1
+Cybercrime,105000.0,1
+Business insights,105000.0,1
+Microsoft Windows Server 2014,105000.0,1
+AutoPilot,105000.0,2
+Applied Epic,105000.0,1
+GN Otometrics OTOSuite,105000.0,1
+Software Engineer,105000.0,1
+* Web services,105000.0,1
+Builder.io CMS,105000.0,1
+Negotiation Strategies,105000.0,1
+Powershell Scripting,105000.0,1
+data warehousing,105000.0,1
+CRM Analytics,105000.0,1
+Microsoft MECM/SCCM,105000.0,1
+Interacoustics Affinity Suite,105000.0,1
+Account Engagement,105000.0,1
+Cloud Solutions (e.g. Azure),105000.0,1
+TTPs,105000.0,1
+Windows Server 2016  2022,105000.0,1
+* C#,105000.0,1
+IT Services,105000.0,1
+Ingest Pipelines,105000.0,1
+data modeling,105000.0,1
+* QuickBooks Online,105000.0,1
+Ransomware,105000.0,1
+Microsoft Defender 365,105000.0,2
+RFP Preparation,105000.0,1
+* SQL Server,105000.0,1
+Sycle net SaaS,105000.0,1
+data centertocloud interconnectivity,105000.0,1
+IT Contract Management,105000.0,1
+VxRail,105000.0,1
+Layer 3 switches,105000.0,1
+Statements of Work,105000.0,1
+Azure Stack HCI,105000.0,2
+Product Roadmap,105000.0,1
+Philips Hearsuite,105000.0,1
+SQLQuery,105000.0,1
+Business analytics,105000.0,1
+Windows AD,105000.0,2
+Clean Code,105000.0,1
+HR SaaS,105000.0,1
+Supply Chain Optimization,105000.0,1
+server monitoring,105000.0,1
+Dell VxRail,105000.0,1
+Mirroring,105000.0,1
+Vendor Managed Office Program (VMO),105000.0,1
+* Teamwork,105000.0,1
+ServiceNow (“CARTS”),105000.0,1
+NOAH,105000.0,1
+Pardot API,105000.0,1
+Resound Smart Fit/Jabra,105000.0,1
+Xilinx,104950.0,2
+VHDL,104950.0,2
+Altera,104950.0,2
+FPGA,104950.0,2
+Layer3 VPN,104870.0,1
+Layer2 VPN,104870.0,1
+Anomaly Detection,104750.0,5
+Sensu,104750.0,2
+Blockchain technology,104500.0,2
+Cadence,104449.6,1
+Prelude,104449.6,1
+Referrals,104449.6,1
+SLT,104436.0,1
+Continuous Integration/Continuous Development (CI/CD),104436.0,1
+Quartz,104145.6,1
+ISDA UMR,104145.6,1
+SEC/SBS,104145.6,1
+SANS (GIAC),104000.0,1
+MODBUS,104000.0,1
+Data Exploration,104000.0,1
+Sigfox,104000.0,1
+SW0T Analysis,104000.0,1
+CISCO ISE,104000.0,1
+LoRaWAN,104000.0,1
+GIAC Information Security Fundamentals (GISF),104000.0,1
+Capstone Project,104000.0,1
+Agile Business Analysis,104000.0,3
+Comp TIA PenTest+,104000.0,1
+DART,104000.0,1
+Release Practices,104000.0,1
+Operational (claims call center etc),104000.0,1
+Patch cabling,104000.0,1
+Comp TIA,104000.0,1
+Cisco configuration,104000.0,1
+Webbased Architecture,104000.0,1
+Requirements Elicitation Techniques,104000.0,1
+Comp TIA Security+,104000.0,1
+Python selenium,104000.0,1
+WLC management,104000.0,1
+CANBUS,104000.0,1
+Data Warehousing Design,104000.0,1
+data management & reconciliation,104000.0,1
+RSTI,104000.0,1
+Bluetooth,104000.0,1
+Server Lifecycle Management,104000.0,1
+WiFi Security,104000.0,1
+ACCE,104000.0,1
+Agile framework,104000.0,1
+Wifi,104000.0,1
+Reporting & analysis,104000.0,1
+HIMSS,104000.0,1
+InterNetwork Operating Systems,104000.0,1
+CISCO CCNA CCNP,104000.0,1
+CTI Analyst,104000.0,1
+Threat Intelligence Platform,104000.0,1
+* CSS,103980.0,2
+C# scripting,103680.0,1
+ESG,103333.33333333333,3
+Security metrics,103137.5,1
+Zero trust networking,103137.5,1
+Security risk assessment,103137.5,1
+Vulnerability Assessment and Management,103000.0,1
+Forensic Investigation,103000.0,1
+Broadcom,102966.66666666667,3
+* Unit Testing,102960.0,1
+* React.js,102960.0,1
+* LESS,102960.0,1
+* SASS,102960.0,1
+* Git,102960.0,1
+* Responsive Web Design,102960.0,1
+GCP Data flow,102875.0,1
+Cloud Security Command Center,102875.0,1
+Cloud Monitoring,102875.0,1
+Mathplotlib,102850.0,1
+XDR,102680.0,5
+OS400,102500.0,2
+CL Programming,102500.0,3
+Systems Management Software,102500.0,2
+Power systems iSeries,102500.0,1
+O/S upgrades,102500.0,2
+Quick/EDD,102500.0,3
+V7R4,102500.0,1
+LPAR & HMC,102500.0,1
+HMC,102500.0,2
+PTF management,102500.0,2
+dtrace,102500.0,1
+BRMS,102500.0,3
+iSeries Professional services,102500.0,1
+strace,102500.0,1
+OS400 backup software,102500.0,1
+iCluster,102500.0,3
+V5R4,102500.0,1
+V5R3,102500.0,1
+IBM Performance Analysis,102500.0,1
+V7R1,102500.0,1
+LPAR,102500.0,2
+C|HFI,102500.0,1
+V6R1,102500.0,1
+Power systems hardware,102500.0,1
+external storage/SAN,102500.0,1
+IBM certifications,102500.0,1
+IBMi security,102500.0,1
+Machine Learning Models,102500.0,1
+iDoctor DBMON,102500.0,3
+Mimix,102500.0,3
+V7R3,102500.0,1
+V7R2,102500.0,1
+standard MS Office applications,102500.0,1
+RightRev,102375.0,1
+Salesforce Billing,102375.0,1
+Avalara,102375.0,1
+Cron jobs,102288.0,1
+Velaro,102288.0,1
+Dimensionality Reduction,102276.0,1
+MITRE,102175.0,2
+Remote Access,102166.66666666667,3
+NIST/CIS,102000.0,1
+Certificate issuance and management systems,102000.0,1
+Managed Detection and Response,102000.0,1
+Active Directory / Azure,102000.0,1
+CMMC / NIST171,102000.0,1
+Centralized password vault administration,102000.0,1
+Controls Evaluation,102000.0,1
+Client Device Security,102000.0,1
+3rd Party Data Processor,102000.0,1
+Presto/Trino,101950.0,2
+Statistical modeling,101869.9875,8
+Pytest,101350.0,5
+Alation,101270.0,2
+GitFlow,101250.0,2
+Mobx,101250.0,2
+Active Directory (AD),101000.0,1
+Power BI Dataflows/Power Query,100880.0,1
+MuleSoft,100736.375,4
+G.711,100733.5,1
+OPUS,100733.5,1
+G.729,100733.5,1
+VP8,100733.5,1
+H.264,100733.5,1
+VPLS,100733.5,1
+Public Clouds,100733.5,1
+Private Clouds,100733.5,1
+Google GSuite,100733.5,1
+Network attached storage,100733.5,1
+Data Center Technologies,100733.5,1
+G.722,100733.5,1
+Rivery,100622.0,4
+Microsoft Server Administration,100622.0,4
+Microsoft Certified Database Administrator,100622.0,1
+Redgate Software Tools,100622.0,1
+Redgate Software Tool,100622.0,3
+Mentoring,100575.0,2
+Regular Expressions,100533.6,5
+JVM,100500.0,2
+Return on Investment Analysis,100460.0,1
+Campaign Analytics,100460.0,1
+Windows forensic artifact analysis,100250.0,1
+GMI,100044.8,1
+Exchange Trade Derivatives,100044.8,1
+Futures & Options,100044.8,1
+NIST 800115,100000.5,1
+Core Switching,100000.0,1
+Screen Building,100000.0,1
+Dreamweaver,100000.0,1
+Epic provisioning,100000.0,1
+Data correction logs,100000.0,1
+requests,100000.0,1
+Windows Server 20082022,100000.0,1
+VMware vCenter Server,100000.0,1
+AWS Certified SysOps Administrator,100000.0,1
+Sprint Planning,100000.0,2
+CoPilot,100000.0,1
+Automation/Run books/Scripts,100000.0,1
+Energy Markets,100000.0,1
+Microsoft Certified: Azure Administrator,100000.0,1
+ASA & Fortinet Firewalls,100000.0,1
+SER,100000.0,1
+Epic Security Certification,100000.0,1
+Intune Management (Endpoint Management),100000.0,1
+Data Courier stream,100000.0,1
+DataDriven Analysis,100000.0,1
+VB Script,100000.0,1
+Network user ID's,100000.0,1
+Elixir,100000.0,3
+Energy Tool Base,100000.0,1
+Cisco Network Components,100000.0,1
+Utility Electric and Gas Tariffs,100000.0,1
+Load Balancing Technologies,100000.0,1
+Web Proxy,100000.0,1
+Epic Data Courier,100000.0,1
+EMP,100000.0,1
+SHIR,100000.0,1
+JSONRPC,100000.0,2
+CSSA,100000.0,1
+Customer Access Analysts,100000.0,1
+Microsoft Identity,100000.0,2
+Rolebased access,100000.0,1
+Epic system,100000.0,1
+Server management,100000.0,1
+BeautifulSoup,100000.0,1
+Model deployment,100000.0,2
+Data Courier user moves,100000.0,1
+Excel VBA,100000.0,1
+Smart contracts,100000.0,2
+Microsoft 365 full stack productivity apps (Including Purview),100000.0,1
+Documentation & reporting,100000.0,1
+Teams Room (Android and Windows),100000.0,1
+Master templates,100000.0,1
+Windows 10 and 11,100000.0,1
+Dbt,100000.0,1
+Marigold Engage,100000.0,1
+Data Courier Administrator's Menu,100000.0,1
+Device Procurement & Deployment,100000.0,1
+HPEAruba,100000.0,1
+Installation,100000.0,1
+Azure DevOps Management,100000.0,1
+Data Courier,100000.0,1
+Network infrastructure management (Meraki),100000.0,1
+Azure AD Now Entra,100000.0,1
+Server monitoring,100000.0,1
+VTC,100000.0,2
+Cost analysis and control,100000.0,1
+Licensing Management,100000.0,1
+Next Generation Antivirus,100000.0,1
+ASP.NET/VB,100000.0,1
+Product Development,99971.11111111111,9
+BPC,99700.0,1
+Power BI Desktop,99700.0,1
+SAP/ERP,99700.0,1
+Visual Basic Coding,99700.0,1
+MCode,99700.0,1
+Lightning,99666.66666666667,3
+Pagely,99500.0,1
+CSS/SASS,99500.0,1
+WP Engine,99500.0,1
+Networking protocols,99485.0,1
+Security defensive frameworks (CIS Top 20 Controls CIS Hardening Standards NIST SP 80053 OWASP MITRE ATT&CK),99485.0,1
+Scripting languages (Python PowerShell),99485.0,1
+SIEM platforms,99485.0,1
+Operating systems (Windows Linux),99485.0,1
+Windows tools and languages,99450.0,1
+MBA,99093.5,2
+SSL encryption,98960.0,1
+Windows Server 20162019,98960.0,1
+SQL Server 20162019,98960.0,1
+Data Optimization,98805.5,1
+KNIME,98805.5,1
+Cloud BI,98800.0,1
+Systems Architecture,98762.5,4
+ICD10CM,98437.5,1
+Oracle/Microsoft SQL Server,98437.5,1
+Data structures,98306.66666666667,12
+Mobile development,98281.25,4
+Mobile Development,98281.25,2
+NTFS,98000.0,2
+EVM,97881.57894736843,19
+Ethereum,97692.30769230769,26
+Web Sphere,97500.0,1
+Leveraged Finance,97500.0,1
+Portfolio Monitoring,97500.0,1
+Handlebars,97500.0,1
+XStore,97500.0,1
+noSQL data structures,97500.0,1
+Yardi Voyager,97500.0,1
+Networking Concepts,97500.0,3
+OneSite,97500.0,1
+Windows Operating systems,97500.0,1
+HCL,97500.0,1
+Serverless Technologies,97500.0,1
+Computer Science principles,97500.0,1
+Flowcharting,97500.0,1
+Investment Research,97500.0,1
+Web Logic,97500.0,1
+Capital Markets Analysis,97500.0,1
+Jinja,97500.0,1
+RESTful applications,97500.0,1
+Network configurations,97500.0,1
+Database Certifications,97450.0,1
+Design Patterns,97137.84,10
+NOSQL,97062.13333333335,3
+Mac OSX,96833.33333333333,3
+Time Series,96825.0,8
+Microsoft 365 Apps for Enterprise,96800.0,1
+Remedy/BMC,96800.0,1
+PIG,96682.43333333333,3
+Anaplan,96667.85714285714,7
+Pinecone,96666.66666666667,3
+Microsoft Office 2021,96650.0,1
+GAN,96525.0,2
+External Interfaces,96500.0,1
+CrossClock Boundaries,96500.0,1
+Digital Signal Processing Filters,96500.0,1
+FPGA Fabric,96500.0,1
+Synchronous/Asynchronous Logic,96500.0,1
+State Machines,96500.0,1
+DCS,96400.0,1
+IEC 62443,96400.0,1
+JUnit,96371.42857142857,21
+Incident Change & Problem Management processes,96300.0,1
+Bachelors Computer Science or related,96300.0,1
+Netscout Pulse,96300.0,2
+Palo Alto Network,96300.0,1
+Command Center,96300.0,1
+troubleshooting network issues related to Cisco route/switch,96300.0,1
+Network Security products such as Palo Alto Networks Bricata Broadcom,96300.0,1
+Network Automation skills such as Ansible Git & scripting tools,96300.0,1
+Bricata,96300.0,2
+Network Monitoring Systems & Tools such as Solarwinds Netscout nGeniusOne Netscout Pulse Wireshark Splunk,96300.0,1
+Netscout nGeniusOne,96300.0,2
+Software Engineering or related,96300.0,1
+ServiceNow Reporting Knowledge and Process Management,96300.0,1
+ITIL foundations or related certification,96300.0,1
+Cisco Industry Certification  CCNA or higher,96300.0,1
+Probability,96250.0,6
+Stakeholder Engagement,96240.0,3
+PagerDuty,96100.0,5
+Informix SQL,96000.0,3
+Relay,96000.0,2
+DL,95834.5,1
+SOX compliance,95753.2,2
+Time Series Analysis,95706.25,8
+Dacpac,95700.0,1
+Msdeploy,95700.0,1
+Cloud SQL Database,95648.8,1
+Amazon Connect,95640.0,2
+Jboss,95500.0,1
+Cypher Query Language,95500.0,1
+Apache Zookeeper,95500.0,1
+ADABAS,95400.0,2
+Windows Server Virtualization,95364.4,1
+Apple Certified Macintosh Technician (ACMT),95364.4,1
+Network administration and patching,95364.4,1
+Linux Server Virtualization,95364.4,1
+ProTools,95364.4,1
+Windows administration and patching,95364.4,1
+Multi Factor Authentication,95364.4,1
+Team management,95364.4,1
+Secure Coding,95350.0,4
+Angular JS,95324.57142857143,7
+GCP Cloud services,95240.0,1
+Consul,95220.0,5
+Scripting (Python R),95000.0,1
+HIPAA/HITECH,95000.0,1
+Eniteo,95000.0,1
+Hardware Configuration,95000.0,1
+SQL Server Administration,95000.0,1
+Marketing Automation Tool (ClickDimensions or Microsoft Dynamics 365 Marketing),95000.0,1
+eStelplan,95000.0,1
+Database Project Management,95000.0,1
+Regression analysis,95000.0,3
+CRM (Microsoft CE CRM),95000.0,1
+Software Configuration,95000.0,1
+Statistical Computing,95000.0,1
+Database Management Systems (DBMS),95000.0,2
+Application development,95000.0,2
+ID Governance,95000.0,1
+Elasticache,95000.0,2
+MS 365 Suite (PowerPoint Outlook Teams Word OneDrive etc.),95000.0,1
+Hotjar,95000.0,3
+Data Visualization (Tableau Power BI Looker),95000.0,1
+Microsoft M365,95000.0,1
+Azure OpenShift,95000.0,1
+EDA,94930.0,3
+SAN Technologies,94900.0,1
+XenDesktop,94900.0,1
+ROI Analysis,94675.0,1
+Digital forensics,94450.0,3
+Envoy,94350.0,2
+Data driven decision making,94308.8,1
+IEEE,94300.0,2
+Code Reviews,94280.0,5
+Invision,94273.6,2
+containerization,94250.0,2
+shell scripting,94250.0,2
+monitoring,94250.0,2
+CHRMS,94175.5,1
+PassPort,94175.5,1
+NYCAPS,94175.5,1
+Nimble Storage,94160.0,1
+Packet Capture,94108.33333333333,3
+Automation System,94000.0,1
+GeoEvent Server,94000.0,1
+React Query,94000.0,3
+Kofax,94000.0,1
+ArcGIS API for Python,94000.0,1
+Image Server,94000.0,1
+Workforce for ArcGIS,94000.0,1
+Aveva System Platform,94000.0,1
+GeoAnalytic Server,94000.0,1
+Ariba SLP,94000.0,1
+Arcade,94000.0,1
+Refinitiv,93750.0,2
+Code,93750.0,2
+Process mapping,93750.0,2
+Webex Calling,93711.455,1
+Cisco Meraki Solution Specialist,93711.455,1
+Layer 1 networking,93711.455,1
+Network monitoring and management tools,93711.455,1
+Cisco CUCM,93711.455,1
+Cisco IOSXR,93706.66666666667,3
+Gas or Utility Project experience,93600.0,1
+Business Process Models,93600.0,1
+Systems Analyst,93600.0,1
+Project Timelines,93600.0,1
+Business Cases,93600.0,1
+Workshops,93600.0,1
+ERP System Analysis,93600.0,1
+NMS (Network Management System),93600.0,1
+Project Tracking,93600.0,1
+Technical Requirements,93600.0,1
+Email Marketing,93500.0,1
+Campaign Management,93500.0,1
+Distributed Computing,93383.0,6
+JavaScript Frameworks,93333.33333333333,3
+Frontend Development,93333.33333333333,3
+Contentful,93250.0,3
+Cold Calling,92950.0,2
+Web development,92812.5,7
+dbt,92726.73958333333,12
+Zerto,92500.0,2
+Solutions Architect,92500.0,3
+Networking +,92500.0,2
+Computer Applications,92500.0,1
+Windows 10 Operating System,92500.0,1
+Team,92500.0,1
+SLURM,92500.0,2
+VMware Horizon,92500.0,2
+ACSP,92500.0,1
+Networking+ Certification,92500.0,1
+NSX,92500.0,2
+Curl,92500.0,1
+Information System Management,92500.0,1
+Linear programming,92500.0,2
+Fish,92500.0,1
+A+ Certified,92500.0,2
+Linkerd,92500.0,2
+InfiniBand,92500.0,2
+Citrix NetScaler,92500.0,2
+Loki,92500.0,2
+PeopleSoft Query,92500.0,2
+Windows Autopilot,92500.0,1
+Message queues/busses,92500.0,1
+Ash,92500.0,1
+Spinnaker,92429.33333333333,3
+WildFire,92287.0,1
+Skybox,92287.0,1
+Oracle Cloud Infrastructure OCI,92250.0,5
+Bilingual,92240.0,1
+Legal document review,92240.0,1
+Document review skills,92240.0,1
+Security awareness,92235.19,1
+Security standards,92235.19,1
+IBM Certified Database Administrator  DB2,92190.0,1
+Amazon Web Services (AWS) Certified Database  Specialty,92190.0,1
+Tibero,92190.0,1
+Certified Cassandra Administrator (Apache Cassandra),92190.0,1
+CompTIA Data+,92190.0,1
+Microsoft SQL Server Certifications,92190.0,1
+OCP (Oracle Certification),92190.0,1
+Microsoft Certified: Azure Database Administrator Associate,92190.0,1
+Oracle Certified Professional MySQL Database Administrator,92190.0,1
+Maria DB,92190.0,1
+Unix/Linux Shell,92190.0,1
+PostgreSQL Certified Engineer,92190.0,1
+Oracle Database Administrator Certified Professional,92190.0,1
+MongoDB Certified DBA Associate,92190.0,1
+Azure/GCP SQL Database Administration,92040.0,1
+SQL Server 20002019,92040.0,1
+Data Security and Compliance,92040.0,1
+Cloud MySQL,92040.0,1
+High Availability and Disaster Recovery Solutions,92040.0,1
+JavaScript/jQuery,91940.0,2
+Spanish,91867.2,2
+OWASP Top 10,91833.33333333333,3
+Repo,91711.8,1
+Stock Borrow Lending,91711.8,1
+Analyst,91711.8,1
+Rundeck,91666.66666666667,3
+Integrations,91640.0,3
+Enterprise WiFi,91500.0,1
+Aruba Controllers,91500.0,1
+Aruba AP,91500.0,1
+Mapping,91500.0,1
+Gateways,91500.0,1
+Brocade Switches,91500.0,1
+Multicloud,91500.0,1
+Routing Protocol,91500.0,1
+Transportation Analytics,91500.0,1
+Inference,91500.0,1
+Fiber Networking,91500.0,1
+PII,91444.47166666668,3
+Airflow,91417.78945454545,55
+Workflow Design,91300.0,1
+Pentest+,91050.0,1
+TCSH,91050.0,1
+SH,91050.0,1
+telnet,91050.0,1
+Oracle Cloud Infrastructure Certified Architect Associate,91050.0,1
+Oracle Cloud Infrastructure Certified Architect Professional,91050.0,1
+Microsoft NET Framework,91000.0,2
+Hex,90800.0,1
+Binary,90800.0,1
+Regular expression,90800.0,1
+Source code,90800.0,1
+Playbooks,90800.0,1
+Cyber threat analysis,90800.0,1
+Step Functions,90509.16666666667,6
+Market Analysis,90469.5,1
+Returns Management,90469.5,1
+Retail analytics,90469.5,1
+Cost Reduction,90469.5,1
+Vendor Negotiations,90469.5,1
+Promotions,90469.5,1
+Web servers,90244.5,3
+Entra,90182.2,2
+SalesForce,90050.5,2
+Diffusion models,90000.0,4
+Cloud deployments,90000.0,2
+Azure Datawarehousing,90000.0,1
+Testing & Quality Assurance,90000.0,1
+Software Licence Management,90000.0,1
+Cisco WebEx,90000.0,1
+Assembler,90000.0,1
+Secure ID RSA,90000.0,1
+Citrix Director,90000.0,1
+VPN Administration,90000.0,3
+Xamarin,90000.0,4
+TSO/ISPF,90000.0,1
+ZScaler,90000.0,1
+Dynamics 365 F O,90000.0,1
+DATA WAREHOUSING,90000.0,1
+Open Source Intelligence,90000.0,1
+DATABASES,90000.0,1
+Blackberry Enterprise Server,90000.0,1
+Consensus protocols,90000.0,2
+Dynamics 365 SCM,90000.0,1
+Attack Tactics and Techniques,90000.0,1
+Incident resolution,90000.0,1
+Solutioning,90000.0,1
+SQL SSRS reporting,90000.0,1
+Model Based System Engineering (MBSE),90000.0,2
+Software License Management,90000.0,1
+RedHat Enterprise Linux,90000.0,1
+LookML,90000.0,1
+Blackberry Works,90000.0,1
+Restful API,90000.0,2
+Storage Technologies,90000.0,1
+Revit,90000.0,1
+.NET Maui,90000.0,1
+MDM Administration,90000.0,3
+Indicators of Compromise (IoCs),90000.0,1
+IT infrastructure security,90000.0,1
+PowerShell scripting,90000.0,2
+Google Workspace Administration,90000.0,2
+Virtualization (VMWare),90000.0,1
+GSuite Administration,90000.0,1
+XenApp,89950.0,2
+LOS,89840.0,1
+Encompass,89840.0,1
+gRPC,89575.0,20
+Cloud technologies,89336.36363636363,11
+Node JS,89334.76666666666,15
+EAI,89275.66666666667,3
+Artificial intelligence,89262.25,4
+CRON,89253.0,1
+Salesforce Platform App Developer,89200.0,1
+Salesforce Industries,89200.0,1
+Salesforce Sales/Service Cloud,89200.0,1
+XGBoost,89150.0,13
+Cloud Native Applications,89000.0,1
+Cisco ASA FirePower,88960.0,1
+link aggregation,88960.0,1
+MDM platforms,88960.0,1
+packet inspection,88960.0,1
+IT end user support,88960.0,1
+ICCP,88960.0,1
+ARP,88960.0,1
+IPSec tunneling,88960.0,1
+Client,88905.6,1
+Protocol Analysis,88905.6,1
+Cisco Certified Networking Associate,88905.6,1
+Network Engineer,88905.6,1
+Customer Relationship Management (CRM),88600.0,3
+API Management,88532.33333333333,3
+Data Mart,88400.0,1
+Embedded Software,88400.0,1
+Ruckus Wireless Access Points,88400.0,1
+Meraki APs,88400.0,1
+Projectbased Work,88400.0,1
+Vlookups,88400.0,1
+Preventative/Proactive Maintenance,88400.0,1
+Meraki Controllers,88400.0,1
+Wifi Networks,88400.0,1
+Vehicle Localization,88400.0,1
+Network Security Firewalls,88400.0,1
+WiFi Controllers,88400.0,1
+Numpy,88226.97727272728,22
+Architecting,88225.0,2
+InfluxDB,88196.8,5
+SRE,87777.0,20
+SciKit Learn,87550.0,2
+Static Application Security Testing (SAST),87500.0,1
+Dynamic Application Security Testing (DAST),87500.0,1
+Troubleshooting tools,87500.0,1
+Vertex,87500.0,2
+Dynamics 365 BC,87500.0,1
+TCP IP Networking,87500.0,1
+Radiotherapy,87500.0,1
+Onestream,87500.0,1
+Microsoft Office Suite (Outlook Word Excel Access PowerPoint),87500.0,1
+Fixed Income,87500.0,2
+Medical Imaging,87500.0,1
+HappyFox,87500.0,1
+PC Windows,87500.0,1
+Desktop/Laptop/Workstation Computing,87500.0,1
+SQL Server Always On Availability Groups,87500.0,1
+Centralized logging,87500.0,1
+Presto,87490.0,5
+Android development,87352.0,1
+ServiceNow architecture,87352.0,1
+ServiceNow platform application modules,87352.0,1
+iOS development,87352.0,1
+File360,87172.8,1
+Strategic thinking,87172.8,1
+Ethical behavior,87172.8,1
+Team building,87172.8,1
+Microsoft Office Suite Word Excel Access Project PowerPoint,87172.8,1
+Selfstarting,87172.8,1
+MS Office Suites,87160.0,1
+Secrets Manager,87000.0,5
+CSPM,86875.0,4
+AWS CloudFront,86590.0,2
+Bash/Shell,86590.0,2
+TestDriven Development,86588.0,5
+Windows Server (2008 R2/2012),86500.0,1
+FTPS,86384.0,2
+Cloud DevOps,86384.0,2
+AWS Transfer Family,86384.0,2
+Macros,86250.0,2
+HRSD,86200.0,2
+Directory services,86154.5,2
+OpenID Connect (OIDC),86154.5,2
+HyperConverged Infrastructure,86150.0,1
+OKTA Identity Management,86150.0,1
+Azure Site Recovery Manager,86150.0,1
+Enterprise Storage Provisioning,86150.0,1
+Windows Server 2012 2019,86150.0,1
+Group Policy Management Console,86150.0,1
+Active Directory Group Policy Objects,86150.0,1
+Continuous Integration Continuous Delivery (CICD) pipelines,86000.0,1
+Freight claim investigations,85880.0,1
+Freight claims systems,85880.0,1
+Procore,85832.5,1
+Product Consulting,85832.5,1
+Azure Key Vault,85800.0,2
+Java Spring Boot,85737.5,4
+Cloud Application Architect,85600.0,3
+XSOAR,85566.66666666667,3
+BuildBook,85500.0,1
+CONQUER,85500.0,1
+Kali,85500.0,1
+SQR,85500.0,1
+ERP CRM,85500.0,1
+ViFlow,85500.0,1
+PPM suite,85500.0,1
+User Requirements Analysis,85335.5,1
+Vendor Support,85335.5,1
+SSRS Reports,85335.5,2
+BI,85097.5,7
+Linear regression,85055.45,2
+Bayesian analyses,85055.45,2
+Sigma Computing,85040.0,1
+Thin clients,85000.0,1
+Network Policy and Access Services,85000.0,1
+Asterisk,85000.0,1
+RemoteApp,85000.0,1
+Cisco Certifications,85000.0,1
+802.1q VLANs,85000.0,1
+Virtual desktops,85000.0,1
+File Service,85000.0,1
+Palo Alto Next Generation Firewall,85000.0,1
+SCM,85000.0,1
+Joinrs AI,85000.0,1
+SSL VPN,85000.0,1
+Citrix Certifications,85000.0,1
+AnyConnect,85000.0,1
+Sysinternals,85000.0,1
+Print Services,85000.0,1
+NetScaler,85000.0,1
+Unit testing frameworks,85000.0,2
+x86,85000.0,1
+Network segmentation,85000.0,1
+Alerts,85000.0,1
+Incident recovery,85000.0,2
+Microsoft Remote Desktop Services,85000.0,1
+Windows Server OS,85000.0,1
+Technological Brainstorming,85000.0,1
+Surveillance Systems,85000.0,1
+Datadriven Solutions,85000.0,1
+eDiscovery,85000.0,2
+Physical Access Control,85000.0,1
+VMware Certifications,85000.0,1
+Active Directory/Entra,85000.0,1
+VMware Technologies,85000.0,1
+MacBook,85000.0,1
+Microsoft Entra ID Premium,85000.0,2
+Network equipment,85000.0,1
+Tech Support,85000.0,1
+BI tools,85000.0,4
+WebVPN,85000.0,1
+Cybersecurity concepts,85000.0,2
+2FA,85000.0,1
+Office Network Troubleshooting,85000.0,1
+Syteline,85000.0,1
+Citrix Technologies,85000.0,1
+Data Sanitization,85000.0,1
+Defender for Cloud Apps,85000.0,2
+Defender for Identity,85000.0,2
+security,84960.0,3
+bash,84940.0,10
+Client Technology,84900.0,1
+CTS,84900.0,1
+MURAL,84900.0,1
+Gitbash,84900.0,1
+Enterprise Technology,84900.0,1
+AV Skills,84900.0,1
+Broadcast,84900.0,1
+Digital Signal Processing,84900.0,1
+QSYS,84900.0,1
+Ventuz,84900.0,1
+noSQL,84650.0,3
+Atlassian Suite,84625.0,4
+JavaScript libraries,84475.0,2
+Python 3,84338.7,5
+Github Actions,84196.72727272728,11
+Statistical models,84166.66666666667,3
+WebSockets,84166.66666666667,9
+Optimization,84139.56,25
+CCaaS,84000.0,1
+Avaya,84000.0,1
+Blueworks,84000.0,1
+Functional Testing,84000.0,5
+Enghouse,84000.0,1
+CPA,83970.0,2
+User Experience,83940.66666666667,6
+Deltek,83935.20000000001,1
+Ceridian,83935.20000000001,1
+CICD,83530.0,3
+Zapier,83333.33333333333,3
+Content Management Platforms,83172.5,1
+Veeva Vault,83106.75,4
+Customer Master Data Management,83100.0,1
+Customer Matching,83080.0,2
+Data Cleaning Tools,83060.0,1
+Data Standardization,83060.0,1
+Data Cleaning Techniques,83060.0,1
+Probabilistic Matching,83060.0,1
+Ajera,83000.0,1
+Rollup,83000.0,5
+Pipedrive,83000.0,1
+Fuzzy Matching,82930.0,2
+Desktop Engineering,82902.0,1
+Google Cloud Platform GCP,82819.44444444444,9
+Probabilistic Mathing,82800.0,1
+Data Cleansing Techniques,82800.0,1
+Customer MDM,82800.0,1
+SDSF,82736.4,2
+IAVM,82600.0,2
+Pub/Sub,82500.0,6
+Gulp.js,82500.0,1
+Browser developer tools,82500.0,1
+Smart contract development,82500.0,3
+Hybrid cloud,82500.0,2
+Linear algebra,82500.0,2
+Financial Management Skills,82500.0,1
+QMetry,82500.0,2
+Customer Client Management Skills,82500.0,1
+Process Design Skills,82500.0,1
+Collibra DQ,82500.0,2
+Data Analytical Skills,82500.0,1
+BlazorHybrid,82500.0,1
+Five9,82500.0,2
+Enduser Support,82500.0,1
+Data Conversions,82500.0,1
+pandas DataFrames,82500.0,1
+Pattern recognition,82500.0,2
+Clerical / Administrative Skills,82500.0,1
+Project Management Skills,82500.0,1
+Variance analysis,82500.0,2
+PeopleSoft HCM,82465.5,2
+Technical Analyst,82451.6,1
+Application Systems Analyst,82451.6,1
+SMB,82283.33333333333,3
+DBMS technology,82200.0,1
+Logical models,82200.0,1
+Database modeling,82200.0,1
+Vendor DBA Certification,82200.0,1
+Physical models,82200.0,1
+Z/OS,82200.0,1
+Gitlab CI,82192.85714285714,7
+MultiPoint MOE,82177.07999999999,1
+Cisco Route Switch,82177.07999999999,1
+Metro Optical Ethernet,82177.07999999999,1
+Legal Billing,81990.0,2
+IMDS,81942.0,1
+Distributed systems,81893.75,4
+TestNG,81750.0,4
+A/B Testing,81654.16666666667,12
+MS Suite,81614.0,1
+PMIPBA,81500.0,1
+Process Modeling,81400.0,6
+Instrumentation,81400.0,2
+SFDC,81300.0,2
+Scipy,81250.0,4
+Prompt engineering,81250.0,4
+Looker,81113.0,60
+Collaborative coding,81074.5,1
+IT infrastructure maintenance,81074.5,1
+Go,81006.64728682171,129
+Product strategy,81000.0,2
+Scheduling,80875.0,2
+Data management,80760.21428571429,7
+Intrusion detection/prevention systems,80661.66666666667,3
+PTC Windchill,80600.0,2
+NIST framework,80566.66666666667,3
+Microsoft Office 360,80558.93333333333,3
+Intrusion Prevention Systems,80500.0,1
+DBT,80475.61904761905,21
+Software Engineering,80475.12733333334,30
+Data Protection,80320.0,5
+Qualtrics text analytics programs,80300.0,1
+Qualtrics discover,80300.0,1
+Discover,80300.0,1
+Text analytics programs,80300.0,1
+Qualtrics XM platform,80300.0,2
+Calix,80292.0,2
+SWOT Analysis,80277.33333333333,3
+JSX,80250.0,2
+Microsoft Certified: Azure Network Engineer Associate,80204.8,1
+Dagster,80161.14285714286,7
+Mosyle,80150.0,2
+JAX,80121.42857142857,7
+Diagramming,80034.93333333333,3
+CodeDeploy,80000.0,4
+Systems Maintenance,80000.0,1
+Embedded software,80000.0,1
+machine learning,80000.0,2
+Firewalling,80000.0,2
+SNS/SQS,80000.0,4
+Swift,80000.0,23
+ProBax Hive,80000.0,1
+SpecFlow,80000.0,1
+Zeplin,80000.0,2
+Client management,80000.0,1
+Document generation,80000.0,1
+Avast,80000.0,1
+MS Defender,80000.0,1
+Salesforce Certified Administrator,80000.0,1
+Tecan,80000.0,1
+Test King,80000.0,1
+Western blotting,80000.0,1
+Fiber optics,80000.0,2
+Junos OS,80000.0,1
+Microsoft 365 Office Suite,80000.0,1
+TestLink,80000.0,1
+Keras/Tensorflow,80000.0,2
+SEM Rush,80000.0,1
+Veam,80000.0,1
+Halcon,80000.0,1
+Event management,80000.0,1
+computer vision,80000.0,2
+Azure Cloud development,80000.0,1
+Nonprofit operations,80000.0,1
+React/NextJS,80000.0,1
+SyncroMSP,80000.0,1
+Vision Systems,80000.0,1
+* Snowflake,80000.0,2
+Video Studio,80000.0,1
+CodeBuild,80000.0,4
+ICIMS,80000.0,1
+Text to Apply,80000.0,1
+Exchange Server,80000.0,1
+Behaviour Driven Development,80000.0,1
+Network operating systems,80000.0,2
+CRM software,80000.0,1
+Form tools,80000.0,1
+Microsoft Windows Desktop,80000.0,1
+deep learning,80000.0,2
+Luminex,80000.0,1
+Business process improvement,79795.0,1
+Corporate strategy,79795.0,1
+Process analysis,79795.0,1
+NAS/SAN,79550.0,1
+Windows 2008 2019,79550.0,1
+Pulumi,79460.0,5
+SwiftUI,79450.0,2
+Cyber Threats,79359.5,1
+Cybersecurity Management,79359.5,1
+Log Management,79340.0,3
+SelfSupervised Learning,79250.0,2
+Generative Models,79250.0,2
+Computational Biology,79250.0,2
+Transformers,79222.22222222222,18
+Security Edge Technology,79200.0,1
+Web Application Firewalls (WAF),79200.0,1
+Vulnerability Management Technology,79200.0,1
+Cloud Workload Protection (CWP),79200.0,1
+Extended Detection and Response (XDR),79200.0,1
+Cyber Deception and Active Defense,79200.0,1
+Cloud Access Security Broker CASB,79200.0,1
+Cyber Terrain Attack Path Mapping,79200.0,1
+Identity Detection and Protection,79200.0,1
+Email Security and Phishing Simulation,79200.0,1
+Cisco Networking,79166.66666666667,3
+Netsuite,79125.0,3
+pgvector,79025.0,2
+Conda,79025.0,2
+Database Structures,79004.0,2
+Deep learning,78880.92307692308,13
+Octopus,78880.9,10
+SIX SIGMA,78800.0,1
+Rails,78730.0,10
+Timelines,78600.0,2
+AMI,78600.0,2
+Supply chain,78600.0,2
+Strategic Analysis,78560.0,1
+Predictive analysis,78524.5,2
+Prescriptive analysis,78524.5,2
+DeFi,78214.28571428571,7
+AEM,78095.33333333333,3
+Process Documentation,78018.58,5
+Fintech,78000.0,4
+EPIC,78000.0,2
+Implement,78000.0,1
+Prototype Software,78000.0,1
+MS Outlook,77987.5,8
+Windows Server 2016 2019 2022,77750.0,2
+ControlM,77578.75,4
+Mulesoft,77575.0,4
+ANSI BICSI 002,77562.5,1
+ITSIMM,77562.5,1
+Ciena 5171,77562.5,1
+M.S. Office,77562.5,1
+ANSI/BICSI N1,77562.5,1
+TDMM,77562.5,1
+Ciena 5160,77562.5,1
+Safenet,77562.5,1
+ANSI/BICSI N3,77562.5,1
+Ciena 6500,77562.5,1
+Deltek Vantagepoint,77500.0,1
+NIST Special Publications 800 Series,77500.0,1
+SQL Concepts,77500.0,1
+Deltek Ajera,77500.0,1
+Technical documentation,77500.0,1
+CCD,77500.0,1
+ICD9/10,77500.0,1
+Client support,77500.0,1
+Deltek Vision,77500.0,1
+Probability Statistics,77500.0,1
+Deltek Costpoint,77500.0,1
+RMF and POAM,77500.0,1
+CPT4,77500.0,1
+Healthcare data standards,77500.0,1
+Google Slides,77500.0,1
+CCR,77500.0,1
+SNOMED,77500.0,1
+Tenable Security Center,77500.0,1
+Agility,77500.0,1
+8570/8140 IAT II,77500.0,1
+System Architecture,77475.0,4
+Cloud Native,77319.9,5
+Alcatel Lucent,77300.0,1
+MPLS/VPLS,77300.0,2
+Spanning Tree Protocols,77300.0,2
+Alcatel Lucent Operating Systems,77300.0,1
+G.8032,77300.0,2
+Cisco DNA,77275.0,2
+JunOS,77275.0,2
+SparkSQL,77257.33333333333,9
+CGI,77250.0,2
+Storm,77166.66666666667,3
+Door Lock Systems,76960.0,1
+Property Management Systems,76960.0,1
+Digital Surveillance,76960.0,1
+Energy Management Systems,76960.0,1
+Guest Room Technologies,76960.0,1
+Network Infrastructures,76900.0,1
+ServiceNow PPM,76900.0,1
+Network Analysis Tools,76900.0,1
+Power BI DAX,76900.0,1
+ServiceNow SPM,76900.0,1
+Meraki Wireless,76900.0,1
+ServiceNow ITBM,76900.0,1
+Data networks,76850.0,1
+OpsGenie,76666.66666666667,3
+EVPN,76500.0,2
+Generation System Design,76452.5,1
+Battery Storage,76452.5,1
+Renewable Systems,76452.5,1
+Construction Drawing Set,76452.5,1
+Log analysis,76375.0,2
+Data Cleansing,76344.44444444444,9
+Rust,76213.78378378379,74
+VXLAN,76160.0,5
+Modeling,76088.27272727272,11
+Network/System Administration,76000.0,1
+DirectX,76000.0,2
+Cloud computing technology,75835.0,1
+Geospatial data,75835.0,1
+Big Data platforms,75835.0,1
+Customer Relationship Management,75780.0,2
+JAVASCRIPT,75700.0,2
+REACT,75700.0,2
+Automated Freight Claims Systems,75640.0,2
+JES,75472.8,1
+VTAM,75472.8,1
+CADeliver,75472.8,1
+CAView,75472.8,1
+Interaction Skills,75450.0,1
+System and Software,75450.0,1
+Hibernate,75227.75,40
+MDC,75101.0,1
+HCPC,75101.0,1
+Claims data analysis,75101.0,1
+Kali Linux,75000.16666666667,3
+Microsoft Windows 10 or 11,75000.0,1
+Web sockets,75000.0,2
+CISCO firewall technologies,75000.0,1
+Application deployment (PDQ or Smartdeploy),75000.0,1
+Compliance Standards,75000.0,1
+Windows Server & Active Directory services,75000.0,1
+Remote desktop tools (Splashtop Parsec),75000.0,1
+NoSQL DBs,75000.0,2
+DFS DHCP DNS,75000.0,1
+Slack Enterprise Grid,75000.0,1
+Hootsuite,75000.0,1
+Angular.JS,75000.0,2
+Security basics (NTFS File shares),75000.0,1
+Video conferencing (Zoom),75000.0,1
+Google Administration,75000.0,1
+Atlantis,75000.0,3
+Always On,75000.0,3
+Data Breaches,75000.0,1
+Invicti,75000.0,1
+Workflow Builder,75000.0,1
+Virtual server environments (VMWare),75000.0,1
+Mitigation Strategies,75000.0,1
+Slack Canvas,75000.0,1
+TCP/IP & network support,75000.0,1
+Cloudbased & cloud hybrid technologies (Okta Intune & AWS),75000.0,1
+Hapi.js,75000.0,2
+Gsuite,75000.0,1
+Tekton,74897.0,4
+Cloud services,74709.72222222222,9
+ArcGIS Desktop,74500.0,2
+Estimating,74427.0,1
+Webhosted,74427.0,1
+Feasibility analysis,74427.0,1
+Clientserver,74427.0,1
+Processing flows,74427.0,1
+Test plan development,74427.0,1
+RFP preparation,74427.0,1
+New software evaluation,74427.0,1
+Systems functions,74427.0,1
+Team Leadership,74427.0,1
+Budget Management,74360.0,1
+Middleware,74342.85714285714,7
+CGTP,74333.41500000001,1
+MCSER,74333.41500000001,1
+Data Backup and Recovery,74333.41500000001,1
+AATB,74333.41500000001,1
+Database Design and Development,74333.41500000001,1
+Web performance optimization,74166.66666666667,3
+High availability,74166.66666666667,6
+AWS Cognito,74000.0,5
+Kubeflow,74000.0,8
+MarkLogic,74000.0,2
+DFSR,73950.0,1
+MCM,73950.0,1
+Windows Server 2022,73950.0,1
+Server maintenance,73787.25,2
+| SQL |,73775.0,2
+Git Actions,73750.0,2
+AWS GovCloud,73750.0,2
+API Integration,73750.0,2
+Shell Script,73712.0,2
+Project Lifecycle,73692.0,1
+Acquia,73692.0,1
+Scikit Learn,73610.0,5
+Cosmos SDK,73333.33333333333,3
+Microsoft Exchange Online,73333.33333333333,3
+Polars,73333.33333333333,3
+Software Slack,73300.0,1
+Software: Google Workspace,73300.0,1
+Software: Okta,73300.0,1
+Miro,73300.0,3
+Cisco Catalyst Switches,73250.0,1
+System Implementation,73218.75,4
+Blockchain,73132.275,60
+Informatics,73000.0,1
+GC2,72960.0,2
+Data Processing,72957.6,5
+Hybrid environments,72800.0,1
+Windows 10+,72800.0,1
+Cisco devices,72800.0,1
+Windows Server 2016+,72800.0,1
+SCCM MECM,72800.0,1
+WUfB,72800.0,2
+JACHO,72800.0,2
+Microsoft SaaS products,72800.0,1
+Palo Alto Networks Certified Network Security Engineer (PCNSE),72750.0,1
+Pan OS,72750.0,1
+HSRP/VRRP,72750.0,1
+Jupyter,72616.66666666667,9
+IBM iSeries,72500.0,2
+Juniper Routers,72500.0,2
+Jumpcloud,72500.0,1
+MS SQL Server Data Tools,72500.0,2
+VbScript,72500.0,1
+SOC 2 Type 2,72500.0,1
+Azure Virtual Desktop,72500.0,2
+Onnx,72500.0,2
+Juniper Switches,72500.0,2
+VBscript,72500.0,2
+Hugging Face Transformers,72500.0,2
+Large language models,72500.0,2
+Prophet,72500.0,2
+Naviga,72500.0,1
+Data Studio,72500.0,1
+Angular2+,72500.0,1
+Oracle Server,72475.0,2
+JMX,72475.0,2
+VR systems,72400.0,1
+optical systems,72400.0,1
+lighting systems,72400.0,1
+audio systems,72400.0,1
+Apple (MAC),72384.0,1
+MS Windows 10,72384.0,1
+Security best practices,72199.4225,4
+Data/information security,72160.22499999999,1
+Microsoft SQL Server 2016 or higher,72160.22499999999,1
+SQL/PLSQL,72160.22499999999,1
+Business process workflow,72160.22499999999,1
+Data modeling tools,72160.22499999999,1
+Protection initiatives,72160.22499999999,1
+Data encryption techniques,72160.22499999999,1
+Data conversion,72160.22499999999,1
+Oracle 12c or higher,72160.22499999999,1
+Schema creation,72160.22499999999,1
+Schema migration,72160.22499999999,1
+OpenTelemetry,72012.0,2
+IT Support Ticketing,72000.0,1
+AOIP,72000.0,1
+Google Workspace solutions,72000.0,1
+Audio codec format converters,72000.0,1
+Audacity,72000.0,1
+Networking knowledge,72000.0,1
+Zoom VoIP Support Solutions,72000.0,1
+Adobe Audition,72000.0,1
+Natural Language Processing,71948.8054054054,37
+Integration,71943.25,10
+Prometheus,71843.0,77
+Agile/Scrum,71841.64285714286,7
+Data querying,71773.33333333333,3
+IT Solutions,71750.0,2
+Webmethods,71646.5,2
+Oracle Weblogic,71646.5,2
+MQTT,71646.5,2
+Test,71632.0,2
+Technical Solution Design,71632.0,2
+Tickets,71500.0,1
+Level 1 Support,71500.0,1
+Networking concepts,71450.0,6
+Redshift,71429.74107142857,56
+SaaS Applications,71333.33333333333,3
+Network Services,71302.4,2
+SQL AG,71250.0,2
+XCTest,71250.0,2
+Security vulnerabilities,71250.0,2
+Apache Cassandra,71237.5,4
+WMI,71200.0,9
+Recovery Procedures,71000.0,1
+ALB,71000.0,5
+Hardware Management,71000.0,1
+TestRail,71000.0,2
+Solution Design,70916.0,4
+Next,70833.33333333333,3
+ITAR,70833.33333333333,3
+containers,70750.0,2
+ABAC,70750.0,2
+A&A,70750.0,2
+HashiCorp Vault,70570.0625,8
+A/B testing,70503.84615384616,13
+ZTNA,70500.0,5
+SQLAlchemy,70500.0,8
+Vendor Developed Applications,70440.0,1
+JSP,70418.18181818182,11
+Model Deployment,70400.0,5
+Communication Towers,70320.0,1
+Optical Transport,70320.0,1
+Construction,70320.0,1
+Cisco NXOS,70280.0,4
+Event Bridge,70250.0,2
+Qlik Replicate,70250.0,2
+Cloud formation,70220.0,2
+Alcatel/Lucent,70200.0,2
+LINUX,70200.0,4
+Netflow,70200.0,2
+L2TPv3,70200.0,2
+Supabase,70000.0,4
+Storage environments,70000.0,2
+Ethernet Standards,70000.0,1
+System One,70000.0,1
+Digital Streaming,70000.0,1
+Troubleshooting techniques,70000.0,1
+Organizational Advancement,70000.0,1
+M2System One,70000.0,1
+Administrative Outreach,70000.0,1
+Local disk,70000.0,1
+Microsoft SCCM,70000.0,1
+Disk Imaging/System Building,70000.0,1
+Business Financials,70000.0,1
+Broadcast Technologies,70000.0,1
+Analysis Services,70000.0,3
+Management Consulting,70000.0,1
+Laptop hardware,70000.0,1
+Framer,70000.0,2
+Desktop hardware,70000.0,1
+Software Delivery,70000.0,1
+Cloud Hosting,70000.0,1
+GitLabCI,70000.0,1
+Microsoft Windows OS,70000.0,1
+Oracle Database 19c,70000.0,2
+Atlassian suite,70000.0,1
+AWS Cloud Platform,70000.0,2
+CIS Critical Security Controls,70000.0,2
+Support tools,70000.0,1
+Database Services,70000.0,3
+Remote desktop software,70000.0,1
+SQL Replication,70000.0,4
+Business Process Tools,70000.0,1
+Data architecture,70000.0,2
+Redundant disks,70000.0,1
+Kubernetes (AKS),70000.0,2
+IT Architecture,70000.0,2
+Video Formats,70000.0,1
+Collaboration tools,70000.0,1
+RedShift,69974.66666666667,6
+LMS,69900.0,2
+Source control,69893.33333333333,3
+Mathematics,69853.0875,10
+Storybook,69687.5,8
+Best Practices,69680.0,2
+Spring JDBC,69680.0,2
+Oracle Business Intelligence OBIEE,69576.0,2
+Oracle Business Intelligence Applications (OBIA),69576.0,2
+Oracle Identity & Access Management,69576.0,2
+Windows Installer,69572.0,2
+Microsoft Windows Server Systems,69500.0,2
+Solidity,69493.42105263157,38
+End User Support,69433.33333333333,3
+Business Strategy,69333.33333333333,3
+Lucid,69266.66666666667,3
+GQL,69248.0,2
+Object/Relational Mapping,69248.0,2
+SysAdmin,69248.0,2
+Bigquery,69166.66666666667,3
+Scikitlearn,69149.29069767441,43
+DeployR,69000.0,1
+Cloud Management,69000.0,5
+Microsoft Office 365 & Azure Cloud,69000.0,1
+Programming languages,68909.8,5
+Software Development Life Cycle (SDLC),68900.0,5
+Networking Protocols,68750.0,2
+DoD 8570 IAT II,68750.0,2
+Android Studio,68750.0,2
+ML Infrastructure,68750.0,2
+API Security,68750.0,2
+Hexnode,68750.0,2
+Container Security,68750.0,2
+Webflow,68750.0,4
+PPC,68500.0,1
+CPC,68500.0,1
+CTR,68500.0,1
+MS Windows Server,68500.0,1
+Azure Monitor Agent,68412.0,1
+Canvas LMS,68412.0,1
+Know Your Customer,68300.0,1
+TPRM compliance,68300.0,1
+AntiBribery & Corruption,68300.0,1
+C C,68267.53823529411,34
+Cloud Technology,68250.0,2
+Diplomatist,68250.0,2
+Typescript,68222.54062500001,96
+Dynamo,68166.66666666667,3
+Microsoft 365 Certified: Modern Desktop Administrator Associate,68081.95999999999,2
+NERC CIP,68000.0,2
+Data Quality Assessment,68000.0,2
+Azure services,68000.0,2
+Planogram,67900.0,1
+Nielsen,67900.0,2
+DTC,67900.0,1
+PyTorch,67883.95854922279,193
+Mongo,67625.0,4
+Toad,67600.0,2
+SAP S4HANA,67600.0,2
+nginx,67600.0,2
+DNS Authentication,67600.0,1
+Dynamic HTML,67600.0,2
+Insurance risk analysis,67500.0,2
+Vulnerability Assessments,67500.0,2
+Computational finance,67500.0,2
+IT control environment,67500.0,1
+Privileged Access Reviews (PARs),67500.0,1
+Business Requirements Document BRD,67500.0,2
+Lean startup methodologies,67500.0,1
+Viewpoint Vista,67500.0,1
+Odoo,67500.0,1
+SED,67500.0,2
+VM,67500.0,2
+Business Access Reviews (BARs),67500.0,1
+AWK,67500.0,2
+Veeam Backup,67500.0,3
+Blackbaud CRM,67500.0,2
+Operational Efficiency,67500.0,1
+Risk assessment methodology,67500.0,1
+Data augmentation,67500.0,2
+GPT,67500.0,2
+Office Scripts,67500.0,1
+SaaS implementations,67500.0,1
+Zustand,67500.0,3
+VueJS,67443.75,4
+Hospitality,67263.2,1
+Cloud Security Posture Management (CSPM),67233.33333333333,3
+GRPC,67118.18181818182,11
+ProSAM,67010.045,1
+Security Architecture Modeling,67000.0,1
+Caravel,67000.0,3
+MACDs,67000.0,1
+Vuejs,67000.0,1
+Web Apps Development,67000.0,1
+Security Software as a Service,67000.0,1
+Storage Gateway,67000.0,1
+Python FastAPI Django,67000.0,1
+Hunt group,67000.0,1
+Server 2012,67000.0,1
+Tollfree,67000.0,1
+Herschel,67000.0,1
+Sureness,67000.0,1
+Logging and Monitoring,67000.0,1
+Wire shark,67000.0,1
+Symphony,67000.0,2
+Risk Methodology,67000.0,1
+Dash,66925.0,6
+Macintosh,66912.1,2
+Scala,66895.27890625,64
+Tree of Thought,66833.33333333333,3
+Marketing Analytics,66820.0,3
+Web Analytics,66750.0,2
+Writing,66750.0,2
+Rancher,66683.33333333333,12
+RPC,66666.66666666667,3
+Azure DevOps Pipelines,66666.66666666667,3
+Database Technologies,66666.66666666667,3
+vCenter,66666.66666666667,3
+Haskell,66666.66666666667,3
+Feature Engineering,66600.0,15
+AV Hardware,66500.0,1
+XSpider,66500.0,2
+AFL,66500.0,2
+OWASP Testing Guide,66500.0,2
+Sound software and hardware,66500.0,1
+Ciscomanaged switch programming,66500.0,1
+OWASP Code Review Guide,66500.0,2
+AV Software,66500.0,1
+Blueprints,66500.0,1
+MaxPatrol,66500.0,2
+Burp,66500.0,2
+Microsoft Windows Environments,66500.0,1
+Intune Mobile Device Management,66400.0,1
+Redgate,66395.0,2
+BASH,66384.25,16
+CPP,66350.0,1
+FPC,66350.0,1
+AZ900,66333.33333333333,3
+CodeIgniter,66333.33333333333,6
+CSA CCSK,66333.33333333333,3
+NetSuite,66327.07692307692,13
+OpenCV,66318.18181818182,11
+FINRA Series 65,66300.0,1
+VB6,66250.0,2
+Derivatives,66250.0,2
+QRadar,66250.0,2
+Business,66062.33333333333,3
+SOAR,66046.0,25
+Citrix and Cisco VPN,66000.0,1
+Microsoft Office 2010 products,66000.0,1
+Actuarial concepts,66000.0,1
+Adobe Professional,66000.0,1
+Windows XP Windows 7 Windows Mobile 6.0  6.5 and Windows 8.1,66000.0,1
+Microsoft DeployR,66000.0,1
+mobile devices (Blackberry iPhones and tablets),66000.0,1
+Dell computers and laptops,66000.0,1
+CISMP,66000.0,2
+OWASP Secure Coding Practices,66000.0,1
+MCPs in current Microsoft workstation server and applications,66000.0,1
+printers,66000.0,1
+PowerFAIDS,66000.0,2
+WSDL,65986.5,4
+Coordination,65946.4,2
+terraform,65825.0,2
+RHEL 8/9,65825.0,2
+Cisco Meraki,65687.5,12
+Data Backup/Recovery,65666.66666666667,3
+Ray,65550.0,6
+SQL DBA,65540.0,2
+Query Tuning,65540.0,2
+Backend development,65520.833333333336,3
+Web,65520.833333333336,3
+Backend,65520.833333333336,3
+AWS SDKs,65500.0,2
+InfoMaker,65500.0,5
+VSAT,65500.0,2
+Testing Frameworks,65437.5,3
+Project Management Tools,65383.333333333336,6
+Threat hunting,65300.0,2
+Packet analysis,65300.0,2
+Search Engine Optimization,65250.0,4
+Network Analytics Tools,65250.0,4
+Jenzabar,65250.0,4
+Reimaging,65240.0,1
+Software Deployment,65240.0,1
+spaCy,65229.166666666664,12
+Web Application Development,65166.666666666664,6
+Relational Database Systems,65166.666666666664,6
+Struts,65163.333333333336,6
+Data lake,65017.0,2
+Camunda,65012.5,4
+Backup/restore,65000.0,2
+Web Proxies,65000.0,1
+Scripting (Python Perl),65000.0,1
+Browser Technologies,65000.0,1
+Voice Mail,65000.0,1
+Training Development,65000.0,1
+Aruba Clearpass,65000.0,2
+Ceridian Dayforce,65000.0,1
+Asynchronous Programming,65000.0,1
+LAG,65000.0,1
+Resourcefulness,65000.0,1
+Cherwell,65000.0,1
+Network Analytics,65000.0,2
+Reinforcement learning,65000.0,3
+ServiceLevel Objectives (SLOs),65000.0,1
+Data Loss Prevention Systems,65000.0,1
+Dask,65000.0,5
+Cloud networks,65000.0,2
+TollFree,65000.0,1
+ServiceLevel Indicators (SLIs),65000.0,1
+Amazon AWS,65000.0,1
+Adobe Illustrator,64939.2,2
+Axios,64939.2,2
+OpenAI API,64895.75,2
+JMS,64883.75,8
+UX design,64812.5,5
+Security Best Practices,64750.0,4
+Cloud Endure,64750.0,2
+Google Docs,64750.0,4
+HTTP,64722.81428571429,35
+IP networking,64712.0,5
+Relational database modeling,64661.5,1
+Agile Methods,64661.5,1
+Data Mart design,64661.5,1
+Semantic Model Definition,64661.5,1
+Cloud Integration,64661.5,1
+CCNA/CCNP,64641.666666666664,3
+DSL,64600.0,4
+JNCP,64514.5,1
+CWDM,64514.5,1
+JNCA,64514.5,1
+MACD,64500.0,2
+Command Line,64493.333333333336,3
+Project Scoping,64480.0,2
+Power Point,64416.666666666664,6
+SQL Server Reporting Services,64375.0,8
+Cloud Infrastructure,64263.63636363636,22
+Ruby,64253.153465346535,101
+Graylog,64250.0,2
+Distributed Systems,64055.882352941175,17
+Elastic Beanstalk,64000.0,1
+Unified Communications (UC),64000.0,1
+Cherwell ticketing system,64000.0,1
+Microsoft Office Suite (Word Projects Explorer),63804.0,1
+Lucernex,63804.0,1
+Construction Documents,63804.0,1
+Construction Terminology,63804.0,1
+Ember,63780.0,5
+SWG,63750.0,2
+Document DB,63750.0,2
+UI Development,63750.0,2
+Seaborn,63750.0,6
+Product design,63750.0,2
+OCI,63619.0,10
+Serverless computing,63570.5,2
+Augmented Reality,63500.0,2
+Software Maintenance,63500.0,2
+PLCs,63466.666666666664,3
+Algorithms,63434.28,30
+Asset management,63360.0,1
+R53,63333.333333333336,3
+Cloud Engineer,63333.333333333336,3
+Solutions Architecture,63333.333333333336,3
+OAuth,63293.82352941176,17
+ReactJs,63250.0,2
+Helm Charts,63083.333333333336,6
+Production Control,63072.0,1
+Security operations/engineering,63072.0,1
+Debit,63072.0,1
+Problem/troubleshooting,63072.0,1
+Data pipelines,63068.333333333336,15
+Forecasting,63041.607142857145,14
+ThreeTier Architectures,63008.0,1
+MobX,63000.0,5
+Functional Specifications,62958.0,4
+iOS Troubleshooting,62920.92,1
+Android Troubleshooting,62920.92,1
+Data science,62918.09090909091,22
+SCADA,62856.5625,8
+infrastructure,62833.333333333336,3
+docker,62833.333333333336,3
+Loadbalancing,62725.0,2
+Snowflake,62572.103305785124,121
+Encryption protocols,62500.0,1
+Intrusion detection systems (IDS),62500.0,1
+Siem,62500.0,1
+Salesforce APEX,62500.0,2
+Business acumen,62500.0,3
+Spreadsheets (Excel or Google Sheets),62500.0,1
+InfrastructureasCode,62500.0,3
+Server hardware troubleshooting,62500.0,1
+RAG Pipelines,62500.0,2
+Infrastructure as a Service,62500.0,1
+Symantec,62500.0,1
+CCNE,62500.0,2
+Server software troubleshooting,62500.0,1
+Wide Area Network (WAN),62400.0,1
+Phones,62400.0,1
+EVDO,62400.0,1
+CCCX,62400.0,1
+UCCX,62400.0,1
+Network diagnostics,62400.0,2
+Identity Access Management IAM,62400.0,1
+Inventory Systems,62400.0,1
+Step functions,62400.0,2
+UCCX (Call Center),62400.0,1
+Unified Communications,62400.0,1
+Automated testing,62400.0,2
+UCCS,62400.0,1
+UNIX/LINUX,62400.0,2
+IAM Compliance,62400.0,1
+Voice over IP (VoIP),62400.0,1
+UCCM,62400.0,1
+USaaS,62400.0,1
+IAM Onboarding,62400.0,1
+IAM Operations,62400.0,1
+Economics,62333.333333333336,3
+ECR,62274.28571428572,7
+SMTP,62266.666666666664,12
+Trello,62200.0,4
+Bitcoin,62100.0,9
+Git/Github,62060.0,2
+Workato,62060.0,5
+Azure Cloud,62047.32142857143,28
+Apple OS,62003.2,2
+File processing,62000.0,1
+Stakeholder relationship,62000.0,1
+Automotive lending,62000.0,1
+Business Development,61966.666666666664,3
+Commvault,61666.666666666664,3
+Bazel,61600.0,5
+Jamf,61490.38461538462,13
+OAuth 2 0,61478.583333333336,6
+Generative AI,61354.166666666664,24
+Linux operating systems,61250.0,2
+AWS Ecosystem,61250.0,2
+Pivotal Cloud Foundry,61250.0,4
+Version control systems,61166.666666666664,3
+TypeScript,61092.68363636364,220
+SSH,61079.52,10
+RIP,61075.0,8
+XHTML,61040.0,5
+MS Windows (10),61000.0,1
+Microsoft 365 Platform,61000.0,1
+MDM Platform,61000.0,1
+Azure Platform,61000.0,1
+IT Technician,61000.0,1
+Cloud Formation,60908.916666666664,12
+Detail Orientation,60850.28,1
+RMA,60850.28,1
+Written and Oral Communication,60850.28,1
+Time and Budget Management,60850.28,1
+Log Me In Rescue,60850.0,1
+Orchestration,60826.666666666664,12
+Heroku,60804.8,5
+AWS Security,60687.5,4
+Ruby on Rails,60647.07692307692,26
+Power Pivot,60493.333333333336,3
+Redis,60490.229464285716,56
+SAML,60478.333333333336,21
+ForgeOS,60457.56,1
+Verizon Wireless,60457.56,1
+Firewall configuration,60450.0,2
+Agile methodologies,60421.11111111111,9
+ElasticSearch,60388.88888888889,18
+Logistic Regression,60325.0,2
+IAM compliance,60320.0,1
+R programming language,60320.0,1
+IAM Onboardings,60320.0,1
+Matlab,60283.333333333336,3
+Google Sheets,60054.166666666664,6
+Business development practices,60000.0,1
+Remix,60000.0,2
+Transportation Experience,60000.0,1
+Restful APIs,60000.0,2
+Structured Data,60000.0,1
+P&L,60000.0,1
+JE,60000.0,1
+Customer Relationship Management (CRM) Software,60000.0,1
+Hardware Software Installation,60000.0,1
+Windows Environments,60000.0,1
+Business development strategies,60000.0,1
+ups,60000.0,1
+Microsoft Domain Environment (Entra ID),60000.0,1
+Freight management,60000.0,1
+Graph,60000.0,2
+BS,60000.0,1
+Bash Scripting,60000.0,2
+Fundraising applications,60000.0,1
+Routing protocols,60000.0,3
+TRANSPORTAION CLAIMS,60000.0,1
+QuickSite,60000.0,1
+Ant Design,60000.0,4
+fedex,60000.0,1
+Freight Claims,60000.0,1
+ITSM Ticketing Systems (Freshservice),60000.0,1
+Oracle RDBMS,60000.0,2
+Chartio,60000.0,2
+Jotai,60000.0,2
+Parcel management,60000.0,1
+Uber Freight,60000.0,1
+ERP oracle,60000.0,1
+ES6/ES7,60000.0,1
+Big Query,59845.833333333336,6
+AI,59840.35820895522,67
+Backend Development,59816.75,6
+Open Source Projects,59800.0,2
+IoT,59753.8125,8
+Spark,59696.18825396825,126
+Load balancing,59642.857142857145,7
+Neural Networks,59605.882352941175,17
+Object Oriented Programming,59550.0,9
+Model N,59448.0,1
+iBuy,59448.0,1
+WebBased Enterprise Customer Center,59448.0,1
+iHold,59448.0,1
+Firmware,59350.0,2
+Software Validation,59350.0,2
+NTP,59324.28571428572,7
+Coaching,59291.666666666664,3
+Pandas,59273.55,90
+Machine Learning,59268.99815864023,353
+Data Loss Prevention,59050.0,10
+UI UX,58850.0,20
+Boosting,58750.0,2
+Security Risk Assessment,58750.0,2
+Database optimization,58750.0,2
+DataStage,58750.0,2
+Random Forests,58750.0,2
+CSF,58750.0,2
+NetBrain,58750.0,2
+Support Vector Machines,58750.0,2
+NLTK,58714.28571428572,14
+LLMs,58621.42857142857,42
+ORM,58593.75,4
+Security Incident,58500.0,1
+Microsoft Office (Excel Word PowerPoint Outlook SharePoint),58500.0,1
+Salesforce NonProfit Success Pack,58500.0,1
+Cloud networking,58483.333333333336,6
+Security testing,58447.038,5
+GitLab CI/CD,58418.57142857143,14
+Bash Shell,58375.0,2
+Synk,58375.0,2
+Developer Relations,58333.333333333336,3
+PIM,58333.333333333336,3
+Electrical Engineering,58325.416666666664,6
+Spatial Analysis,58320.0,1
+Electrical Utility Systems,58320.0,1
+Cartographic Design,58320.0,1
+Dataiku,58267.8,5
+Business Process Management (BPM),58242.125,1
+SDN,58184.375,4
+K8S,58180.0,2
+API Gateway,58171.68965517241,29
+Containerization,58145.0,30
+CVS,58125.0,2
+SOA,57989.10526315789,19
+Third Party Risk Management,57870.0,2
+Gearset,57860.21,2
+ADLS,57798.5,2
+FireHose,57777.5,1
+ETL Pipelines,57777.5,1
+Datadog,57769.619047619046,42
+MATLAB,57704.96666666667,15
+Development,57662.176875000005,8
+CAC,57613.2,1
+technical manual plan and the technical manual inprocess review and validation and verification plans,57613.2,1
+Technical Manual Source Data Records (TMSDR) Technical Directives (TD) Local Engineering Specifications (LES) Local Process Specifications (LPS) Temporary Engineering Instructions (TEI) Design Change Notices (DCN),57613.2,1
+Technical Manual Conferences Quality Assurance InProcess Reviews verification and Integrated Logistics Support Team Meetings,57613.2,1
+IRAC,57613.2,1
+NAVAIR standards,57613.2,1
+NATEC,57613.2,1
+AS2,57589.333333333336,3
+Debugging,57587.318181818184,11
+Server 2008,57580.0,2
+CCENT,57500.0,4
+JavaScript/Typescript,57500.0,2
+Configuration management tools,57500.0,2
+Software Development Lifecycle,57500.0,6
+Flutter,57500.0,7
+Adtran,57500.0,2
+HBSS,57500.0,2
+Azure Application Insights,57500.0,2
+Postgres SQL,57500.0,2
+API Scripting,57500.0,1
+MAC OS,57500.0,1
+Office 365 Administration,57500.0,2
+Linux Administration,57500.0,2
+CPRA,57500.0,2
+Scikit,57500.0,2
+Auto Scaling,57500.0,3
+Yealink Phones,57500.0,1
+Neural Network,57500.0,2
+RMM Systems,57500.0,1
+Tailwind CSS,57450.0,20
+Supply Chain Management,57312.5,4
+Azure Security Center,57200.0,3
+Standard support procedures,57200.0,1
+Azure Sentinel,57200.0,3
+Memory Installs,57200.0,1
+Renovations,57200.0,1
+Rack and Stack,57200.0,1
+Cisco Phones,57200.0,1
+Terminal use,57200.0,1
+Hyper Terminal,57200.0,1
+MDF,57200.0,1
+Security Concepts,57150.0,4
+VLOOKUPs,57107.75,4
+SciPy,57093.75,16
+Telephony,56965.075,8
+Business Process Management,56843.174166666664,6
+JDBC,56824.666666666664,15
+TeamCity,56785.71428571428,7
+DataBricks,56723.166666666664,6
+VMware Horizon View,56666.666666666664,3
+FP A,56666.666666666664,3
+Insurance,56666.666666666664,3
+MFA,56624.65454545454,22
+Apple macOS,56475.0,2
+Cisco Call Manager,56250.0,4
+Statistical Inference,56250.0,2
+Cloudera,56250.0,2
+R Shiny,56250.0,2
+Cloud Modernization,56250.0,2
+Azure Database,56250.0,2
+Jira Confluence,56250.0,2
+pytest,56250.0,2
+IBM Cloud Pak,56250.0,2
+Continuous Improvement,56216.666666666664,6
+Eligibility systems,56160.0,1
+Healthcare / Medicare Advantage,56160.0,1
+Crystal Reports,56121.0,11
+WSUS,56120.0,5
+Security+ CE,56012.0,5
+Mobilefirst development,56000.0,3
+Solution Architecture,55961.53846153846,13
+Cloud Operations,55925.0,2
+Tanium,55925.0,2
+Configuration,55824.083333333336,12
+Scalability,55640.0,12
+MLFlow,55571.42857142857,7
+Root cause analysis,55550.0,4
+SOC II,55550.0,2
+IP addressing,55500.0,5
+Standard Operating Procedures (SOPs),55404.5,2
+Subnets,55304.64,5
+Google Workspace,55284.791666666664,24
+troubleshooting,55196.26666666666,3
+JNCIP,55175.0,2
+N+,55175.0,2
+CCT,55120.0,1
+Ekahau ECSE Troubleshooting,55120.0,1
+CCST,55120.0,1
+CompTIA Network+ (Net+),55120.0,1
+ECSE,55120.0,1
+CWT,55120.0,1
+HTML/CSS,55100.0,6
+Modern design patterns,55075.0,2
+MCSA,55021.92423076923,13
+Testing,55007.7,40
+Print drivers,55000.0,1
+User Story Development,55000.0,2
+Workflow Optimization,55000.0,2
+COOP programs,55000.0,1
+Ceph,55000.0,2
+Research administration,55000.0,1
+Operating Systems (Windows Mac iOS Android),55000.0,1
+Mobile devices and tablets in an MDM,55000.0,1
+Accounting Functions AP AR GL cost accounting,55000.0,1
+Help desk tracking software,55000.0,1
+PERIS,55000.0,1
+Information gathering,55000.0,1
+Hypervisors,55000.0,2
+DR plans,55000.0,1
+Health Informatics,55000.0,1
+Tabletop exercises,55000.0,1
+GPS systems,55000.0,1
+Interviewing,55000.0,1
+Risk Management programs,55000.0,1
+Adobe InDesign,55000.0,1
+Object Storage,55000.0,2
+Macro and/or scripting experience,55000.0,1
+ClickUP,55000.0,1
+ERP/Manufacturing Software,55000.0,1
+A/V – Audio and Video systems,55000.0,1
+Huron suite,55000.0,1
+Autodesk AutoCAD,55000.0,1
+Information Security Principles,55000.0,1
+SeaCare,55000.0,1
+IBM/HCL Notes,55000.0,1
+Imaging and deployment,55000.0,1
+Remote desktop support,55000.0,1
+Probability Theory,55000.0,3
+Corel Word Perfect,55000.0,1
+EHR Systems,55000.0,1
+Global Mapper,55000.0,1
+Neural networks,55000.0,3
+* Java,55000.0,3
+Service Mapping,54960.0,2
+Observability,54936.36363636364,11
+GitLab CI,54890.625,16
+Perch,54870.0,1
+Fortigate Manager,54870.0,1
+Microsoft Server Technologies,54795.2,1
+ACL's,54795.2,1
+SCP,54795.2,1
+IP subnets,54795.2,1
+VLAN's,54795.2,1
+Security Operations,54774.0,6
+SOC,54666.92307692308,13
+Contract Management,54660.0,3
+scikitlearn,54616.328571428574,35
+KCS Methodology,54600.0,1
+Batch processing,54600.0,2
+CRMs,54600.0,1
+Asynchronous programming,54600.0,2
+Onvif profile,54600.0,1
+Video streaming services,54600.0,1
+LFS,54600.0,1
+Google,54588.88888888889,9
+IEC 62304,54500.0,2
+Security Governance,54500.0,2
+Helm,54465.01,50
+Business Process,54450.0,2
+Copado,54200.0,3
+S/4 HANA,54200.0,3
+Linear Algebra,54182.96875,4
+Metrics,54133.333333333336,6
+SOC 2,54041.666666666664,12
+Messaging,54000.0,3
+Altair,53999.0,2
+SIP,53908.35,10
+TDD,53906.857142857145,14
+D3 js,53870.0,10
+Actimize,53750.0,2
+Microsoft Team Foundation Server,53750.0,2
+Windows Operating System,53750.0,2
+Sailpoint,53733.333333333336,3
+Vault,53725.0,6
+Express,53583.333333333336,18
+Apigee,53534.5,4
+Printer troubleshooting,53390.0,2
+SASE,53363.63636363636,11
+Smart Contracts,53333.333333333336,12
+OpenCL,53333.333333333336,3
+Azure Front Door,53333.333333333336,3
+CUDA,53285.71428571428,14
+ITIL certification,53280.0,1
+Windows Certification,53280.0,1
+Service Desk ticketing systems,53280.0,1
+Network configuration,53125.0,4
+Slack,53120.71428571428,21
+VAT,53040.0,2
+Windows (2008 R2/2012),53000.0,2
+NoSQL,52954.73801652892,121
+NGINX,52928.0,5
+CASB,52923.07692307692,13
+Vagrant,52825.0,4
+Smartsheet,52822.17142857143,7
+Test Driven Development,52778.57142857143,7
+Stata,52764.0,2
+Windows Server administration,52750.0,2
+Grafana,52725.57142857143,63
+Neptune,52683.333333333336,3
+Microsoft SQL Server 2019,52500.0,2
+data pipelines,52500.0,2
+Cost Analysis,52500.0,2
+Docker Swarm,52500.0,2
+Reporting Services,52500.0,4
+Salesforce Admin,52500.0,2
+Microsoft SQL Server 2016,52500.0,2
+Azure Fundamentals,52500.0,2
+Function Apps,52500.0,2
+Core Web Vitals,52500.0,2
+Microsoft Windows Server 2016,52500.0,2
+Log shipping,52500.0,2
+ServiceOriented Architecture,52500.0,4
+Relational Database,52500.0,5
+Data Engineering,52492.181818181816,22
+TensorFlow,52436.62761506276,239
+MPBGP,52435.0,2
+MS Teams/Zoom,52431.0,1
+UI Design,52416.666666666664,6
+CLI,52370.0,5
+Computer science,52349.666666666664,6
+Joomla,52333.333333333336,6
+Adobe Creative Cloud,52292.4,5
+Robotics,52250.0,4
+RTE,52224.8,2
+XSD,52128.333333333336,3
+CSA,52089.375,4
+Red Hat Enterprise Linux,52006.38333333333,6
+Objectoriented programming,52002.27272727273,11
+Exchange Online,52000.91428571429,7
+Cisco Systems,52000.0,2
+Network Concepts,52000.0,2
+LCM,52000.0,1
+FAN,52000.0,1
+Network Segmentation,52000.0,2
+GCP,51903.18832061069,262
+HEDIS,51850.0,2
+Web Development,51843.269230769234,13
+Vulnerability Scanners,51833.333333333336,3
+Security awareness training,51568.75,2
+Network security groups,51568.75,2
+Compliance audits,51568.75,2
+IP Networking,51533.333333333336,3
+IOSXE,51516.666666666664,3
+Stackdriver,51437.5,2
+ML Algorithms,51375.0,2
+RESTful API,51319.604166666664,24
+Pivot tables,51286.2,5
+GraphQL,51263.18356164383,73
+Chef,51263.02777777778,72
+CCNP Security,51250.0,2
+Object storage,51250.0,2
+Authentication Systems,51250.0,2
+iSeries,51250.0,2
+Content Filtering,51250.0,2
+Power Systems,51250.0,2
+Angular.js,51250.0,4
+Block storage,51250.0,2
+File storage,51250.0,2
+Jupyter Notebooks,51229.875,8
+Stripe,51187.5,2
+Windows Active Directory,51124.0,6
+Elasticsearch,51096.4,35
+Big data,51066.666666666664,6
+React js,51035.10638297872,47
+Security Documentation,51000.0,2
+Vertica,51000.0,5
+ETL Processes,51000.0,3
+Technical Troubleshooting,50960.0,1
+EDR/XDR,50864.0,8
+Databases,50856.34259259259,54
+AWS Glue,50853.708333333336,12
+Financial Modeling,50822.96666666667,15
+CI/CD Pipelines,50761.42857142857,14
+MLflow,50714.28571428572,7
+Network Diagnostics,50666.666666666664,9
+GenAI,50655.882352941175,17
+Cloud computing,50596.52631578947,19
+Spring Framework,50545.63636363636,11
+File Services,50500.0,2
+Firemon,50440.0,2
+NATs,50440.0,2
+ArgoCD,50386.666666666664,12
+Test automation,50374.875,4
+H.323,50366.75,2
+Mainframes,50366.75,2
+VP9,50366.75,2
+Network Analyzers,50366.75,2
+FHIR,50364.28571428572,7
+IaC,50340.68965517241,58
+Oracle databases,50311.0,2
+Harness,50310.0,10
+API design,50287.5,4
+BPA,50266.666666666664,3
+React/Redux,50266.666666666664,3
+CPRE,50266.666666666664,3
+CBDA,50266.666666666664,3
+Presentation skills,50266.666666666664,3
+Splunk SOAR,50125.0,2
+SANS Certifications,50125.0,2
+Argo CD,50048.0,6
+Deep Learning,50008.32840909091,66
+Azure Active Directory/Microsoft Entra ID,50000.0,1
+Client OS troubleshooting,50000.0,1
+MYSQL,50000.0,3
+Data preprocessing,50000.0,4
+Microsoft Azure Cloud,50000.0,2
+Network Topologies,50000.0,2
+Intune\Endpoint Manager,50000.0,1
+ClickHouse,50000.0,3
+Predictive Analysis,50000.0,2
+Akamai,50000.0,3
+Azure Rights Management.,50000.0,1
+DuckDB,50000.0,2
+Maintenance,50000.0,2
+Hardware installation and maintenance,50000.0,1
+Data backup and recovery,50000.0,1
+RFP,50000.0,3
+Remote monitoring and maintenance (RMM) systems,50000.0,1
+Network management tools,50000.0,3
+Mobile device management (MDM),50000.0,1
+Infor Syteline,50000.0,2
+Microsoft MCP,49931.73333333334,3
+AWS EC2,49887.619047619046,21
+Workday Adaptive,49850.0,2
+Foundation,49833.333333333336,12
+Data Interpretation,49792.0,5
+Endpoint security solutions,49742.5,2
+Data Quality Assurance,49733.333333333336,3
+Event Driven Architecture,49725.0,2
+DLP,49659.09090909091,33
+Agile development methodologies,49640.0,2
+JavaScript ES6+,49640.0,2
+Engineering,49486.0,10
+PowerBI Reporting Server,49480.0,2
+VBS,49480.0,2
+AlwaysOn Availability Groups,49375.0,4
+FTP,49342.2909090909,11
+Cloudformation,49325.0,4
+Information security,49308.77375,8
+Machine Learning (ML),49285.71428571428,7
+System Security,49250.0,4
+Epic EMR,49218.75,2
+cloud computing,49200.0,3
+Mobile,49140.625,4
+FastAPI,49080.01315789474,38
+Broadband,49000.0,4
+Business intelligence,49000.0,5
+Software development tools and platforms,48960.5,1
+Web analytics tools,48960.5,1
+Frontend web languages,48960.5,1
+CMS (WordPress Joomla or Drupal),48960.5,1
+CMS (content management systems),48960.5,1
+Version control systems (Git),48960.5,1
+UI and UX design principles,48960.5,1
+Web standards and accessibility guidelines,48960.5,1
+AWS Redshift,48960.0,5
+Windows Server 2016,48916.666666666664,3
+Server Administration,48900.0,5
+Imaging,48880.0,1
+MS 365,48880.0,1
+Microsoft Windows 11,48880.0,1
+Programming / Scripting languages,48880.0,1
+Advanced SQL,48880.0,1
+Networking Basics,48880.0,1
+Salt,48853.75,8
+Advanced Excel,48818.0,5
+JDE,48750.0,2
+Data Science,48747.58208955224,67
+Cloud Certifications,48725.0,2
+WINS,48702.0,5
+Helpdesk,48575.0,4
+ERP systems,48571.42857142857,7
+HyperV Manager,48533.333333333336,3
+Azure Stack,48533.333333333336,3
+Windows Admin Center,48533.333333333336,3
+Azure Arc,48533.333333333336,3
+Microsoft Endpoint Manager (Intune),48400.0,2
+Kafka,48390.86439655172,116
+SPSS,48341.21666666667,6
+Qdrant,48333.333333333336,3
+RAG,48333.333333333336,3
+SAIS,48330.0,2
+Synergy,48330.0,2
+IPS/IDS,48321.75,4
+Objective C,48316.666666666664,3
+Team Management,48273.333333333336,3
+MS Access,48232.0,11
+Server 2003,48160.0,1
+Adobe,48128.857142857145,14
+Erwin Data Modeler,48106.81666666666,3
+TOAD Data Modeler,48106.81666666666,3
+J2EE,48090.57142857143,35
+Palo Alto Networks,47925.0,16
+MLOps,47914.0,25
+UPS claims processing,47840.0,1
+freight claims investigations,47840.0,1
+Chart.js,47840.0,5
+Natural Gas Distribution System,47840.0,1
+Smallworld,47840.0,1
+automated freight claims systems,47840.0,1
+Esri ArcGIS Pro,47840.0,1
+Utility GIS,47840.0,1
+GIS degree,47840.0,1
+Swagger,47772.72727272727,11
+SOX,47746.0,15
+CloudFormation,47706.276190476194,105
+Network connectivity,47682.2,2
+Capacity Planning,47616.683000000005,10
+OSI Model,47612.307692307695,13
+Supervised Learning,47530.666666666664,9
+Unsupervised Learning,47530.666666666664,9
+CND,47520.0,3
+ESXi,47500.0,10
+NinjaRMM,47500.0,3
+SQL Server AlwaysOn Availability Groups,47500.0,2
+Collibra Workflow,47500.0,1
+Help desk ticket system,47500.0,1
+ETL Development,47500.0,2
+Content filtering,47500.0,3
+Trainor,47500.0,1
+Enterprise Messaging,47500.0,1
+Audio/Visual Equipment,47500.0,1
+JMS/MQ,47500.0,3
+Scanner troubleshooting,47500.0,1
+Windows Cluster,47500.0,2
+Microsoft Desktop Security Patches,47500.0,1
+Core Data,47500.0,3
+Microsoft Dynamics AX,47500.0,2
+JFrog Artifactory,47500.0,4
+cPanel,47500.0,3
+Financial Markets,47500.0,2
+Zoom,47381.12173913044,23
+Packer,47300.0,7
+ELT,47269.11111111111,9
+NET Framework,47250.0,10
+Microsoft Windows security events,47250.0,2
+MySql,47166.666666666664,3
+Vue js,47155.26315789474,76
+Phone,47147.2,2
+Data Automation,47050.0,2
+ArcPy,47000.0,2
+FME,47000.0,2
+Concur,47000.0,2
+CI/CD Tooling,46920.0,2
+Access Control Lists,46906.666666666664,3
+Gap analysis,46875.0,4
+Kubernetes,46856.84918918919,592
+Data Masking,46813.333333333336,3
+Customization,46800.0,2
+Windows server,46800.0,3
+PC Maintenance,46800.0,1
+Outlook Configuration,46800.0,1
+Helpdesk Ticketing System,46800.0,1
+Password Reset,46800.0,1
+Economics/Finance,46800.0,1
+Scanner Installation,46800.0,1
+Discrete Simulation,46800.0,1
+Sage X3,46800.0,2
+Firstin Firstout (FIFO),46800.0,1
+Printer Installation,46800.0,1
+Asset inventory,46800.0,1
+Interface Management,46800.0,2
+Asset tracking software,46800.0,1
+AAA,46800.0,3
+Basic Networking,46800.0,1
+LifeCycle Model,46800.0,1
+Meetings,46800.0,2
+Windows Deployment,46800.0,1
+Email Management,46800.0,1
+Mac Troubleshooting,46800.0,1
+macOS Deployment,46800.0,1
+Asset Tracking Software,46800.0,1
+Tripwire,46800.0,3
+PC Support,46800.0,1
+Microsoft Power Automate,46800.0,2
+Data Structures,46764.151724137926,29
+Metadata,46666.666666666664,3
+CMMC,46666.666666666664,6
+Nuxt.js,46666.666666666664,3
+Data transformation,46666.666666666664,3
+HPE Storage,46666.666666666664,3
+SQL Server Management Studio,46557.74642857142,14
+Tomcat,46491.23529411765,34
+React.js,46440.239045936396,566
+Problem Management,46429.083333333336,6
+NAC,46398.142857142855,7
+Oracle Data Integrator (ODI),46384.0,3
+InstallShield,46381.333333333336,3
+Empathy,46360.0,1
+Terraform,46351.75390243903,492
+Linux Systems,46333.333333333336,3
+IT Help Desk,46250.0,2
+SSL/TLS,46250.0,4
+PC Software,46250.0,2
+vSphere,46250.0,8
+Tanzu,46250.0,2
+MPI,46250.0,4
+PeopleSoft,46207.5,12
+Security Incident Management,46186.666666666664,3
+Forescout,46143.5,2
+Gigamon,46143.5,2
+AWS CLI,46142.333333333336,12
+NumPy,46137.813953488374,43
+Database systems,46120.0,2
+Adobe Acrobat,46042.514285714286,7
+Cloud Networking,46000.0,5
+Statistical methods,46000.0,5
+CI CD,45942.74091503268,306
+MAN,45913.333333333336,3
+SSAS,45897.94285714286,35
+Normalization,45875.0,4
+Google Cloud,45867.68292682927,82
+Statistics,45863.31048387097,93
+Gurobi,45846.666666666664,6
+CPLEX,45846.666666666664,6
+Microservice,45833.333333333336,3
+STIGs,45833.333333333336,3
+SCSS,45798.166666666664,6
+URL Filtering,45750.0,2
+Dynamic Routing,45750.0,2
+NiFi,45723.166666666664,6
+CodePipeline,45714.28571428572,7
+NGFW,45700.0,5
+User Testing,45650.0,2
+CostBenefit Analysis,45610.666666666664,3
+MS PowerPoint,45598.333333333336,12
+Python,45595.577346287704,1724
+SVN,45576.92307692308,13
+Cryptography,45526.31578947369,19
+Cloud+,45525.0,2
+CASP+,45525.0,2
+Cisco Certified Network Associate (CCNA),45525.0,2
+CPT,45505.5,7
+Unit Testing,45450.520833333336,24
+Keras,45380.27272727273,33
+STP,45341.666666666664,6
+Data storage,45333.333333333336,3
+ECommerce,45234.75,2
+Pricing,45234.75,2
+BigQuery,45189.53407894736,38
+CrossFunctional Teams,45173.333333333336,3
+EDR,45169.32352941176,34
+Qlik,45159.681818181816,11
+Boomi,45100.0,3
+Fireworks,45066.666666666664,3
+Zookeeper,45066.666666666664,3
+Arena,45040.0,2
+Xpress,45040.0,2
+AMPL,45040.0,2
+VPCs,45032.555555555555,9
+Exchange Office 365,45000.0,1
+DNS/DHCP/TCP/IP/WAN/LAN,45000.0,1
+CISSP Certification,45000.0,3
+One Drive/SharePoint/Intune,45000.0,1
+FAISS,45000.0,3
+Ubiquiti UniFi,45000.0,2
+Monday com,45000.0,4
+PL/I,45000.0,2
+Mobile Device Management (MDM),45000.0,2
+Transact SQL,45000.0,5
+Product development,45000.0,3
+NVIDIA Jetson,45000.0,3
+Technical Design,45000.0,2
+Node Js,45000.0,2
+Routers/Switches/Access Points,45000.0,1
+GitOps,44910.0,25
+Active Listening,44720.0,1
+Reading Comprehension,44720.0,1
+Office Procedures,44720.0,1
+Speaking,44720.0,1
+Judgment and Decision Making,44720.0,1
+Instructing,44720.0,1
+Shell,44612.0625,32
+JAVA,44594.666666666664,9
+DNP3,44480.0,2
+Network Routing,44452.8,2
+Storage Systems,44452.8,2
+Powerpoint,44450.0,4
+MapReduce,44404.729999999996,10
+SailPoint,44400.0,5
+Data Validation,44340.0,10
+Fuzzing,44333.333333333336,3
+Drupal,44312.8,15
+OpenShift,44277.77777777778,18
+Wireless technologies,44275.0,4
+Octopus Deploy,44241.666666666664,6
+Sensor Fusion,44200.0,2
+Object Detection,44200.0,2
+Data Virtualization,44200.0,2
+OBIEE,44200.0,2
+LiDAR,44200.0,2
+Power Query (M),44200.0,2
+Amazon Web Services AWS,44195.833333333336,12
+Software engineering,44190.27777777778,9
+Cloud migration,44166.666666666664,3
+EBS,44166.666666666664,6
+IT Infrastructure,44128.264,5
+Google Cloud Platform,44051.76682692308,52
+Informix,44047.22222222222,9
+UC,44000.0,3
+Technical Documentation,43960.0,9
+Graph Databases,43849.6,5
+OSCP,43834.944444444445,9
+DynamoDB,43826.05,60
+COTS,43775.0,7
+Dynamics GP,43750.0,2
+Medical Devices,43750.0,2
+APM,43750.0,4
+Automation tools,43750.0,2
+SQL Server 2012,43693.333333333336,3
+ELK Stack,43677.458333333336,12
+Ignition,43666.666666666664,3
+Spring MVC,43643.333333333336,6
+matplotlib,43619.5,3
+ggplot,43619.5,3
+IPv6,43603.333333333336,6
+Budgeting,43586.4,2
+Encryption Software,43575.0,1
+Exchange Management Console (EMC),43575.0,1
+Cisco VIOP phones,43575.0,1
+Reverse engineering,43533.333333333336,3
+Data warehouse,43344.666666666664,3
+Ports,43334.4,1
+Android OS,43334.4,1
+Desktop Central,43334.4,1
+MAC addresses,43334.4,1
+ACMT Certification,43334.4,1
+Projectors,43334.4,1
+TVs,43334.4,1
+Office suite,43334.4,1
+ClickShares,43334.4,1
+Smartboards,43334.4,1
+JSS,43334.4,1
+Gmail,43334.4,1
+Visual Basic for Applications (VBA),43333.333333333336,3
+MBSE,43333.333333333336,3
+AWS IAM,43295.0,4
+Adobe Photoshop,43292.799999999996,3
+Fetch,43292.799999999996,3
+Azure Cosmos DB,43263.833333333336,3
+Streamlit,43208.333333333336,6
+Security Monitoring,43158.333333333336,9
+AWS,43152.55924178602,1187
+Node.js,43123.94117647059,68
+React Native,43088.37209302326,43
+Active Directory Services,43075.0,2
+Elastic Search,43027.77777777778,9
+Fivetran,43000.0,2
+Linux OS,43000.0,5
+Node js,42994.77938596491,228
+Functional Analysis,42986.666666666664,3
+Next Generation Firewalls,42800.0,5
+Conflict Resolution,42794.715,8
+Cloud Security,42784.27906976744,43
+NextJS,42769.6,25
+Polarion,42750.0,2
+PowerShell Scripting,42725.71428571428,7
+REST,42697.98148148148,108
+Version control,42572.875,12
+MS Office Suite,42554.625,24
+MSSQL,42531.71578947368,38
+Inmon,42520.0,2
+Kimball,42520.0,2
+Purview,42506.666666666664,6
+Microsoft Defender for Endpoint,42500.0,2
+Grandstream,42500.0,2
+Cisco OS,42500.0,2
+Healthcare IT,42500.0,2
+Endpoint protection,42500.0,6
+Microsoft Technologies,42500.0,2
+Guidewire,42500.0,4
+Google Chrome,42500.0,2
+Certificate Authorities,42500.0,2
+CIFS,42500.0,2
+OLAP,42500.0,8
+Confidentiality,42500.0,4
+Business process modeling,42500.0,3
+Microsoft AD,42500.0,2
+Proofpoint,42500.0,4
+G Suite,42373.822222222225,9
+Vertex AI,42371.979166666664,6
+HA/DR,42346.666666666664,3
+WebSphere,42335.0,10
+Unix Linux,42312.108499999995,20
+Next js,42251.11111111111,45
+Decision Trees,42250.0,6
+Waterfall,42243.13333333333,30
+Reinforcement Learning,42107.692307692305,13
+GoLang,42060.71428571428,14
+Batch,42059.7,10
+Databricks,42052.65833333333,120
+IVR,42000.0,2
+Responsive web design,42000.0,4
+Hypothesis testing,42000.0,5
+iSCSI,42000.0,5
+Integration Services,42000.0,5
+Fiber,42000.0,5
+Microservice Architecture,41991.666666666664,6
+Process Mapping,41979.6,4
+Standard Operating Procedures,41979.6,4
+Agiloft,41967.600000000006,2
+Ubiquiti,41875.0,4
+Matplotlib,41797.11111111111,18
+Database Software,41781.4,1
+Online Video Chat,41781.4,1
+CI/CD tools,41750.0,5
+Git,41720.6625,470
+Data Visualization,41714.998611111114,90
+Data modelling,41666.666666666664,3
+Knime,41666.666666666664,3
+Security Information and Event Management (SIEM),41666.666666666664,3
+MikroTik,41666.666666666664,3
+Cloud Platforms,41659.09090909091,11
+SNMP,41651.425,32
+RESTful APIs,41628.557471264365,87
+Data Warehouse,41607.2,10
+IAM,41601.33908045977,87
+PureCloud,41600.0,1
+Virtual Desktop Interface (VDI),41600.0,1
+Workflow Analysis,41600.0,5
+Azure Office 365,41600.0,1
+Multifactor Authentication (MFA),41600.0,1
+Salesforce Data Cloud,41586.25,2
+Ansible,41563.754092526695,281
+Data Hygiene,41530.0,2
+Image Processing,41500.0,4
+Version Control,41468.75,8
+Video Cameras,41454.4,1
+Access Control Systems,41454.4,1
+Computer Software/Databases,41454.4,1
+SaaS,41440.75925925926,54
+VLAN,41439.230769230766,26
+JavaScript,41343.108510638296,846
+PostgreSQL,41338.04686346863,271
+Predictive modeling,41333.333333333336,12
+Teams,41313.679487179485,39
+Report Development,41275.0,3
+APIs,41273.71395348837,43
+regex,41250.0,2
+DISA STIGs,41250.0,4
+Team Foundation Server,41250.0,4
+Computer Skills,41250.0,2
+Linux,41237.398981670056,491
+AWS Cloud,41234.545454545456,11
+Data Pipelines,41152.92105263158,19
+Analytical Thinking,41150.68571428571,7
+Database,41122.22222222222,18
+Hive,41121.140740740746,27
+CSS3,41112.13164556962,79
+Validation,41071.166666666664,6
+Java,41031.0380112835,709
+REST APIs,41011.530666666666,75
+Cloud SQL,40993.57142857143,7
+Mockito,40833.333333333336,3
+Log Shipping,40833.333333333336,9
+Networking technologies,40833.333333333336,3
+Salesforce,40768.1615909091,110
+Powershell,40763.862857142856,35
+Online video chat,40757.5,1
+Cassandra,40755.14772727273,44
+HRIS,40700.0,8
+* Microservices,40666.666666666664,3
+Elastic,40643.75,8
+Puppet,40619.132530120485,83
+Continuous Delivery,40600.72727272727,11
+Analytics,40592.68369565217,23
+Software Architecture,40570.0,10
+Docker,40560.969041322314,605
+Image processing,40537.25,2
+Image analysis,40537.25,2
+Data mining,40532.294117647056,17
+Data Integrity,40527.64444444444,9
+YAML,40524.53407407407,27
+DMVPN,40500.0,5
+Agile Methodology,40488.63636363636,11
+Zscaler,40388.7,10
+Telcor,40387.5,2
+Bash,40351.65706806283,191
+MongoDB,40332.024539877304,163
+GO,40310.0,10
+Oracle Cloud Infrastructure,40300.0,3
+Node,40235.294117647056,17
+Redux,40216.1253164557,79
+Containers,40202.22222222222,36
+Subversion,40166.666666666664,6
+PMP,40154.0,10
+Knowledge Base Articles,40150.0,1
+Okta,40142.16875,32
+Agile development,40046.666666666664,6
+MTAHTML5 App Development,40040.0,1
+Zend Certified PHP Engineer,40040.0,1
+Progressive Web App,40040.0,1
+API,40008.346774193546,62
+Software Development,40004.0625,40
+Data ingestion,40000.0,3
+Wiz,40000.0,4
+MS Intune,40000.0,2
+Salesforce Administrator,40000.0,2
+EventBridge,40000.0,8
+Cognex,40000.0,2
+Vanta,40000.0,2
+Allen Bradley,40000.0,2
+Subnet masking,40000.0,2
+ARM,40000.0,7
+Wireless Networking,40000.0,2
+Feature engineering,40000.0,5
+FortiOS,40000.0,2
+Flow cytometry,40000.0,2
+Networking Technologies,40000.0,2
+Siemens,40000.0,2
+Crestron,39975.0,4
+Web3,39906.25,20
+Context API,39866.666666666664,6
+Statistical analysis,39863.833333333336,18
+Linux Unix,39726.666666666664,12
+ARM templates,39605.0,10
+Security Information Event Management (SIEM),39600.0,2
+Microsoft Fabric,39583.333333333336,6
+ETL/ELT,39583.333333333336,6
+ECS,39568.8,40
+DAST,39500.0,6
+Design,39464.248076923075,13
+MySQL,39441.60039840637,251
+Stored Procedures,39430.555555555555,9
+LEAN,39400.0,2
+CAD,39365.0,8
+Hadoop,39224.18023255814,86
+Illustrator,39200.0,6
+Security Awareness,39166.666666666664,3
+Office365,39090.90909090909,11
+OOP,39011.825,32
+SonicWALL Network appliances,39000.0,1
+IP & VOIP systems,39000.0,1
+Computer Engineering,39000.0,2
+CCTV systems,39000.0,1
+POS systems,39000.0,1
+Door access systems,39000.0,1
+Asset and ticketing management systems,39000.0,1
+Centeredge,39000.0,1
+Bamboo,38922.230769230766,13
+Data visualization,38860.642857142855,28
+Open Source,38785.0,5
+DoD Directive 8570,38781.25,2
+CompTIA Security+ CE,38781.25,2
+Business Requirements,38780.857142857145,14
+Quality Assurance,38777.77777777778,9
+Podman,38766.666666666664,3
+Software development,38750.0,2
+US Citizenship,38750.0,2
+FIPS,38750.0,2
+Security architecture,38706.0,5
+DAX,38585.416666666664,24
+Key Vault,38532.333333333336,3
+App Services,38532.333333333336,3
+Teradata,38513.63333333334,21
+Network Technologies,38450.0,2
+Large Language Models,38425.0,20
+Intune,38384.69714285714,35
+Predictive Modeling,38375.0,12
+S1000D,38347.6,3
+PTC Arbortext,38347.6,3
+CSDB,38347.6,3
+IETM,38347.6,3
+MILSTD3001,38347.6,3
+Glassfish,38333.333333333336,3
+Certificate Manager,38333.333333333336,3
+AWS Workspaces,38333.333333333336,3
+Web Services,38309.375,16
+Management,38275.50416666666,6
+MongoDB Atlas,38250.0,4
+GitLab,38215.03164556962,79
+Data privacy,38187.5,4
+DevSecOps,38153.476744186046,43
+Artificial Intelligence,38150.104545454546,22
+CBAP,38096.0,10
+Wireshark,38030.642857142855,42
+OpenGL,38000.0,4
+Webex,37980.0,5
+Loan IQ,37916.666666666664,6
+Data modeling,37911.041666666664,48
+SQL,37873.32206221937,1559
+Azure Logic Apps,37857.142857142855,7
+Perl,37818.10967741935,62
+Ubuntu,37763.88888888889,9
+QlikView,37750.0,8
+RESTful,37746.875,16
+REXX,37736.4,2
+TSO,37736.4,2
+Business Knowledge,37725.0,2
+AAC,37700.0,4
+Vulnerability Management,37685.333333333336,30
+Gradle,37570.0,25
+NFS,37544.444444444445,9
+Oracle Eloqua,37500.0,2
+PMBOK,37500.0,3
+AWS Aurora,37500.0,3
+Database Architecture,37500.0,3
+Cloud Deployment,37500.0,3
+Platform as a Service (PaaS),37500.0,3
+Infrastructure as a Service (IaaS),37500.0,3
+Azure Database Administrator,37500.0,3
+Requirements Documentation,37500.0,5
+Security Protocols,37500.0,2
+Firewall administration,37500.0,2
+Software as a Service (SaaS),37500.0,3
+Cloud infrastructure,37416.666666666664,6
+Application Security,37400.0,10
+User Support,37391.5,3
+RHEL,37388.5,10
+Apache,37368.333333333336,30
+SDLC,37335.25688073395,109
+Secure Coding Practices,37320.0,5
+Sagemaker,37307.692307692305,13
+Statistical Modeling,37271.25,20
+ArcGIS Online,37250.0,4
+Systems Development,37213.5,2
+RAID,37187.5,8
+MyOrder,37180.0,2
+MSRA,37180.0,2
+MS Invoice,37180.0,2
+FDA,37166.707500000004,2
+UI,37126.666666666664,9
+Cloud architecture,37091.57142857143,7
+RTP,37090.0,5
+LOINC,37083.333333333336,6
+Athena,37077.0,12
+Oracle Cloud,37062.5,8
+CentOS,37045.0,10
+TSQL,37000.36578947368,95
+CI/CD pipelines,37000.0,20
+Apache NiFi,37000.0,4
+ADDS,36975.0,2
+Apache Spark,36946.875,24
+O365,36904.76190476191,21
+Pega,36887.5,4
+Integration Testing,36871.25,10
+Wireframes,36846.0,2
+NAT,36810.0,16
+Sales,36785.71428571428,7
+PC,36740.0,5
+Elastic Stack,36716.666666666664,3
+System Analysis,36705.77272727273,22
+ICD10,36683.5,6
+Visual Basic,36672.8,15
+Power BI Service,36666.666666666664,3
+Cloudian,36666.666666666664,3
+CMDB,36640.0,3
+Langchain,36631.25,8
+ISO20022,36586.666666666664,3
+Bitbucket,36536.318181818184,44
+NAS,36500.0,10
+API Gateways,36480.0,4
+Computer Science,36471.085945945946,37
+Domo,36400.0,5
+OneLogin,36400.0,2
+HTML,36339.93198090692,419
+CircleCI,36283.65217391304,23
+MS Excel,36283.26818181818,44
+JAMF,36273.17647058824,17
+Microsoft Endpoint Manager,36250.0,2
+NET,36249.153600000005,125
+Oracle PL/SQL,36237.5,4
+iOS,36236.54347826087,46
+Cryptocurrency,36214.28571428572,7
+Figma,36184.333333333336,36
+Load Balancing,36157.32307692308,13
+Planning,36106.75,4
+Google Analytics,36094.34482758621,29
+Upgrades,36080.112499999996,2
+Microsoft Office Professional,36080.112499999996,2
+Industry standards,36080.112499999996,2
+Packages,36080.112499999996,2
+Performance monitoring,36080.112499999996,2
+Data Mining,36070.666666666664,30
+Serverless,36061.913043478264,23
+Cloud,36015.831168831166,77
+Mobile Device Management,36000.0,5
+Neo4J,35999.333333333336,3
+Photoshop,35927.27272727273,11
+Nutanix,35909.09090909091,11
+MS Word,35861.14,20
+BI Publisher,35833.333333333336,3
+SQL Server Management Studio (SSMS),35833.333333333336,3
+Azure SQL DB,35833.333333333336,3
+Alteryx,35798.104166666664,24
+Penetration Testing,35769.230769230766,13
+DevOps,35761.69832752613,287
+CSS,35716.69518072289,415
+Crowdstrike,35687.5,5
+VBA,35667.4358974359,39
+Svelte,35642.857142857145,7
+CloudFlare,35625.0,4
+Neo4j,35625.0,8
+MariaDB,35588.0625,8
+Prompt Engineering,35562.5,8
+Tableau,35543.269594594596,370
+Security Measures,35500.0,2
+Power Query,35469.94285714286,21
+PySpark,35466.217391304344,46
+HTML5,35412.70291262136,103
+SentinelOne,35388.57142857143,7
+ITIL Foundation,35302.784,5
+MDM,35218.656,25
+Math,35200.0,5
+Fiber Optics,35160.0,2
+MS Exchange,35100.0,4
+802.1x,35100.0,4
+EKS,35008.82352941176,51
+Apache Kafka,35006.25,16
+Process Development,35000.0,2
+Microsoft Tools,35000.0,2
+LlamaIndex,35000.0,4
+Coupa,35000.0,3
+RStudio,35000.0,2
+Google Cloud Storage,35000.0,2
+Google Tag Manager,35000.0,7
+Strategic Thinking,35000.0,3
+QuickBooks,35000.0,2
+SLO,35000.0,2
+Help desk ticketing systems,35000.0,2
+Team Collaboration,35000.0,2
+HR,35000.0,4
+Procurement,35000.0,3
+Capacity planning,35000.0,3
+OneStream,35000.0,5
+Azure DevOps,34972.14159836066,122
+Nginx,34922.11111111111,27
+Responsive design,34910.083333333336,6
+Go Lang,34875.0,4
+Pattern Recognition,34875.0,4
+Data Services,34812.0,3
+Burp Suite,34800.0,8
+PowerBi,34750.0,4
+Kinesis,34713.86111111111,18
+Database Management Systems,34691.46666666667,6
+MPLS,34688.849565217395,46
+Container Orchestration,34666.666666666664,3
+SAST,34666.666666666664,3
+ACI,34666.666666666664,3
+Cloudflare,34642.857142857145,7
+Argo,34636.0,5
+REST/SOAP,34624.0,4
+Graph QL,34624.0,4
+Flask,34591.16346153846,52
+Citrix,34572.208333333336,24
+Data Cleaning,34545.454545454544,11
+Business Operations,34543.75,2
+Business Process Improvement,34485.0,4
+Software Development Life Cycle,34400.0,6
+Version Control Systems,34400.0,5
+Azure Data Services,34375.0,4
+Azure Synapse Analytics,34375.0,4
+PCSA,34371.2,5
+IT security,34350.0,7
+NIST SP 80053,34333.333333333336,3
+SCAP,34333.333333333336,3
+Stakeholder Management,34316.84210526316,19
+OpenAPI,34270.0,5
+GitHub,34250.953424657535,146
+Unix shell scripting,34250.0,4
+Digital Marketing,34250.0,2
+Regex,34250.0,2
+Dashboarding,34250.0,4
+Scripting languages,34212.5,8
+Qualtrics,34206.0,2
+tcpdump,34166.666666666664,3
+Antivirus Software,34166.666666666664,3
+Test Automation,34152.0,4
+IPv4,34139.066666666666,6
+Data Privacy,34125.0,10
+C,34122.099311926606,436
+Relational Databases,34063.15789473684,19
+VRF,34006.25,8
+ObjectOriented Programming,34000.0,5
+IT Operations,34000.0,5
+Playwright,33937.5,16
+Data Factory,33928.57142857143,7
+Microsoft Azure,33915.141758241756,91
+Flink,33912.5,8
+SIEM,33889.91891891892,148
+ML algorithms,33887.5,4
+Deployment,33867.518749999996,12
+Data Recovery,33866.683000000005,5
+Azure Virtual Machines,33800.0,4
+Cypress,33766.0,25
+AWS CodePipeline,33750.0,4
+Payment Processing,33750.0,2
+Microsoft Entra ID,33750.0,4
+GitHub Actions,33738.63636363636,44
+Cloud Computing,33715.063157894736,95
+Security controls,33685.625,8
+MCP,33659.840000000004,10
+Data Center,33615.38461538462,13
+Junit,33580.0,7
+WAN Technologies,33577.833333333336,3
+MS Project,33525.0,12
+Regression Testing,33500.0,2
+Threat Modeling,33500.0,2
+Cloud Architect,33500.0,10
+Server 2016,33500.0,2
+Critical thinking,33500.0,2
+System Administration,33493.019230769234,26
+Agile,33479.83015184382,461
+JSON,33431.34226804124,97
+ALM,33400.0,5
+OSI model,33388.88888888889,9
+VMware ESXi,33333.333333333336,3
+InDesign,33333.333333333336,3
+Data,33333.333333333336,6
+Grunt,33328.57142857143,7
+Tailwind,33277.77777777778,9
+OneNote,33274.5,2
+Network Equipment,33250.0,2
+CCPA,33214.28571428572,7
+FLSA PayTrain,33175.0,2
+802.11,33125.0,4
+UNIX,33116.90476190476,21
+AWS Cloud Practitioner,33081.96,2
+ASP NET,33056.42857142857,28
+WiFi,33042.857142857145,14
+Palo Alto Firewalls,33006.5325,14
+Big Data Technologies,33000.0,2
+Data governance,33000.0,4
+ASP,33000.0,6
+Transparent Data Encryption (TDE),32986.666666666664,3
+Android,32981.645161290326,31
+Red Hat Linux,32950.0,10
+LDAP,32866.70344827586,29
+ACL,32862.5,8
+Azure Pipelines,32857.142857142855,7
+ISO,32816.666666666664,18
+Cylance,32812.5,3
+Logging,32808.333333333336,6
+SQL Server Replication,32770.0,4
+Kanban,32668.620689655174,29
+UML,32667.80769230769,13
+Interpersonal skills,32666.666666666668,6
+Django,32649.589743589742,78
+Microsoft Certified,32620.0,2
+Remote Desktop Tools,32620.0,2
+MS SQL Server,32615.78947368421,38
+Vercel,32560.0,5
+NXOS,32542.85714285714,7
+Business Case Development,32500.0,3
+Liquid,32500.0,3
+Antimalware,32500.0,2
+Snyk,32500.0,3
+UKG Pro,32500.0,4
+Cisco IOS CLI,32500.0,2
+Cisco Nexus,32500.0,8
+RabbitMQ,32500.0,10
+Spring,32446.08695652174,69
+Cloud platforms,32420.0,10
+IDS,32380.555555555555,18
+STIG,32283.333333333332,6
+Desktops,32275.0,4
+JNCIE,32257.25,2
+ELB,32242.4,10
+XSLT,32240.0,5
+SMS,32220.0,3
+ObjectOriented Design,32193.2,5
+Azure,32188.341933842235,786
+OLTP,32142.85714285714,7
+Windows OS,32137.316799999997,25
+Database management,32137.191666666666,9
+Netscout,32100.0,3
+AI ML,32078.947368421053,19
+HL7,32050.0,11
+Data Analysis,32009.02918518518,270
+PCIDSS,32000.0,10
+Git/Bitbucket,32000.0,4
+Finance,32000.0,20
+Network monitoring,32000.0,5
+POS,32000.0,5
+Bioinformatics,32000.0,5
+Cisco Unity,32000.0,2
+VOIP,31977.272727272728,11
+SQL Server,31921.31530585106,376
+Market Research,31875.0,4
+Servlets,31875.0,4
+DB2,31822.119565217392,46
+Kandji,31788.13333333333,3
+System administration,31785.25,4
+VMs,31760.0,4
+Network Monitoring,31756.315789473683,19
+Content Management Systems,31750.0,4
+JBoss,31719.14285714286,7
+Azure Data Lakes,31666.666666666668,3
+Risk Assessment,31614.545454545456,22
+CIS,31560.8,25
+Tunneling,31536.0,2
+Front End,31504.0,2
+Project Documentation,31460.46,2
+Cosmos DB,31458.81818181818,11
+ETL,31451.755668789814,157
+Network Implementation,31428.571428571428,7
+ADO,31428.571428571428,7
+Data Manipulation,31428.571428571428,7
+QuickBase,31425.0,2
+Lambda,31415.323863636364,88
+MS Teams,31350.57777777778,9
+Microsoft PowerPoint,31321.906666666666,33
+Aurora MySQL,31280.0,3
+Pipelines,31280.0,3
+Bloomberg,31250.0,6
+NET Core,31240.0,25
+Right Angle,31200.0,2
+Stakeholder Communication,31200.0,3
+Accounting Principles,31200.0,2
+Natural Language Processing (NLP),31180.0,10
+BERT,31111.11111111111,9
+NIST 800171,31111.11111111111,9
+Servers,31075.0,14
+Scrum,31035.59943181818,176
+CRM systems,31000.0,2
+SAN,30971.666666666668,12
+Dataflow,30953.403333333332,6
+Vue JS,30937.5,8
+Star Schema,30932.3,5
+S3,30887.004545454547,110
+Jest,30886.956521739132,46
+ITIL Certification,30833.333333333332,3
+Nmap,30833.333333333332,3
+Visual Studio/Azure DevOps,30833.333333333332,3
+Firebase,30777.777777777777,9
+Palo Alto,30760.58644067797,59
+Cyber security,30745.063333333335,3
+Security policy,30745.063333333335,3
+Database Performance Optimization,30680.0,3
+Microsoft Certified IT Professional (MCITP),30680.0,2
+A Certification,30665.733333333334,6
+React JS,30652.363636363636,22
+Data Modeling,30645.96278409091,88
+Time management,30645.785714285714,7
+Azure Active Directory,30644.444444444445,18
+Cosmos,30625.0,4
+Security Compliance,30625.0,4
+Patch management,30625.0,4
+PCF,30625.0,4
+Cloud Environments,30625.0,4
+MQ,30625.0,4
+Compliance,30617.894736842107,19
+SonarQube,30550.0,20
+Layer 2,30485.714285714286,7
+Incident Response,30439.221153846152,52
+Security Tools,30357.14285714286,7
+Regression,30341.14285714286,14
+GICSP,30320.0,8
+Performance,30313.333333333332,6
+Security,30235.42397260274,146
+Wireless Troubleshooting,30228.78,2
+Scripting Languages,30200.0,5
+Change Management,30192.08064516129,31
+Linear Regression,30162.5,4
+UKG,30150.0,4
+Webpack,30148.387096774193,31
+Rapid7,30135.0,8
+Storage,30089.16,25
+Nagios,30052.63157894737,19
+Data Flows,30040.0,4
+Azure Networking,30029.257142857143,7
+AnyLogic,30026.666666666668,3
+C Net,30000.0,3
+Microsoft Windows Operating Systems,30000.0,2
+Vector Databases,30000.0,6
+TMS,30000.0,2
+SQL server,30000.0,2
+Debian,30000.0,5
+Data Modelling,30000.0,3
+CEH,29935.15625,32
+PHP,29903.9,100
+Backbone,29900.0,4
+Threat Intelligence,29869.090909090908,11
+EHR,29833.333333333332,9
+Big Data,29775.6875,40
+GIT,29662.21886792453,53
+Angular,29656.13650793651,252
+Network Switches,29635.2,3
+Business Intelligence,29609.166666666668,24
+SQL databases,29600.0,5
+Pivot Tables,29600.0,7
+Hardware Support,29575.0,4
+Software Support,29575.0,4
+Kibana,29511.764705882353,17
+npm,29500.0,8
+RESTful web services,29500.0,5
+XML,29487.253012048193,83
+QlikSense,29466.666666666668,3
+Data Loading,29466.666666666668,3
+Qlik Sense,29462.85714285714,7
+Infrastructure,29450.0,11
+Unity,29444.444444444445,9
+TCP,29421.600000000002,9
+Data Mapping,29389.55,10
+SSO,29371.657142857144,28
+SAFe,29335.0,10
+Symfony,29333.333333333332,9
+Remote Desktop,29298.8,4
+Certifications,29250.0,2
+IT Compliance,29250.0,2
+IT,29206.36125,16
+MSBuild,29187.5,4
+Performance testing,29166.666666666668,3
+Desktop Imaging,29166.666666666668,3
+Fortigate,29132.533333333336,6
+Azure Policy,29120.0,5
+Riverbed,29075.0,4
+NetScout,29075.0,4
+Vue,29072.058823529413,34
+Random Forest,29000.0,5
+MacOS,28995.36842105263,19
+LLM,28974.316326530614,49
+Bicep,28971.428571428572,14
+Presentation,28942.85714285714,7
+Power Shell,28935.0,4
+GCS,28930.105,4
+AWS VPC,28863.333333333332,6
+System Integration,28860.0,8
+Data Warehousing,28826.08175925926,54
+Project Management,28811.711741935487,155
+OneDrive,28778.48888888889,9
+Excel,28774.959362549806,251
+Infrastructure as Code,28770.72,25
+NLP,28770.322727272727,121
+ELK stack,28750.0,4
+Blazor,28750.0,6
+ISO/IEC 27001,28750.0,4
+Voice over IP,28750.0,2
+Technical Specifications,28750.0,4
+AWS Networking,28750.0,4
+Freight claims system,28736.0,1
+Freight claims investigation,28736.0,1
+SOP,28736.0,1
+Vmware,28716.666666666668,3
+CTPL,28714.8,2
+Data Integration,28706.568965517243,29
+FISMA,28700.0,10
+PSQL,28666.666666666668,3
+Computer maintenance,28600.0,2
+Putty,28600.0,2
+CCIE,28597.464285714286,14
+CDK,28571.428571428572,7
+Data Security,28529.026315789473,19
+Database Administration,28513.647209302326,43
+CIAM,28500.0,3
+OpenSearch,28500.0,10
+Security policies,28500.0,5
+Cisco IOS,28495.2,25
+VMWare,28475.381132075472,53
+Endpoint Security,28444.444444444445,9
+Ethernet,28442.440000000002,20
+Manufacturing,28400.0,10
+Business Objects,28397.708333333332,12
+Automation,28388.842105263157,57
+ThoughtSpot,28346.666666666668,3
+Citrix XenApp,28333.333333333332,3
+Business Processes,28333.333333333332,3
+Mercurial,28333.333333333332,3
+Remote Desktop Services,28333.333333333332,3
+Cyber Kill Chain,28333.333333333332,3
+Failover Clustering,28333.333333333332,3
+Microsoft Windows Server,28333.333333333332,12
+TCPdump,28333.333333333332,3
+Web services,28284.99166666667,12
+SEO,28246.05,10
+Cisco Catalyst,28205.0,10
+Shell scripting,28197.058823529413,34
+Carbon Black,28180.0,4
+Collaboration,28173.647058823528,34
+EDI,28162.5,8
+Github,28155.497419354837,31
+Security engineering,28125.0,4
+CIS Benchmarks,28125.0,4
+Security assessment,28125.0,4
+Nuxt,28125.0,4
+DHCP,28090.639261363634,88
+ACLs,28044.072727272727,11
+Network Documentation,28000.0,5
+Haystack,28000.0,5
+NIST Cyber Security Framework,28000.0,5
+HTTP/HTTPS,28000.0,5
+Fortinet Firewalls,28000.0,5
+Cisco ASA,27996.776470588236,17
+Microsoft SQL,27970.58823529412,17
+Problem Resolution,27950.0,8
+New Relic,27816.666666666668,15
+Risk management,27796.835454545453,11
+Microsoft Teams,27733.41212121212,33
+Decision Making,27733.333333333332,6
+Veeva,27702.25,4
+VPN,27697.449473684213,95
+Information Security,27691.6,25
+Agile Software Development,27662.125,4
+Microservices architecture,27642.85714285714,7
+JNCIS,27587.5,4
+PowerPoint,27564.953666666668,75
+CWNA,27560.0,2
+CWNP,27560.0,2
+IPS,27551.764705882353,17
+Terminal Services,27500.0,2
+WAN LAN,27500.0,2
+Sigma,27500.0,4
+WebPack,27500.0,4
+Email support,27500.0,2
+PC Hardware Troubleshooting,27500.0,2
+Intrusion Detection/Prevention Systems,27500.0,5
+HTML 5,27480.0,4
+LogicMonitor,27435.0,2
+Analysis,27402.793333333335,18
+Telnet,27397.6,2
+PowerShell,27395.68,300
+Wireless Infrastructure,27392.359999999997,3
+Application Insights,27378.0,4
+Communication Skills,27365.555555555555,27
+MicroStrategy,27334.375,8
+Multicasting,27300.0,2
+SAP BO,27300.0,4
+Maven,27289.285714285714,42
+MITRE ATT CK,27250.0,10
+CI CD Pipeline,27250.0,4
+DOORS,27250.0,4
+Security Frameworks,27250.0,4
+SSIS,27245.864661654134,133
+CrossFunctional Collaboration,27233.333333333332,9
+Istio,27222.222222222223,9
+ETL Tools,27200.0,5
+Data Quality,27197.5625,24
+Financial analysis,27183.125,4
+Lean Six Sigma,27166.666666666668,3
+Network Administration,27137.680800000002,25
+Relational databases,27133.333333333332,15
+eCommerce,27088.0,5
+TLS,27000.0,5
+Problem Solving,26964.49976190476,84
+NIST 80053,26955.555555555555,18
+Database Management,26946.387608695655,23
+Monitoring,26926.470588235294,34
+Microsoft Active Directory,26798.14814814815,27
+Atlassian,26792.30769230769,13
+Systems Engineering,26750.0,8
+MS Office,26748.844444444443,45
+Wireless networking,26734.933333333334,3
+Forensics,26728.88888888889,9
+Data Backup,26703.71277777778,9
+Risk Assessments,26700.0,5
+QoS,26684.59625,32
+CISSP,26674.630434782608,115
+Change Control,26666.666666666668,3
+PLC,26666.666666666668,3
+Word,26661.81906779661,59
+Agile Development,26650.384615384617,26
+Access,26645.45,20
+DNS,26586.325529801325,151
+Apache Airflow,26576.272727272728,11
+Coding,26495.454545454544,11
+F5,26481.81818181818,11
+JIRA,26469.08085669782,321
+Microsoft Power BI,26437.777777777777,9
+Microsoft Office 365,26425.295135135133,37
+Endpoint Detection and Response (EDR),26400.0,3
+Data Transformation,26375.0,8
+Microservices,26349.136094674555,169
+BGP,26313.28948275862,116
+Hasura,26250.0,4
+Freshservice,26250.0,2
+Logstash,26250.0,4
+Quicksight,26250.0,4
+SOLID,26250.0,4
+Oracle,26221.95466549296,284
+PS Query,26215.5,2
+JMP,26200.0,5
+Predictive analytics,26174.833333333332,6
+Windows 10,26145.751219512196,41
+Jenkins,26130.774712643677,348
+Malware analysis,26120.0,5
+Informatica,26111.61935483871,31
+Asset Management,26083.2,10
+JMeter,26070.0,10
+Scripting,26036.98909090909,55
+AWS RDS,26000.0,23
+ISC2,26000.0,4
+MIS,25925.0,4
+BICSI,25854.166666666668,3
+Interpersonal Skills,25854.0,8
+Exploratory Data Analysis,25833.333333333332,3
+RTL,25827.14285714286,7
+SharePoint,25771.51338028169,142
+VTP,25758.333333333332,6
+Risk assessment,25717.28,10
+Veracode,25714.285714285714,7
+Route53,25714.285714285714,7
+macOS,25698.43888888889,36
+AB Testing,25687.5,4
+Database Security,25632.61791666667,24
+Backup,25625.0,4
+PCI DSS,25535.714285714286,14
+WordPress,25527.027027027027,37
+Incident Handling,25500.0,4
+Zabbix,25500.0,10
+JavaScript TypeScript,25500.0,5
+User Training,25440.0,9
+Laravel,25395.68,15
+SSRS,25392.641228813558,118
+Hugging Face,25333.333333333332,9
+Communication,25312.81067567567,148
+Cisco ACI,25311.11111111111,9
+Solarwinds,25252.941176470587,17
+ProblemSolving,25226.836799999997,25
+PCI,25196.81818181818,22
+Unix,25106.761538461542,52
+EIGRP,25098.18181818182,44
+CloudWatch,25059.2,45
+OSPF,25032.172043010753,93
+AD,25003.529411764706,17
+API integrations,25000.0,3
+BigFix,25000.0,3
+SuiteScript,25000.0,4
+Sitecore CMS,25000.0,4
+UI/UX Design,25000.0,6
+RPA,25000.0,7
+Dynamo DB,24960.0,5
+SAP Analytics Cloud,24925.0,4
+CCSP,24923.076923076922,13
+MS Azure,24906.8,5
+WebLogic,24906.8,5
+SSCP,24906.0,10
+VMware vSphere,24883.333333333332,9
+Entra ID,24830.76923076923,13
+Test Plan Development,24809.0,3
+Microsoft Excel,24786.26954954955,111
+Clustering,24776.95238095238,21
+AWS EKS,24740.0,7
+Splunk,24734.537037037036,108
+Mac,24725.157142857144,28
+Data Bricks,24666.666666666668,3
+Cloud Architecture,24625.0,20
+Route 53,24615.571428571428,7
+JCL,24606.646153846155,26
+VMware,24535.833333333332,96
+Windows,24515.876124567472,289
+PowerBI,24509.37401574803,127
+Java 8,24500.0,5
+Windows operating systems,24500.0,5
+Performance Tuning,24498.27462962963,27
+Network Infrastructure,24488.10714285714,14
+CCNA,24458.49955,100
+Email Security,24444.444444444445,9
+ADF,24427.5,10
+GDPR,24390.0,40
+Database Design,24359.08327586207,29
+HSRP,24330.58823529412,17
+Cloud Watch,24320.0,6
+OSI,24285.714285714286,7
+PingFederate,24266.666666666668,3
+Mocha,24225.0,20
+Viva Engage,24200.0,4
+SAAS,24166.666666666668,6
+Bootstrap,24155.733333333334,66
+Processes,24125.0,4
+Mac OS,24070.522857142856,14
+Database backup,24053.40833333333,3
+Recovery,24053.40833333333,3
+Desktop Support,24036.018181818185,11
+HIPAA,24023.200241935483,62
+Functions,24020.028124999997,8
+MUI,24000.0,5
+Load Balancers,24000.0,11
+Cloud security,23917.916666666668,12
+Oracle Enterprise Manager,23840.0,5
+Business Process Reengineering,23817.666666666668,3
+OpenStack,23796.615384615383,13
+Springboot,23796.428571428572,14
+DWDM,23783.666666666668,6
+Project Planning,23767.466666666664,6
+CCNA Security,23760.0,6
+Document Management,23750.0,2
+Collibra DIC,23750.0,2
+Security Solutions,23750.0,2
+Security Auditing,23750.0,4
+Data Taxonomy,23750.0,2
+OKTA,23750.0,6
+DBA,23750.0,6
+DISA,23750.0,4
+NIST,23744.833333333332,75
+Azure SQL Database,23744.333333333332,27
+Data warehousing,23707.528124999997,8
+Chrome,23666.879999999997,5
+Database administration,23645.028124999997,8
+InTune,23635.728888888887,9
+Cloudwatch,23600.0,10
+Keycloak,23583.333333333332,6
+Training,23571.428571428572,14
+Accounting,23541.666666666668,12
+EC2,23534.8,90
+MES,23500.0,4
+PL SQL,23482.472265625,64
+RDBMS,23481.354285714286,35
+RedHat,23462.399999999998,6
+AKS,23447.466666666667,15
+Group Policy,23429.032258064515,31
+ELK,23413.194444444445,18
+Incident Management,23407.24193548387,31
+Trend Analysis,23400.0,4
+Visual Studio Code,23400.0,5
+firewalls,23400.0,6
+Printer Support,23400.0,2
+VPN Configuration,23400.0,2
+PC Troubleshooting,23400.0,2
+Virtualization,23384.209677419356,62
+Azure CLI,23383.333333333332,12
+Adobe Target,23333.333333333332,3
+Data Fusion,23333.333333333332,3
+Azure Administrator Associate,23333.333333333332,3
+Infrastructure Management,23333.333333333332,3
+Dataproc,23333.333333333332,3
+Strategic Planning,23333.333333333332,3
+Cloud Composer,23333.333333333332,3
+SLI,23333.333333333332,3
+Protocols,23333.333333333332,3
+Mimecast,23333.333333333332,6
+Service Now,23260.0,9
+VPC,23218.333333333332,30
+CompTIA Network+,23213.981833333335,30
+Google Suite,23187.5,12
+PC Hardware,23125.0,4
+Windows administration,23125.0,4
+AWS ECS,23125.0,8
+CompTIA Security,23103.674418604653,43
+COBIT,23000.0,5
+KMS,23000.0,5
+Sumo Logic,23000.0,5
+Fargate,23000.0,5
+PostGreSQL,23000.0,5
+Outlook,22950.906451612904,31
+ServiceNow,22918.822424242426,132
+WCAG,22916.666666666668,6
+Wireless,22902.39285714286,14
+Computer Vision,22865.0,77
+Visio,22856.14065934066,91
+Cognos,22850.0,14
+Sketch,22810.666666666668,15
+Selenium,22803.703703703704,27
+Remedy,22794.2,10
+Microsoft Intune,22775.384615384617,13
+AWS CDK,22727.272727272728,11
+Database Performance Tuning,22666.666666666668,6
+SSL,22659.809523809523,21
+Software,22646.667741935482,31
+MS Power BI,22625.625,10
+VoIP,22578.919868421053,38
+ITIL,22546.332000000002,100
+HubSpot,22533.333333333332,3
+iManage,22500.0,4
+Phishing,22500.0,4
+GSuite,22500.0,8
+Ecommerce,22500.0,3
+Vector Database,22500.0,6
+Microsoft Word,22445.710909090907,66
+Active Directory,22437.621602787458,287
+Data Management,22419.32608695652,46
+Power BI,22393.661152542372,295
+ITSM,22383.07894736842,19
+Complex Problem Solving,22360.0,2
+Active Learning,22360.0,2
+IT Security,22340.0,11
+NoSQL databases,22333.333333333332,3
+Metrics Analysis,22333.333333333332,3
+Hypervisor,22333.333333333332,3
+NetFlow,22326.363636363636,11
+Data Extraction,22314.879999999997,10
+Help Desk,22308.18181818182,11
+Data Lineage,22285.714285714286,7
+Serverless Computing,22285.714285714286,7
+Network Management Systems,22226.4,4
+WANs,22222.399999999998,6
+LANs,22222.399999999998,6
+TCP IP,22181.57901595745,188
+Cisco,22168.817620689657,145
+Subnetting,22136.363636363636,11
+Agile Scrum,22131.666666666668,6
+Incident response,22118.540588235293,17
+ROS,22100.0,4
+SOAP APIs,22083.333333333332,3
+CompTIA Cloud+,22054.64,3
+Intrusion Detection Systems,22045.454545454544,11
+Patching,22014.565909090907,11
+Reporting Tools,22000.0,5
+IMS,22000.0,5
+Flows,22000.0,5
+Dimensional Modeling,22000.0,3
+HTTPS,22000.0,5
+Firewalls,21958.94184397163,141
+Documentation,21945.44761904762,42
+UX,21900.0,15
+SageMaker,21875.0,8
+MS Visio,21875.0,8
+CySA,21874.0,15
+Cloud Development,21800.0,5
+FortiGate,21793.333333333332,9
+Adaptability,21793.2,4
+Flexibility,21793.2,4
+Conflict resolution,21793.2,4
+GCIH,21772.0,10
+Azure Synapse,21765.0,20
+Data Governance,21747.910714285714,28
+Arista,21726.0,12
+Routers,21695.60625,48
+MDT,21667.2,2
+Scanners,21667.2,2
+OSX,21667.2,2
+Windows 8,21667.2,2
+Web browsers,21667.2,2
+RingCentral,21666.666666666668,3
+ISP,21666.666666666668,3
+IPsec,21666.666666666668,3
+Web Technologies,21666.666666666668,3
+Artificial Intelligence (AI),21666.666666666668,3
+Wireless LAN,21666.666666666668,3
+Web Programming,21666.666666666668,3
+VSS,21666.666666666668,3
+Kaseya,21666.666666666668,3
+Business Analysis,21653.78714285714,154
+Material UI,21646.399999999998,6
+Net,21604.55818181818,22
+Eclipse,21500.0,5
+VBScript,21500.0,5
+SPA,21500.0,5
+Data analysis tools,21500.0,5
+NIST CSF,21475.0,16
+MCSE,21473.809523809523,21
+Microsoft Office,21470.52013888889,144
+Ant,21428.571428571428,7
+High Availability,21420.0,24
+Network protocols,21406.25,16
+Apex,21400.0,10
+Power Automate,21369.428571428572,35
+CyberArk,21308.0,5
+Autodesk,21268.0,3
+Microsoft Certifications,21250.0,4
+Intrusion Detection,21250.0,8
+Nokia,21250.0,4
+Application security,21218.571428571428,7
+Security Groups,21198.981818181815,11
+Hyperion,21150.0,3
+CRM,21134.375,32
+IT policies,21120.0,3
+VPNs,21088.423977272727,44
+Cyber Security,21050.204545454544,22
+ScikitLearn,21050.0,17
+UPS,21043.0,12
+AWS Sagemaker,21030.649999999998,7
+LAN WAN,21008.0,25
+Data Ingestion,21002.666666666668,3
+VB,21000.0,10
+Pyspark,21000.0,5
+Master Data Management,21000.0,5
+Benchmarking,21000.0,5
+Business Requirements Gathering,20989.8,8
+Functional Requirements,20989.8,8
+NPM,20900.0,12
+English,20870.0,10
+Microsoft Office Suite,20838.343333333334,120
+McAfee,20833.333333333332,3
+Pulse Secure,20800.0,2
+Cloud Solutions,20800.0,5
+Security Administration,20800.0,3
+Google BigQuery,20800.0,6
+IBM DB2,20800.0,5
+Hardware support,20800.0,2
+Salesforce Marketing Cloud,20793.125,4
+WCF,20772.222222222223,9
+Continuous Integration,20754.909090909092,22
+IPSEC,20732.14285714286,14
+Azure Service Fabric,20686.666666666668,6
+Disaster Recovery,20627.0,40
+GSAP,20625.0,4
+Security Incident Response,20600.0,5
+Cloud Storage,20575.0,5
+Infrastructure as Code (IaC),20566.666666666668,9
+Jasmine,20558.823529411766,17
+Performance Analysis,20500.0,5
+Entity Framework,20500.0,20
+QGIS,20474.285714285714,7
+Spring Boot,20446.637931034482,116
+Cisco switches,20416.666666666668,6
+Identity and Access Management IAM,20416.666666666668,6
+Endpoint Detection and Response,20400.0,5
+Access Control,20400.0,5
+Linux Server,20400.0,5
+Database software,20378.75,2
+Routing,20376.969230769228,52
+Facilitation,20372.114285714284,7
+Data engineering,20357.14285714286,7
+Microsoft O365,20357.14285714286,7
+SQL Queries,20354.285714285714,7
+Networking,20334.78481012658,158
+RBAC,20333.333333333332,12
+Microsoft Exchange,20300.0,15
+Data protection,20257.5,4
+UDP,20257.14285714286,14
+Network troubleshooting,20227.272727272728,11
+Juniper,20208.93023255814,43
+Appium,20208.333333333332,6
+Airwatch,20152.52,3
+Hardware,20132.770588235293,34
+Cisco CCNP,20057.14285714286,7
+Communication skills,20032.5,16
+Pen Testing,20000.1,5
+API integration,20000.0,4
+Network Optimization,20000.0,4
+GL,20000.0,3
+Customer Support,20000.0,3
+Data Replication,20000.0,6
+Conditional Access,20000.0,4
+IT Troubleshooting,20000.0,3
+Salesforce com,20000.0,5
+SAP,19992.153846153848,65
+Network,19907.645714285718,70
+Business Analyst,19812.5,16
+Solaris,19791.666666666668,12
+OWASP,19777.777777777777,9
+Software Design,19760.0,5
+Business Analytics,19600.0,6
+Red Hat,19562.5,8
+Data Preprocessing,19545.454545454544,11
+Microsoft Outlook,19531.24606060606,33
+CompTIA,19521.816470588237,17
+Toast,19500.0,2
+Embed,19500.0,2
+Business Process Modeling,19500.0,5
+Aloha,19500.0,2
+Ticketing,19500.0,3
+HyperV,19490.0,40
+CompTIA A,19472.362181818182,55
+Malware Analysis,19465.0,10
+GKE,19458.333333333332,6
+Six Sigma,19444.70588235294,17
+Cisco ISE,19437.5,12
+Server,19390.56,10
+ISO27001,19343.75,10
+ISIS,19327.0,10
+Windows 7,19295.62857142857,7
+GPO,19285.714285714286,7
+HBase,19260.0,5
+Risk Management,19163.428571428572,35
+Wireless Access Points,19066.666666666668,3
+Service Bus,19066.666666666668,6
+UAT,19037.777777777777,9
+Talend,19000.0,5
+Security Policy,19000.0,5
+Database Maintenance,19000.0,5
+A,18961.504615384616,39
+AWS Lambda,18937.5,40
+WAN,18799.401454545452,55
+CCNP,18795.712583333334,60
+Security Technologies,18750.0,4
+Microsoft Defender,18740.222222222223,9
+UiPath,18720.0,5
+Gap Analysis,18720.0,5
+Reports,18720.0,5
+Issue Resolution,18720.0,5
+Workflows,18720.0,5
+Vulnerability Scanning,18666.666666666668,15
+Product Management,18640.41176470588,17
+Reporting,18611.032031249997,32
+Requirements Elicitation,18590.0,8
+FortiManager,18571.428571428572,7
+Palo Alto firewalls,18571.428571428572,7
+Data Visualization Tools,18555.555555555555,9
+SOAP API,18505.20408163265,49
+SPAs,18500.0,5
+PC software,18500.0,5
+GPOs,18487.5,4
+Gitlab,18456.25,16
+RDS,18450.714285714286,84
+Networks,18396.014285714286,14
+Solr,18375.0,8
+Data Architecture,18351.785714285714,14
+Written Communication,18342.36,5
+Office Suite,18333.333333333332,3
+Network Engineering,18333.333333333332,18
+SNOW,18333.333333333332,3
+Regulatory Compliance,18333.333333333332,6
+Sharepoint,18333.333333333332,9
+IP Addressing,18300.0,5
+Yarn,18285.714285714286,7
+jQuery,18265.702702702703,74
+Firewall Configuration,18265.066666666666,3
+Network +,18265.066666666666,3
+Microsoft Windows,18244.444444444445,36
+KSH,18210.0,5
+Network design,18200.0,4
+MTA,18200.0,3
+JAD,18200.0,6
+Exchange,18166.593548387096,31
+Glue,18161.6,15
+Verbal communication,18160.0,5
+Vulnerability management,18109.285714285714,14
+Network security,18076.923076923078,26
+TFS,18061.81818181818,11
+Oracle SQL Developer,18040.056249999998,8
+Tuning,18040.056249999998,4
+Aurora,18021.739130434784,23
+Amplitude,18000.0,5
+Intrusion Prevention,18000.0,5
+Vulnerability Assessment,18000.0,20
+Plotly,17999.666666666668,6
+Business Systems Analysis,17968.0,5
+Shell Scripting,17887.037037037036,27
+Client Support,17875.0,4
+Network monitoring tools,17812.5,8
+Log Analytics,17792.4,10
+Modbus,17792.0,5
+Wireless Networks,17781.120000000003,5
+SQL Server Reporting Services (SSRS),17777.777777777777,9
+Email,17690.48888888889,9
+Windows Server,17687.451612903227,124
+Layer 3,17680.0,5
+SharePoint Online,17636.945454545454,11
+RF,17580.0,4
+Information Assurance,17540.0,5
+RADIUS,17500.0,7
+Azure Service Bus,17500.0,6
+Autopilot,17500.0,4
+Business Acumen,17500.0,6
+Visualization,17500.0,4
+Replication,17500.0,6
+IPAM,17478.333333333332,6
+Cucumber,17472.222222222223,18
+Software Testing,17458.333333333332,12
+Switches,17368.654761904763,42
+JNCIA,17326.0,9
+CrowdStrike,17274.615384615383,13
+Agile Methodologies,17269.23076923077,13
+Azure Functions,17263.923076923078,26
+Shopify,17250.0,9
+Consulting,17240.0,10
+Requirements Gathering,17209.86842105263,38
+Azure Data Lake,17187.5,8
+Mainframe,17187.375,8
+IPSec,17115.384615384617,13
+HP,17083.333333333332,6
+Artifactory,17047.619047619046,21
+Business analysis,17004.0,10
+Cisco Firepower,17000.0,5
+Vulnerability assessment,17000.0,10
+MS SharePoint,16986.666666666668,3
+Microsoft,16942.30769230769,39
+CISM,16917.14285714286,49
+Business Administration,16875.0,4
+Inventory,16875.0,4
+Hubspot,16875.0,8
+Statistical Analysis,16841.035714285714,28
+LAN,16839.0,60
+Proxies,16833.333333333332,6
+User Acceptance Testing,16766.090909090908,11
+AJAX,16717.777777777777,27
+Nexus,16690.0,16
+JD Edwards,16635.0,4
+Confluence,16522.40720720721,111
+Virtual Machines,16513.85714285714,7
+Financial Reporting,16500.0,5
+Microsoft Suite,16500.0,5
+Metadata Management,16467.583333333332,6
+M365,16458.333333333332,12
+GIS,16451.68,15
+Systems Design,16428.571428571428,7
+Windows Server Administration,16428.571428571428,7
+SQS,16286.060606060606,33
+Epic,16282.114285714286,14
+CloudFront,16272.727272727272,11
+Workstations,16250.0,4
+Power Platform,16250.0,8
+Network Devices,16250.0,4
+Amazon RDS,16250.0,8
+Process Improvement,16220.920000000002,20
+Cabling,16168.333333333334,12
+JQuery,16066.666666666666,15
+Microsoft Project,16025.901538461538,13
+Dropbox,16000.0,5
+OIDC,16000.0,10
+KPIs,15959.0,5
+SDWAN,15919.423913043478,46
+Time Management,15892.857142857143,14
+Azure AD,15875.0,32
+GSEC,15840.0,9
+Data Stewardship,15833.333333333334,3
+Application Development,15833.333333333334,12
+Unit testing,15805.555555555555,18
+Switching,15773.782857142854,35
+SFTP,15751.058823529413,17
+Network Security,15733.870967741936,62
+Workday,15691.666666666666,24
+Dynatrace,15669.142857142857,28
+Microsoft 365,15650.082857142857,84
+SolarWinds,15635.0,30
+Antivirus software,15625.0,4
+Ticketing system,15600.0,3
+Presentations,15600.0,6
+JPA,15535.714285714286,14
+SAS,15526.044444444446,81
+Zendesk,15491.09090909091,11
+Fortify,15448.888888888889,9
+PC hardware,15416.666666666666,6
+BitBucket,15416.666666666666,6
+Azure PaaS,15388.444444444445,9
+Panorama,15381.166666666666,6
+Patch Management,15368.421052631578,19
+Spring boot,15312.5,16
+Verbal Communication,15285.300000000001,6
+Office 365,15274.0421686747,83
+Microsoft Certified IT Professional,15250.0,4
+ArcGIS,15232.0,10
+Adobe Analytics,15216.666666666666,6
+Windows 11,15200.615384615385,13
+Babel,15181.818181818182,11
+Root Cause Analysis,15133.333333333334,6
+Written communication,15133.333333333334,6
+ERP,15119.797297297297,37
+ASP.NET Core,15000.0,6
+Cloud Migration,14958.333333333334,12
+ES6,14950.0,8
+Data Migration,14933.3,25
+IIS,14932.432432432432,37
+IP,14851.818181818182,11
+Windows Server 2019,14790.0,5
+COBOL,14779.333333333334,12
+Microsoft Operating Systems,14736.0,3
+PLSQL,14696.42857142857,7
+ChatGPT,14687.5,8
+Information Systems,14685.95,10
+AWS S3,14666.666666666666,15
+GLBA,14571.42857142857,7
+Nessus,14555.555555555555,9
+System Design,14545.454545454546,11
+Maximo,14528.800000000001,6
+Karma,14500.0,5
+Windows 8.1,14444.800000000001,3
+Operating Systems,14443.506666666666,30
+Stored procedures,14432.044999999998,5
+Privacy,14432.044999999998,5
+Cisco Firewalls,14411.42857142857,7
+Monitoring tools,14375.0,8
+Firewall,14345.689999999999,40
+Monitoring Tools,14285.714285714286,7
+Technical Support,14222.875,12
+Command line,14166.666666666666,6
+Java J2EE,14166.666666666666,9
+IT Support,14157.894736842105,19
+MS SQL,14103.448275862069,29
+Test Plans,14088.0,5
+Cybersecurity,14084.09090909091,88
+Technical writing,14040.0,4
+OS Patching,14000.0,5
+Site Reliability Engineering,14000.0,5
+pandas,13950.0,10
+Virtual Private Network (VPN),13866.666666666666,3
+Laptops,13866.666666666666,3
+ASP.Net,13750.0,6
+TailwindCSS,13750.0,6
+User Stories,13620.681481481482,27
+NIST Cybersecurity Framework,13611.111111111111,9
+VLANs,13594.411086956523,23
+Box,13571.42857142857,7
+Database Optimization,13571.42857142857,7
+IT support,13556.0,10
+CRISC,13550.0,10
+Cloud Technologies,13523.076923076924,13
+Performance Optimization,13400.0,5
+Radius,13387.350714285714,7
+Load Balancer,13371.42857142857,7
+API development,13371.42857142857,7
+Virtual Networks,13367.466666666667,6
+Couchbase,13363.636363636364,11
+Network Maintenance,13333.333333333334,6
+AWS SageMaker,13333.333333333334,9
+Oracle RAC,13244.444444444445,9
+Customer Service,13217.699428571428,35
+Sybase,13214.285714285714,7
+Negotiation,13125.0,8
+AIX,13108.0,10
+REST API,13103.28947368421,76
+Azure Dev Ops,13046.666666666666,6
+LESS,12987.84,10
+Synapse,12987.5,10
+Troubleshooting,12941.95806451613,155
+Critical Thinking,12924.70588235294,17
+MVC,12880.0,25
+Analytical Skills,12865.78947368421,19
+Microsoft Access,12828.0,10
+Dell,12812.5,8
+Power Apps,12724.0,20
+Analytical skills,12690.0,5
+PKI,12686.666666666666,15
+WLAN,12678.57142857143,14
+ISPF,12578.800000000001,6
+Meraki,12534.613000000001,35
+Security Management,12500.0,8
+CSV,12500.0,5
+Security Audits,12500.0,6
+Identity Management,12500.0,8
+Requirements Analysis,12488.888888888889,18
+Microsoft SharePoint,12450.0,9
+Net Core,12431.25,8
+Continuous Deployment,12418.90909090909,11
+Wordpress,12390.857142857143,7
+Asana,12350.0,8
+Endpoint Protection,12344.444444444445,9
+Sass,12187.5,8
+Customer service,12170.666666666666,15
+Programming,12125.0,20
+Information Technology,12111.111111111111,9
+Application Support,12100.0,9
+SASS,12069.915789473684,19
+Use Cases,12049.42857142857,14
+ISO 27001,12032.35294117647,34
+GAAP,12000.0,5
+Data Standards,11875.0,4
+DBMS,11875.0,8
+Systems Analysis,11825.222222222223,18
+ARM Templates,11750.0,10
+Requirements Management,11723.636363636364,11
+Apple,11700.0,4
+LangChain,11666.666666666666,12
+Organization,11666.666666666666,6
+Postman,11663.896551724138,29
+Aruba,11659.529411764706,17
+SSMS,11595.949999999999,22
+System Testing,11500.0,10
+GIAC,11500.0,10
+Leadership,11465.155555555555,18
+Liquibase,11422.5,13
+Sentinel,11402.0,6
+Checkpoint,11345.454545454546,11
+Attention to Detail,11210.533333333333,6
+BPM,11168.340833333334,6
+Veeam,11166.666666666666,6
+ConnectWise,11136.363636363636,11
+Wireframing,11071.42857142857,7
+CompTIA Server+,11052.0,4
+ArcGIS Pro,11000.0,5
+Integration testing,10937.5,8
+Groovy,10927.083333333334,24
+SCCM,10895.226666666666,30
+Adobe Experience Manager,10842.0,8
+Oracle EBS,10836.363636363636,11
+Copiers,10833.6,4
+Collibra,10630.0,8
+Windows Servers,10444.444444444445,9
+CISA,10409.375,32
+Core Java,10334.615384615385,26
+Triggers,10308.60357142857,7
+Problem solving,10305.454545454546,11
+Desktop support,10285.714285714286,7
+SpringBoot,10277.777777777777,9
+Classification,10227.6,10
+Applications,10192.0,5
+Oracle Database,10052.5,20
+Microsoft Products,10000.0,7
+EMR,9888.875,20
+IT Service Management,9773.142857142857,7
+Azure Databricks,9772.727272727272,11
+Enzyme,9646.153846153846,13
+Encryption,9556.521739130434,23
+NetApp,9485.0,14
+AppDynamics,9482.758620689656,29
+Authentication,9444.444444444445,9
+CICS,9434.1,8
+RACF,9434.1,8
+IDS/IPS,9246.153846153846,39
+Configuration Management,8782.608695652174,23
+Service Desk,8714.285714285714,7
+RMAN,8514.285714285714,14
+Network Troubleshooting,8445.28,20
+Azure Monitor,8424.0,13
+TOGAF,8351.70588235294,17
+Database design,8320.0,15
+Database Development,8250.0,8
+Responsive Design,8250.0,8
+RMF,8192.307692307691,13
+FedRAMP,7923.076923076923,13
+Fortinet,7579.069767441861,43
+SOC2,7572.115384615385,13
+Visual Studio,7214.285714285715,35
+Network Management,7200.0,13
+Change management,7142.857142857143,7
+Windows 10 11,7061.538461538462,13
+Vite,7031.25,16
+CloudTrail,7020.190476190476,21
+Problemsolving,7014.233333333334,30
+Healthcare,6944.444444444444,18
+Cisco CCNA,6878.571428571428,14
+Penetration testing,6875.833333333333,15
+Cloud Services,6875.0,16
+Microsoft Visio,6867.392857142857,28
+Telecommunications,6767.058823529412,17
+Identity and Access Management,6702.222222222223,9
+Flux,6666.666666666667,9
+Incident management,6200.0,10
+Oracle SQL,6153.846153846154,13
+Payroll,6031.818181818182,11
+Express.js,6000.0,10
+Data Models,5937.5,8
+Cisco Switches,5915.384615384615,13
+Antivirus,5590.217391304348,23
+Teamwork,5295.583333333333,18
+* CG,5000.0,1
+* Visual Basic,5000.0,1
+* XML,5000.0,1
+Azure SQL,4761.9047619047615,21
+PaaS,4597.037037037037,27
+Operating systems,4550.0,12
+Printers,4333.4400000000005,10
+SNS,4259.259259259259,27
+Cisco Routers,4047.3684210526317,19
+Computer Hardware,3768.581818181818,11
+IaaS,2913.0434782608695,23
