@@ -11,4 +11,4 @@ salaries.
 
 - [X] Analysis of skills and salary information: [Data Analysis](4_data_analysis.ipynb)
 
-- [X] [Preprint article](preprint article.pdf)
+- [X] [Preprint article](preprint%20article.pdf)
